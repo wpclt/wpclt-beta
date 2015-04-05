@@ -8,16 +8,16 @@
  */
 ?>
 
-	</div><!-- #content -->
+	</div><!-- main container end -->
+</div><!-- page end -->
+<!-- FOOTER -->
 
-	<footer id="colophon" class="site-footer" role="contentinfo">
-		<div class="site-info">
-			<a href="<?php echo esc_url( __( 'http://wordpress.org/', 'wpclt' ) ); ?>"><?php printf( __( 'Proudly powered by %s', 'wpclt' ), 'WordPress' ); ?></a>
-			<span class="sep"> | </span>
-			<?php printf( __( 'Theme: %1$s by %2$s.', 'wpclt' ), 'wpclt', '<a href="https://github.com/wpclt" rel="designer">WordPress Charlotte</a>' ); ?>
-		</div><!-- .site-info -->
-	</footer><!-- #colophon -->
-</div><!-- #page -->
+<footer>
+	<div class="container_main">
+
+	</div>
+	<div class="clearfix"></div>
+</footer>
 
 <?php wp_footer(); ?>
 
