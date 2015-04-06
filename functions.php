@@ -102,7 +102,7 @@ add_action( 'widgets_init', 'wpclt_widgets_init' );
 function wpclt_scripts() {
 	// bootstrap
 	wp_enqueue_style( 'bootstrap-style', get_template_directory_uri() . '/bootstrap/css/bootstrap.css' );
-	wp_enqueue_script( 'bootstrap', get_template_directory_uri() . '/bootstrap/js/bootstrap.js', array(), '3.3.2', true );
+	wp_enqueue_script( 'bootstrap', get_template_directory_uri() . '/bootstrap/js/bootstrap.js', array('jquery' ), null, true );
 
 	wp_enqueue_style( 'wpclt-style', get_stylesheet_uri() );
 
