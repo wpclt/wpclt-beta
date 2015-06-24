@@ -33,6 +33,26 @@ wpclt is based on Underscores http://underscores.me/, (C) 2012-2015 Automattic, 
 	## Galleries
 --------------------------------------------------------------*/
 
+.redBorder {
+	border: 1px red dashed;
+}
+
+.greenBorder {
+	border: 1px green dashed;
+}
+
+/*--------------------------------------------------------------
+## Menus
+--------------------------------------------------------------*/
+
+.navbar-header {
+	height: 150px !important;
+}
+
+.navbar-brand {
+	padding: 15px 0;
+}
+
 /*--------------------------------------------------------------
 ## Menus
 --------------------------------------------------------------*/
@@ -52,6 +72,7 @@ wpclt is based on Underscores http://underscores.me/, (C) 2012-2015 Automattic, 
 .main-navigation li {
 	float: left;
 	position: relative;
+	padding: 20px 20xp;
 }
 
 .main-navigation a {

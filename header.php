@@ -23,22 +23,22 @@
 		<div class="container">
 			<div id="nav_obriens" class="navbar navbar-default navbar-fixed-top" role="navigation">
 				<div class="container container_main">
-					<div class="navbar-header">
+					<div class="navbar-header greenBorder">
 						<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
 							<span class="sr-only">Toggle navigation</span>
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
 						</button>
-						<a class="navbar-brand" href="/"><?php bloginfo( 'name' ); ?><?php //<img src="<?php //echo get_template_directory_uri(); ? >/images/wpclt-logo.png" alt="" /> ?></a>
-						<h2 class="site-description"><?php bloginfo( 'description' ); ?></h2>
+						<a class="navbar-brand" href="/"><img src="<?php echo get_template_directory_uri(); ?>/images/wordpress-charlotte-logo.png" alt="WordPress Charlotte, NC" /></a>
+						<?php //<h2 class="site-description"><?php bloginfo( 'description' ); ? ></h2> ?>
 					</div>
-					<div class="navbar-collapse collapse">
+					<div class="navbar-collapse collapse redBorder">
 						<?php
 							$menuSettings = array(
 								'theme_location' => 'primary',
 								'menu_id' => 'primary-menu',
-								'menu_class' => 'nav navbar-nav'
+								'menu_class' => 'main-navigation'
 							);
 							wp_nav_menu( $menuSettings );
 						?>
