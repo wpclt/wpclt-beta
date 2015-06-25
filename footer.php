@@ -13,9 +13,7 @@
 <!-- FOOTER -->
 
 <footer>
-	<div class="container_main">
-
-	</div>
+	<div class="container_main"></div>
 	<div class="clearfix"></div>
 </footer>
 
