@@ -14,6 +14,27 @@ function wpclt_customize_register( $wp_customize ) {
 	$wp_customize->get_setting( 'blogname' )->transport         = 'postMessage';
 	$wp_customize->get_setting( 'blogdescription' )->transport  = 'postMessage';
 	$wp_customize->get_setting( 'header_textcolor' )->transport = 'postMessage';
+
+
+    $wp_customize->add_setting(
+        'wpclt_logo',
+        array(
+        'default'     => '',
+        )
+    );
+
+    $wp_customize->add_control(
+        new WP_Customize_Image_Control(
+            $wp_customize,
+            'custom_logo',
+            array(
+               'label'      => esc_html__( 'Your Logo', 'wpclt' ),
+               'section'    => 'title_tagline',
+               'settings'   => 'wpclt_logo',
+               'context'    => 'wpclt-custom-logo'
+            )
+        )
+    );
 }
 add_action( 'customize_register', 'wpclt_customize_register' );
 
