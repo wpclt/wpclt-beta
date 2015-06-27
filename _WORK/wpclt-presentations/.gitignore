@@ -1,9 +1,0 @@
-.idea/
-.sass-cache
-*.map
-tests/wp-tests-config.php
-node_modules
-vendor
-build
-docker/php/ssh-keys/*
-!docker/php/ssh-keys/README.md
