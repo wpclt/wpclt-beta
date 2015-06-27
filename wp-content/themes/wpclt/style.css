@@ -1,0 +1,159 @@
+/*
+Theme Name: WP CLT Beta
+Theme URI: https://github.com/wpclt/wpclt-beta
+Author: Wordpress Charlotte
+Author URI: https://github.com/wpclt
+Description: Description
+Version: 0.1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: wpclt
+Tags:
+
+This theme, like WordPress, is licensed under the GPL.
+
+wpclt is based on Underscores http://underscores.me/, (C) 2012-2015 Automattic, Inc.
+*/
+
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+# Menus
+# Accessibility
+# Alignments
+# Clearings
+# Widgets
+# Content
+    ## Posts and pages
+	## Asides
+	## Comments
+# Infinite scroll
+# Media
+	## Captions
+	## Galleries
+--------------------------------------------------------------*/
+
+.redBorder {
+	border: 1px red dashed;
+}
+
+.greenBorder {
+	border: 1px green dashed;
+}
+
+/*--------------------------------------------------------------
+## Footer
+--------------------------------------------------------------*/
+
+footer {
+	background: blue;
+}
+
+/*--------------------------------------------------------------
+## Menus
+--------------------------------------------------------------*/
+
+#wpadminbar {
+
+}
+
+.navbar-wplogin {
+	margin: 25px 0 0 0;
+	clear:both;
+}
+
+.navbar-wplogin {
+	top: none !important;;
+}
+
+/* boostrap override */
+.nav_wpclt a {
+	color: #a61430 !important;
+	text-decoration: none;
+}
+
+.nav li a {
+	padding: 20px 15px 0 15px !important;
+	height: 60px;
+	font-size: 18px;
+	text-align: center;
+	color: #ffc435 !important;
+	text-shadow: 1px 1px 1px #950b0a;
+}
+
+.nav li a:hover {
+	background: #79abcd; /* Old browsers */
+	background: -moz-linear-gradient(top,  #79abcd 0%, #79abcd 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#79abcd), color-stop(100%,#79abcd)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #79abcd 0%,#79abcd 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #79abcd 0%,#79abcd 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #79abcd 0%,#79abcd 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #79abcd 0%,#79abcd 100%); /* W3C */
+}
+
+.nav li a:hover{
+	background: url('images/nav_bg.png') no-repeat #79abcd !important;
+}
+
+.nav ul {
+	height: 60px;
+}
+
+.nav li
+{
+	height: 60px;
+	vertical-align: middle;
+	background: url('images/nav_bg.png') no-repeat;
+}
+
+.nav .last
+{
+	width: 2px;
+}
+
+.nav .short
+{
+	padding: 20px 20px 0 20px !important;
+}
+
+.navbar-brand {
+	float: left;
+	font-size: 18px;
+	line-height: 20px;
+	padding: 8px 8px 0 0 !important;
+}
+
+.navbar-default .navbar-nav > li > a {
+
+}
+
+.navbar-default .navbar-toggle {
+	border-color: #fff !important;
+}
+
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+	background-color: #fff !important;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+	background: url('images/nav_bg.png') no-repeat #fff !important;
+	color: #ffffff !important;
+	text-shadow: 1px 1px 1px rgba(73, 73, 73, 0.4);
+}
+
+.btn-default {
+	color: #333333;
+	background-color: #ffffff;
+	border-color: #cccccc;
+}
+
+.btn-default:hover,
+.btn-default:focus,
+.btn-default:active,
+.btn-default.active,
+.open .dropdown-toggle.btn-default {
+	color: #fff;
+	background-color: #fff !important;
+	border-color: #fff !important;
+}
