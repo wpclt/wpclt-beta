@@ -1,0 +1,3743 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FirmaSite v1.4.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-10-14 19:03:48+0000\n"
+"Last-Translator: Ünsal Korkmaz <unsalkorkmaz@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: buddypress/activity/entry.php:48
+#@ firmasite
+msgid "View Conversation"
+msgstr ""
+
+#: buddypress/activity/index.php:78
+#: buddypress/groups/single/activity.php:9
+#: buddypress/members/single/activity.php:20
+#@ firmasite
+msgid "&mdash; Everything &mdash;"
+msgstr ""
+
+#: buddypress/groups/create.php:151
+#: buddypress/groups/single/admin.php:132
+#@ firmasite
+msgid "Upload an image to use as a profile photo for this group. The image will be shown on the main group page, and in search results."
+msgstr ""
+
+#: buddypress/groups/create.php:159
+#@ firmasite
+msgid "To skip the group profile photo upload process, hit the \"Next Step\" button."
+msgstr ""
+
+#: buddypress/groups/create.php:166
+#@ firmasite
+msgid "Crop Group Profile Photo"
+msgstr ""
+
+#: buddypress/groups/create.php:168
+#: buddypress/groups/single/admin.php:156
+#@ firmasite
+msgid "Profile photo to crop"
+msgstr ""
+
+#: buddypress/groups/create.php:171
+#: buddypress/groups/single/admin.php:159
+#@ firmasite
+msgid "Profile photo preview"
+msgstr ""
+
+#: buddypress/groups/create.php:248
+#@ firmasite
+msgid "Once you have built up friend connections you will be able to invite others to your group."
+msgstr ""
+
+#: buddypress/groups/single/admin.php:31
+#@ firmasite
+msgid "Notify group members of these changes via email"
+msgstr ""
+
+#: buddypress/groups/single/admin.php:142
+#@ firmasite
+msgid "If you'd like to remove the existing group profile photo but not upload a new one, please use the delete group profile photo button."
+msgstr ""
+
+#: buddypress/groups/single/admin.php:144
+#@ firmasite
+msgid "Delete Group Profile Photo"
+msgstr ""
+
+#: buddypress/groups/single/admin.php:154
+#@ firmasite
+msgid "Crop Profile Photo"
+msgstr ""
+
+#: buddypress/members/activate.php:17
+#, php-format
+#@ firmasite
+msgid "Your account was activated successfully! You can now <a href=\"%s\">log in</a> with the username and password you provided when you signed up."
+msgstr ""
+
+#: buddypress/members/single/notifications/feedback-no-notifications.php:7
+#@ firmasite
+msgid "You have no unread notifications."
+msgstr ""
+
+#: buddypress/members/single/notifications/feedback-no-notifications.php:11
+#@ firmasite
+msgid "This member has no unread notifications."
+msgstr ""
+
+#: buddypress/members/single/notifications/feedback-no-notifications.php:19
+#@ firmasite
+msgid "You have no notifications."
+msgstr ""
+
+#: buddypress/members/single/notifications/feedback-no-notifications.php:23
+#@ firmasite
+msgid "This member has no notifications."
+msgstr ""
+
+#: buddypress/members/single/notifications/notifications-loop.php:6
+#@ firmasite
+msgid "Notification"
+msgstr ""
+
+#: buddypress/members/single/notifications/notifications-loop.php:7
+#@ firmasite
+msgid "Date Received"
+msgstr ""
+
+#: buddypress/members/single/notifications/notifications-loop.php:8
+#@ firmasite
+msgid "Actions"
+msgstr ""
+
+#: buddypress/members/single/profile/change-avatar.php:1
+#@ firmasite
+msgid "Change Profile Photo"
+msgstr ""
+
+#: buddypress/members/single/profile/change-avatar.php:7
+#@ firmasite
+msgid "Your profile photo will be used on your profile and throughout the site. If there is a <a href=\"http://gravatar.com\">Gravatar</a> associated with your account email we will use that, or you can upload an image from your computer."
+msgstr ""
+
+#: buddypress/members/single/profile/change-avatar.php:23
+#@ firmasite
+msgid "If you'd like to delete your current profile photo but not upload a new one, please use the delete profile photo button."
+msgstr ""
+
+#: buddypress/members/single/profile/change-avatar.php:24
+#@ firmasite
+msgid "Delete Profile Photo"
+msgstr ""
+
+#: buddypress/members/single/profile/change-avatar.php:24
+#@ firmasite
+msgid "Delete My Profile Photo"
+msgstr ""
+
+#: buddypress/members/single/profile/change-avatar.php:31
+#@ firmasite
+msgid "Crop Your New Profile Photo"
+msgstr ""
+
+#: buddypress/members/single/profile/change-avatar.php:33
+#@ firmasite
+msgid "Profile Photo to crop"
+msgstr ""
+
+#: buddypress/members/single/profile/change-avatar.php:36
+#@ firmasite
+msgid "Profile Photo preview"
+msgstr ""
+
+#: buddypress/members/single/profile/change-avatar.php:55
+#@ firmasite
+msgid "Your profile photo will be used on your profile and throughout the site. To change your profile photo, please create an account with <a href=\"http://gravatar.com\">Gravatar</a> using the same email address as you used to register with this site."
+msgstr ""
+
+#: buddypress/members/single/settings/notifications.php:6
+#@ firmasite
+msgid "Send an email notice when:"
+msgstr ""
+
+#: buddypress/members/single/settings/profile.php:15
+#@ firmasite
+msgid "Visibility"
+msgstr ""
+
+#: buddypress/members/single/settings/profile.php:42
+#@ firmasite
+msgid "Save Settings"
+msgstr ""
+
+#: functions/buddypress-customs.php:298
+#@ firmasite
+msgid "Oldest"
+msgstr ""
+
+#: functions/buddypress-customs.php:301
+#@ firmasite
+msgid "Group Activity"
+msgstr ""
+
+#: functions/buddypress-functions.php:63
+#@ firmasite
+msgid "FirmaSite"
+msgstr ""
+
+#: functions/buddypress-functions.php:241
+#@ firmasite
+msgid "Are you sure you want to leave this group?"
+msgstr ""
+
+#: functions/buddypress-functions.php:248
+#, php-format
+#@ firmasite
+msgid "Show all %d comments"
+msgstr ""
+
+#: functions/buddypress-functions.php:249
+#@ firmasite
+msgid "Your profile has unsaved changes. If you leave the page, the changes will be lost."
+msgstr ""
+
+#: functions/buddypress-functions.php:727
+#@ firmasite
+msgid "There was a problem posting your update; please try again."
+msgstr ""
+
+#: functions/buddypress-functions.php:1056
+#, php-format
+#@ firmasite
+msgid "%s has previously requested to join this group. Sending an invitation will automatically add the member to the group."
+msgstr ""
+
+#: functions/customizer-call.php:80
+#@ firmasite
+msgid "Darkly"
+msgstr ""
+
+#: functions/customizer-call.php:84
+#@ firmasite
+msgid "Lumen"
+msgstr ""
+
+#: functions/customizer-call.php:85
+#@ firmasite
+msgid "Paper"
+msgstr ""
+
+#: functions/customizer-call.php:87
+#@ firmasite
+msgid "Sandstone"
+msgstr ""
+
+#: functions/customizer-call.php:91
+#@ firmasite
+msgid "Superhero"
+msgstr ""
+
+#: functions/honeypot.php:13
+#: functions/honeypot.php:28
+#: functions/honeypot.php:43
+#: functions/honeypot.php:62
+#@ firmasite
+msgid "You filled out a form field that was created to stop spammers."
+msgstr ""
+
+#: functions/infinite-scroll.php:20
+#@ firmasite
+msgid "Activate Infinite Scroll"
+msgstr ""
+
+#: functions/infinite-scroll.php:26
+#@ firmasite
+msgid "Instead of having to click a link to get to the next set of posts, infinite scrolling pulls the next posts automatically into view when the reader approaches the bottom of the page."
+msgstr ""
+
+#: functions/shortcodes.php:191
+#@ firmasite
+msgid "Gallery Style"
+msgstr ""
+
+#: functions/shortcodes.php:195
+#@ firmasite
+msgid "Grid"
+msgstr ""
+
+#: functions/shortcodes.php:196
+#@ firmasite
+msgid "Tiles"
+msgstr ""
+
+#: functions/shortcodes.php:197
+#@ firmasite
+msgid "Slider"
+msgstr ""
+
+#: buddypress/members/single/groups/invites.php:15
+#, php-format
+#@ firmasite
+msgctxt "Group member count"
+msgid "1 member"
+msgid_plural "%d members"
+msgstr[0] ""
+msgstr[1] ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: buddypress/activity/comment.php:32
+#: buddypress/groups/single/forum/edit.php:10
+#@ firmasite
+msgid "Reply"
+msgid_plural "Replies"
+msgstr[0] ""
+msgstr[1] ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: bbpress/content-single-topic-lead.php:22
+#: bbpress/content-single-topic-lead.php:94
+#: buddypress/forums/forums-loop.php:23
+#@ firmasite
+msgid "Topic"
+msgid_plural "Topics"
+msgstr[0] ""
+msgstr[1] ""
+
+#: bbpress/loop-search-reply.php:64
+#: bbpress/loop-single-reply-threaded.php:74
+#: bbpress/loop-single-reply.php:63
+#: buddypress/activity/entry.php:41
+#@ firmasite
+msgid "Details"
+msgstr ""
+
+#: functions/buddypress-customs.php:110
+#@ firmasite
+msgid "Site"
+msgstr ""
+
+#: functions/customizer.php:160
+#@ firmasite
+msgid "Appearance"
+msgstr ""
+
+#: functions/customizer.php:268
+#: functions/customizer.php:274
+#@ firmasite
+msgid "Vertical List"
+msgstr ""
+
+#: functions/customizer.php:270
+#: functions/customizer.php:278
+#@ firmasite
+msgid "Multi-Column List (Excerpt)"
+msgstr ""
+
+#: functions/fix.php:173
+#, php-format
+#@ firmasite
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: functions/fix.php:178
+#, php-format
+#@ firmasite
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: functions/fix.php:178
+#@ firmasite
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: functions/fix.php:183
+#, php-format
+#@ firmasite
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: functions/fix.php:183
+#@ firmasite
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: functions/fix.php:188
+#, php-format
+#@ firmasite
+msgid "All posts by %s"
+msgstr ""
+
+#: functions/customizer.php:191
+#@ firmasite
+msgid "Header Font"
+msgstr ""
+
+#: functions/customizer.php:198
+#@ firmasite
+msgid "You can optionally use different font in your site's headers."
+msgstr ""
+
+#: functions/fix.php:175
+#: functions/fix.php:180
+#: functions/fix.php:185
+#: functions/fix.php:189
+#: functions/fix.php:195
+#: templates/bbpress.php:12
+#, php-format
+#@ firmasite
+msgid "%s. page"
+msgstr ""
+
+#: functions/customizer.php:102
+#@ firmasite
+msgid "Please decide your preferred <strong>Theme Style</strong> under <strong>Appearance</strong> first. Then you can change small color options here."
+msgstr ""
+
+#: functions/customizer.php:309
+#@ firmasite
+msgid "Main Menu Style"
+msgstr ""
+
+#: functions/customizer.php:330
+#@ firmasite
+msgid "Footer Menu Style"
+msgstr ""
+
+#: functions/promotionbar.php:327
+#@ firmasite
+msgid "In bottom of Sidebar"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:170
+#, php-format
+#@ firmasite
+msgid "There is a new update for %1$s."
+msgid_plural "There are several plugins updates available %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/class-tgm-plugin-activation.php:178
+#@ firmasite
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/class-tgm-plugin-activation.php:1147
+#@ firmasite
+msgid "Not Updated"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1149
+#@ firmasite
+msgid "Active"
+msgstr ""
+
+#: functions/showcase.php:255
+#@ firmasite
+msgid "ShowCase Style"
+msgstr ""
+
+#: functions/showcase.php:260
+#@ firmasite
+msgid "Bigger"
+msgstr ""
+
+#: bbpress/user-subscriptions.php:19
+#@ firmasite
+msgid "Subscribed Forums"
+msgstr ""
+
+#: bbpress/user-subscriptions.php:28
+#@ firmasite
+msgid "You are not currently subscribed to any forums."
+msgstr ""
+
+#: bbpress/user-subscriptions.php:28
+#@ firmasite
+msgid "This user is not currently subscribed to any forums."
+msgstr ""
+
+#: functions/customizer-call.php:93
+#@ firmasite
+msgid "Yeti"
+msgstr ""
+
+#: functions/promotionbar.php:309
+#@ firmasite
+msgid "Remove Promotion Bar"
+msgstr ""
+
+#: bbpress/form-user-edit.php:143
+#@ firmasite
+msgid "If you would like to change the password type a new one. Otherwise leave this blank."
+msgstr "Als je een nieuwe wachtwoord wilt, type deze dan in. Zo niet, Laat dit veld leeg"
+
+#: buddypress/members/register.php:233
+#@ firmasite
+msgid "You have successfully created your account! To begin using this site you will need to activate your account via the email we have just sent to your address."
+msgstr "Je account is succesvol aangemaakt. Je moet alleen nog even je account activeren. Dit kun je doen middels de door ons toegestuurde e-mail."
+
+#: bbpress/form-user-edit.php:146
+#@ firmasite
+msgid "Type your new password again."
+msgstr "Type nogmaals je nieuwe wachtwoord."
+
+#: buddypress/members/register.php:235
+#@ firmasite
+msgid "You have successfully created your account! Please log in using the username and password you have just created."
+msgstr "Je hebt je account succesvol aangemaakt. Log aub in met de gebruikersnaam en wachtwoord die je zo juist ingevuld hebt."
+
+#: bbpress/form-user-edit.php:149
+#@ firmasite
+msgid "Your password should be at least ten characters long. Use upper and lower case letters, numbers, and symbols to make it even stronger."
+msgstr "Je wachtwoord dient uit tenminste 10 karakters te bestaan. Gebruik hoofdletters en kleine letters, cijfers en symbolen voor een sterker wachtwoord."
+
+#: functions/customizer.php:263
+#@ firmasite
+msgid "Loop Style"
+msgstr "Loop stijl"
+
+#: bbpress/form-user-edit.php:160
+#: bbpress/form-user-edit.php:163
+#@ firmasite
+msgid "User Role"
+msgstr "Gebruikersrol"
+
+#: functions/customizer.php:269
+#: functions/customizer.php:276
+#@ firmasite
+msgid "Vertical List (Excerpt)"
+msgstr "Verticale lijst (Excerpt)"
+
+#: bbpress/form-user-edit.php:170
+#@ firmasite
+msgid "Network Role"
+msgstr "Netwerkrol"
+
+#: functions/customizer.php:275
+#@ firmasite
+msgid "Content will list one by one"
+msgstr "Content zal één voor één zichtbaar zijn"
+
+#: bbpress/form-user-edit.php:173
+#@ firmasite
+msgid "Grant this user super admin privileges for the Network."
+msgstr "Geef deze gebruiker super admin rechten voor Netwerk."
+
+#: functions/customizer.php:277
+#@ firmasite
+msgid "Content's excerpt will list one by one"
+msgstr "Content's excerpt zal één voor één zichtbaar zijn"
+
+#: bbpress/form-user-edit.php:190
+#: buddypress/groups/single/admin.php:37
+#: buddypress/groups/single/admin.php:122
+#: buddypress/groups/single/forum/edit.php:58
+#: buddypress/groups/single/forum/edit.php:74
+#: buddypress/members/single/profile/edit.php:72
+#: buddypress/members/single/settings/general.php:25
+#: buddypress/members/single/settings/notifications.php:13
+#@ firmasite
+msgid "Save Changes"
+msgstr "Bewaar veranderingen"
+
+#: functions/customizer.php:279
+#, php-format
+#@ firmasite
+msgid "Content's excerpt will list vertically (%s in each row)"
+msgstr "Content's excerpt zal verticaal getoond worden (%s in elke rij)"
+
+#: bbpress/form-user-edit.php:195
+#@ firmasite
+msgid "Update Profile"
+msgstr "Werk profiel bij"
+
+#: functions/customizer.php:350
+#@ firmasite
+msgid "Dont make menu automatically open when hover"
+msgstr "Het menu zal niet automatisch uitklappen als je er overheen gaat met de muis"
+
+#: bbpress/form-user-edit.php:195
+#@ firmasite
+msgid "Update User"
+msgstr "Werk gebruiker bij"
+
+#: functions/promotionbar.php:325
+#@ firmasite
+msgid "In Site Footer"
+msgstr "In de footer"
+
+#: bbpress/form-user-login.php:14
+#: bbpress/form-user-login.php:35
+#@ firmasite
+msgid "Log In"
+msgstr "Log in"
+
+#: functions/customizer.php:91
+#@ firmasite
+msgid "You can upload logo for your site."
+msgstr "Je kunt je logo uploaden."
+
+#: bbpress/form-user-login.php:22
+#@ firmasite
+msgid "Password"
+msgstr "Wachtwoord"
+
+#: functions/customizer.php:180
+#@ firmasite
+msgid "You can change your site's font"
+msgstr "Je kunt het lettertype van je site aanpassen"
+
+#: bbpress/form-user-login.php:28
+#@ firmasite
+msgid "Keep me signed in"
+msgstr "Hou me ingelogd"
+
+#: functions/customizer.php:219
+#@ firmasite
+msgid "You can change your site's layout."
+msgstr "Je kunt je layout van de site aanpassen"
+
+#: bbpress/form-user-lost-pass.php:14
+#@ firmasite
+msgid "Lost Password"
+msgstr "Wachtwoord vergeten"
+
+#: functions/customizer.php:240
+#@ firmasite
+msgid "You can change your site's style."
+msgstr "Je kunt de stijl van je site aanpassen."
+
+#: bbpress/form-user-lost-pass.php:18
+#@ firmasite
+msgid "Username or Email"
+msgstr "Gebruikersnaam of e-mail"
+
+#: functions/fix.php:259
+#, php-format
+#@ firmasite
+msgid "Page %s"
+msgstr "Pagina %s"
+
+#: bbpress/form-user-lost-pass.php:27
+#@ firmasite
+msgid "Reset My Password"
+msgstr "Verander mijn wachtwoord"
+
+#: bbpress/form-user-register.php:14
+#: buddypress/members/register.php:23
+#@ firmasite
+msgid "Create an Account"
+msgstr "Maak een account"
+
+#: bbpress/form-user-register.php:17
+#@ firmasite
+msgid "Your username must be unique, and cannot be changed later."
+msgstr "Gebruikersnaam moet uniek zijn en kan niet veranderd worden."
+
+#: functions/class-tgm-plugin-activation.php:164
+#: functions/init.php:476
+#@ firmasite
+msgid "Install Required Plugins"
+msgstr "Installeer verplichte plugins"
+
+#: bbpress/form-user-register.php:18
+#@ firmasite
+msgid "We use your email address to email you a secure password and verify your account."
+msgstr "Wij gebruiken je e-mail adres om je een wachtwoord toe te sturen en je account te verifiëren."
+
+#: functions/class-tgm-plugin-activation.php:165
+#: functions/init.php:477
+#@ firmasite
+msgid "Install Plugins"
+msgstr "Installeer plugins"
+
+#: bbpress/form-user-register.php:36
+#@ firmasite
+msgid "Register"
+msgstr "Registreren"
+
+#: functions/class-tgm-plugin-activation.php:166
+#: functions/init.php:478
+#, php-format
+#@ firmasite
+msgid "Installing Plugin: %s"
+msgstr "Installeer plugin: %s"
+
+#: bbpress/form-user-roles.php:2
+#@ firmasite
+msgid "Blog Role"
+msgstr "Blog rol"
+
+#: functions/class-tgm-plugin-activation.php:167
+#@ firmasite
+msgid "Something went wrong."
+msgstr "Er is iets fout gegaan."
+
+#: bbpress/form-user-roles.php:9
+#@ firmasite
+msgid "Forum Role"
+msgstr "Forum rol"
+
+#: functions/class-tgm-plugin-activation.php:168
+#: functions/init.php:480
+#, php-format
+#@ firmasite
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Dit thema heeft de volgende plugin nodig: %1$s."
+msgstr[1] "Dit thema heeft de volgende plugins nodig: %1$s."
+
+#: bbpress/loop-search-forum.php:50
+#: bbpress/loop-single-forum.php:68
+#@ firmasite
+msgid "Topics"
+msgstr "Topics"
+
+#: functions/class-tgm-plugin-activation.php:169
+#: functions/init.php:481
+#, php-format
+#@ firmasite
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Dit thema raadt de volgende plugin aan: %1$s."
+msgstr[1] "Dit thema raadt de volgende plugins aan: %1$s."
+
+#: bbpress/loop-search-forum.php:52
+#: bbpress/loop-search-topic.php:54
+#: bbpress/loop-single-forum.php:70
+#: bbpress/loop-single-topic.php:61
+#@ firmasite
+msgid "Replies"
+msgstr "Antwoorden"
+
+#: functions/class-tgm-plugin-activation.php:171
+#: functions/init.php:482
+#, php-format
+#@ firmasite
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] "Je hebt geen toestemming om de plugin %s  te installeren. Neem contact op met de administrator"
+msgstr[1] "Je hebt geen toestemming om de plugins %s  te installeren. Neem contact op met de administrator"
+
+#: bbpress/loop-single-reply-threaded.php:33
+#: bbpress/loop-single-reply.php:33
+#@ firmasite
+msgid "in reply to: "
+msgstr "als antwoord op: "
+
+#: functions/class-tgm-plugin-activation.php:172
+#: functions/init.php:483
+#, php-format
+#@ firmasite
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "De volgende plugin is momenteel niet actief:  %1$s."
+msgstr[1] "De volgende plugins zijn momenteel niet actief:  %1$s."
+
+#: bbpress/loop-search-topic.php:63
+#: bbpress/loop-single-topic.php:70
+#: buddypress/forums/forums-loop.php:25
+#: functions/bbpress.php:111
+#: functions/bbpress.php:141
+#@ firmasite
+msgid "Freshness"
+msgstr "Laatst gewijzigd"
+
+#: functions/class-tgm-plugin-activation.php:173
+#: functions/init.php:484
+#, php-format
+#@ firmasite
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "De volgende aanbevolen plugin is momenteel niet actief %1$s."
+msgstr[1] "De volgende aanbevolen plugins zijn momenteel niet actief %1$s."
+
+#: bbpress/loop-search-topic.php:58
+#: bbpress/loop-single-topic.php:65
+#, php-format
+#@ firmasite
+msgid "Started by: %1$s"
+msgstr "Gestart door: %1$s"
+
+#: functions/class-tgm-plugin-activation.php:174
+#: functions/init.php:485
+#, php-format
+#@ firmasite
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] "Je hebt niet de juiste rechten om de plugin  %s te activeren. Neem contact op met de administrator"
+msgstr[1] "Je hebt niet de juiste rechten om de plugins  %s te activeren. Neem contact op met de administrator"
+
+#: bbpress/loop-search-topic.php:83
+#: bbpress/loop-single-topic.php:90
+#, php-format
+#@ firmasite
+msgid "in: <a href=\"%1$s\">%2$s</a>"
+msgstr "in: <a href=\"%1$s\">%2$s</a>"
+
+#: functions/class-tgm-plugin-activation.php:175
+#: functions/init.php:486
+#, php-format
+#@ firmasite
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "De volgende plugin moet bijgewerkt worden om goed te kunnen werken bij dit thema:  %1$s."
+msgstr[1] "De volgende plugins moeten bijgewerkt worden om goed te kunnen werken bij dit thema:  %1$s."
+
+#: bbpress/user-details.php:28
+#: buddypress/members/single/profile/profile-wp.php:8
+#, php-format
+#@ firmasite
+msgid "%s's Profile"
+msgstr "%s's Profiel"
+
+#: functions/class-tgm-plugin-activation.php:176
+#: functions/init.php:487
+#, php-format
+#@ firmasite
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] "Je hebt niet de juiste rechten om de plugin %s bij te werken. Neem contact op met de administrator"
+msgstr[1] "Je hebt niet de juiste rechten om de plugins %s bij te werken. Neem contact op met de administrator"
+
+#: bbpress/user-details.php:28
+#: bbpress/user-profile.php:15
+#@ firmasite
+msgid "Profile"
+msgstr "Profiel"
+
+#: functions/class-tgm-plugin-activation.php:177
+#: functions/init.php:488
+#@ firmasite
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Begin met de installatie van de plugin"
+msgstr[1] "Begin met de installatie van de plugins"
+
+#: bbpress/user-details.php:32
+#, php-format
+#@ firmasite
+msgid "%s's Topics Started"
+msgstr "%s's Topics gestart"
+
+#: functions/class-tgm-plugin-activation.php:179
+#: functions/init.php:489
+#@ firmasite
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] "Activeer geïnstalleerde plugin"
+msgstr[1] "Activeer geïnstalleerde plugins"
+
+#: bbpress/user-details.php:32
+#@ firmasite
+msgid "Topics Started"
+msgstr "Topics gestart"
+
+#: functions/class-tgm-plugin-activation.php:180
+#: functions/class-tgm-plugin-activation.php:510
+#: functions/init.php:490
+#@ firmasite
+msgid "Return to Required Plugins Installer"
+msgstr "Keer terug naar de verplichte plugin installer"
+
+#: bbpress/user-details.php:36
+#, php-format
+#@ firmasite
+msgid "%s's Replies Created"
+msgstr "%s's antwoorden gegeven"
+
+#: functions/class-tgm-plugin-activation.php:181
+#: functions/class-tgm-plugin-activation.php:1908
+#: functions/init.php:491
+#@ firmasite
+msgid "Plugin activated successfully."
+msgstr "PLugin succesvol geactiveerd"
+
+#: bbpress/user-details.php:36
+#@ firmasite
+msgid "Replies Created"
+msgstr "Antwoorden gegeven"
+
+#: functions/class-tgm-plugin-activation.php:182
+#, php-format
+#@ firmasite
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Alle plugins zijn succesvol geïnstalleerd en geactiveerd. %1$s"
+
+#: bbpress/user-details.php:41
+#, php-format
+#@ firmasite
+msgid "%s's Favorites"
+msgstr "%s's Favorieten"
+
+#: functions/class-tgm-plugin-activation.php:537
+#: functions/class-tgm-plugin-activation.php:2120
+#@ firmasite
+msgid "Return to the Dashboard"
+msgstr "Terug naar Dashboard"
+
+#: bbpress/user-details.php:41
+#@ firmasite
+msgid "Favorites"
+msgstr "Favorieten"
+
+#: functions/class-tgm-plugin-activation.php:565
+#, php-format
+#@ firmasite
+msgid "The following plugin was activated successfully: %s."
+msgstr "De volgende plugin is succesvol geactiveerd:  %s."
+
+#: bbpress/user-details.php:49
+#, php-format
+#@ firmasite
+msgid "%s's Subscriptions"
+msgstr "%s's inschrijvingen"
+
+#: functions/class-tgm-plugin-activation.php:738
+#@ firmasite
+msgid "Dismiss this notice"
+msgstr "Negeer de opmerking"
+
+#: bbpress/user-details.php:49
+#@ firmasite
+msgid "Subscriptions"
+msgstr "inschrijvingen"
+
+#: functions/class-tgm-plugin-activation.php:1125
+#@ firmasite
+msgid "External Link"
+msgstr "Externe link"
+
+#: bbpress/user-favorites.php:15
+#@ firmasite
+msgid "Favorite Forum Topics"
+msgstr "Favoriete  forum topics"
+
+#: functions/class-tgm-plugin-activation.php:1130
+#@ firmasite
+msgid "Private Repository"
+msgstr "Prive opslagplaats"
+
+#: bbpress/user-favorites.php:28
+#@ firmasite
+msgid "You currently have no favorite topics."
+msgstr "Je hebt momenteel geen favorieten."
+
+#: functions/class-tgm-plugin-activation.php:1133
+#@ firmasite
+msgid "Pre-Packaged"
+msgstr "Pre-Packaged"
+
+#: bbpress/user-favorites.php:28
+#@ firmasite
+msgid "This user has no favorite topics."
+msgstr "Deze gebruiker heeft geen favorieten."
+
+#: functions/class-tgm-plugin-activation.php:1137
+#@ firmasite
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: bbpress/user-profile.php:24
+#, php-format
+#@ firmasite
+msgid "Forum Role: %s"
+msgstr "Forum rol: %s"
+
+#: functions/class-tgm-plugin-activation.php:1140
+#@ firmasite
+msgid "Required"
+msgstr "Verplicht"
+
+#: bbpress/user-profile.php:25
+#, php-format
+#@ firmasite
+msgid "Topics Started: %s"
+msgstr "Topics gestart: %s"
+
+#: functions/class-tgm-plugin-activation.php:1140
+#@ firmasite
+msgid "Recommended"
+msgstr "Aanbevolen"
+
+#: bbpress/user-profile.php:26
+#, php-format
+#@ firmasite
+msgid "Replies Created: %s"
+msgstr "Antwoorden gegeven: %s"
+
+#: functions/class-tgm-plugin-activation.php:1143
+#@ firmasite
+msgid "Not Installed"
+msgstr "Niet geïnstalleerd"
+
+#: bbpress/user-replies-created.php:15
+#@ firmasite
+msgid "Forum Replies Created"
+msgstr "Forum antwoorden gegeven"
+
+#: functions/class-tgm-plugin-activation.php:1145
+#@ firmasite
+msgid "Installed But Not Activated"
+msgstr "Geïnstalleerd maar niet geactiveerd"
+
+#: bbpress/user-replies-created.php:28
+#@ firmasite
+msgid "You have not replied to any topics."
+msgstr "Je hebt op geen topic geantwoord."
+
+#: functions/class-tgm-plugin-activation.php:1343
+#, php-format
+#@ firmasite
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr "Geen plugin om te installeren of activeren. <a href=\"%1$s\" title=\"Keer terug naar Dashboard\">Keer terug naar Dashboard</a>"
+
+#: bbpress/user-replies-created.php:28
+#@ firmasite
+msgid "This user has not replied to any topics."
+msgstr "Deze gebruiker heeft op geen enkel topic geantwoord."
+
+#: functions/class-tgm-plugin-activation.php:1359
+#@ firmasite
+msgid "Plugin"
+msgstr "Plugin"
+
+#: bbpress/user-subscriptions.php:34
+#@ firmasite
+msgid "Subscribed Forum Topics"
+msgstr "Ingeschreven forum topics"
+
+#: functions/class-tgm-plugin-activation.php:1360
+#@ firmasite
+msgid "Source"
+msgstr "Bron"
+
+#: bbpress/user-subscriptions.php:47
+#@ firmasite
+msgid "You are not currently subscribed to any topics."
+msgstr "Je bent niet ingeschreven op topics."
+
+#: functions/class-tgm-plugin-activation.php:1361
+#@ firmasite
+msgid "Type"
+msgstr "Type"
+
+#: bbpress/user-subscriptions.php:47
+#@ firmasite
+msgid "This user is not currently subscribed to any topics."
+msgstr "Deze gebruikers is niet ingeschreven op topics."
+
+#: functions/class-tgm-plugin-activation.php:1362
+#@ firmasite
+msgid "Status"
+msgstr "Satus"
+
+#: bbpress/user-topics-created.php:15
+#@ firmasite
+msgid "Forum Topics Started"
+msgstr "Forum topics gestart"
+
+#: functions/class-tgm-plugin-activation.php:1380
+#@ firmasite
+msgid "Install"
+msgstr "Installeer"
+
+#: bbpress/user-topics-created.php:28
+#@ firmasite
+msgid "You have not created any topics."
+msgstr "Je hebt geen topics aangemaakt."
+
+#: functions/class-tgm-plugin-activation.php:1606
+#@ firmasite
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "De volgende plugin is succesvol geactiveerd:"
+msgstr[1] "De volgende plugins zijn succesvol geactiveerd:"
+
+#: bbpress/user-topics-created.php:28
+#@ firmasite
+msgid "This user has not created any topics."
+msgstr "Deze gebruiker heeft geen topics aangemaakt."
+
+#: functions/class-tgm-plugin-activation.php:1891
+#@ firmasite
+msgid "Install package not available."
+msgstr "Installatie package niet beschikbaar"
+
+#: buddypress/blogs/blogs-loop.php:78
+#@ firmasite
+msgid "Sorry, there were no sites found."
+msgstr "Sorry, er zijn geen sites gevonden."
+
+#: functions/class-tgm-plugin-activation.php:1892
+#, php-format
+#@ firmasite
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "Downloaden installatie package van <span class=\"code\">%s</span>&#8230;"
+
+#: functions/class-tgm-plugin-activation.php:1893
+#@ firmasite
+msgid "Unpacking the package&#8230;"
+msgstr "Uitpakken van package&#8230;"
+
+#: functions/class-tgm-plugin-activation.php:1894
+#@ firmasite
+msgid "Installing the plugin&#8230;"
+msgstr "Installeren van plugin&#8230;"
+
+#: buddypress/blogs/create.php:14
+#@ firmasite
+msgid "Site registration is currently disabled"
+msgstr "Registratie voor de site is momenteel uitgeschakeld"
+
+#: functions/class-tgm-plugin-activation.php:1895
+#@ firmasite
+msgid "Plugin install failed."
+msgstr "Plugin installatie mislukt"
+
+#: buddypress/blogs/index.php:17
+#, php-format
+#@ firmasite
+msgid "All Sites <span>%s</span>"
+msgstr "Alle Sites <span>%s</span>"
+
+#: functions/class-tgm-plugin-activation.php:1896
+#@ firmasite
+msgid "Plugin installed successfully."
+msgstr "Plugin succesvol geïnstalleerd"
+
+#: buddypress/blogs/index.php:21
+#, php-format
+#@ firmasite
+msgid "My Sites <span>%s</span>"
+msgstr "Mijn Sites <span>%s</span>"
+
+#: functions/class-tgm-plugin-activation.php:1907
+#@ firmasite
+msgid "Plugin activation failed."
+msgstr "Plugin activatie mislukt"
+
+#: buddypress/blogs/index.php:37
+#: buddypress/forums/index.php:43
+#: buddypress/groups/index.php:37
+#: buddypress/groups/single/forum.php:36
+#: buddypress/members/index.php:36
+#: buddypress/members/single/blogs.php:19
+#: buddypress/members/single/forums.php:18
+#: buddypress/members/single/friends.php:20
+#: buddypress/members/single/groups.php:20
+#: functions/buddypress-customs.php:295
+#@ firmasite
+msgid "Order By:"
+msgstr "Sorteren op:"
+
+#: functions/class-tgm-plugin-activation.php:2017
+#@ firmasite
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "De installatie en activatieprocedure is gestart. Dit kan even duren."
+
+#: buddypress/blogs/index.php:39
+#: buddypress/forums/index.php:45
+#: buddypress/groups/index.php:40
+#: buddypress/groups/single/forum.php:38
+#: buddypress/members/index.php:38
+#: buddypress/members/single/blogs.php:21
+#: buddypress/members/single/forums.php:20
+#: buddypress/members/single/friends.php:22
+#: buddypress/members/single/groups.php:22
+#@ firmasite
+msgid "Last Active"
+msgstr "Laatst actief"
+
+#: functions/class-tgm-plugin-activation.php:2018
+#, php-format
+#@ firmasite
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s succesvol geïnstalleerd en geactiveerd"
+
+#: buddypress/blogs/index.php:40
+#: buddypress/members/single/blogs.php:22
+#: functions/buddypress-customs.php:297
+#@ firmasite
+msgid "Newest"
+msgstr "Nieuwste"
+
+#: functions/class-tgm-plugin-activation.php:2018
+#: functions/class-tgm-plugin-activation.php:2027
+#@ firmasite
+msgid "Show Details"
+msgstr "Toon details"
+
+#: buddypress/blogs/index.php:41
+#: buddypress/groups/index.php:43
+#: buddypress/members/index.php:42
+#: buddypress/members/single/blogs.php:23
+#: buddypress/members/single/friends.php:24
+#: buddypress/members/single/groups.php:25
+#: functions/buddypress-customs.php:304
+#@ firmasite
+msgid "Alphabetical"
+msgstr "Alfabetisch"
+
+#: functions/class-tgm-plugin-activation.php:2018
+#: functions/class-tgm-plugin-activation.php:2027
+#@ firmasite
+msgid "Hide Details"
+msgstr "Verberg details"
+
+#: templates/footer.php:52
+#@ firmasite
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: functions/class-tgm-plugin-activation.php:2019
+#@ firmasite
+msgid "All installations and activations have been completed."
+msgstr "Alle installaties en activaties zijn klaar"
+
+#: templates/footer.php:52
+#, php-format
+#@ firmasite
+msgid "Proudly powered by %s"
+msgstr "Met trots gemaakt door %s"
+
+#: functions/class-tgm-plugin-activation.php:2020
+#, php-format
+#@ firmasite
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installeren en activeren Plugin %1$s (%2$d/%3$d)"
+
+#. translators: "started by [poster] in [forum]
+#: buddypress/forums/forums-loop.php:45
+#, php-format
+#@ firmasite
+msgid "Started by %1$s"
+msgstr "Gestart door %1$s"
+
+#: functions/class-tgm-plugin-activation.php:2024
+#@ firmasite
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "De installatieprocedure is gestart. Dit kan even duren."
+
+#. translators: "started by [poster] in [forum]
+#: buddypress/forums/forums-loop.php:56
+#, php-format
+#@ firmasite
+msgid "in %1$s"
+msgstr "in %1$s"
+
+#: functions/class-tgm-plugin-activation.php:2025
+#, php-format
+#@ firmasite
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Er is een fout opgetreden tijdens de installatie van %1$s: <strong>%2$s</strong>."
+
+#: buddypress/forums/forums-loop.php:106
+#@ firmasite
+msgid "Sorry, there were no forum topics found."
+msgstr "Sorry, er zijn geen topics gevonden."
+
+#: functions/class-tgm-plugin-activation.php:2026
+#, php-format
+#@ firmasite
+msgid "The installation of %1$s failed."
+msgstr "De installatie van %1$s is mislukt"
+
+#: functions/class-tgm-plugin-activation.php:2027
+#, php-format
+#@ firmasite
+msgid "%1$s installed successfully."
+msgstr "%1$s is succesvol geïnstalleerd "
+
+#: buddypress/groups/single/forum.php:19
+#@ firmasite
+msgid "New Topic"
+msgstr "Nieuw topic"
+
+#: functions/class-tgm-plugin-activation.php:2028
+#@ firmasite
+msgid "All installations have been completed."
+msgstr "Alle installaties zijn klaar"
+
+#: buddypress/forums/index.php:23
+#, php-format
+#@ firmasite
+msgid "All Topics <span>%s</span>"
+msgstr "Alle Topics <span>%s</span>"
+
+#: functions/class-tgm-plugin-activation.php:2029
+#, php-format
+#@ firmasite
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installeren Plugin %1$s (%2$d/%3$d)"
+
+#: buddypress/forums/index.php:27
+#, php-format
+#@ firmasite
+msgid "My Topics <span>%s</span>"
+msgstr "Mijn Topics <span>%s</span>"
+
+#: functions/customizer-call.php:82
+#@ firmasite
+msgid "Flatly"
+msgstr "Flatly"
+
+#: buddypress/forums/index.php:46
+#: buddypress/groups/single/forum.php:39
+#: buddypress/members/single/forums.php:21
+#@ firmasite
+msgid "Most Posts"
+msgstr "Meeste berichten"
+
+#: functions/customizer.php:114
+#@ firmasite
+msgid "Site Title Color"
+msgstr "Kleur site titel"
+
+#: buddypress/forums/index.php:47
+#: buddypress/groups/single/forum.php:40
+#: buddypress/members/single/forums.php:22
+#@ firmasite
+msgid "Unreplied"
+msgstr "Onbeantwoord"
+
+#: functions/customizer.php:128
+#@ firmasite
+msgid "If you are not using logo, you can change your site title's color from this option."
+msgstr "Als je geen logo gebruikt, kun je hier de kleur van de titel van je site aanpassen."
+
+#: functions/promotionbar.php:319
+#@ firmasite
+msgid "Which location do you want to show Promotion Bar?"
+msgstr "Welke locatie wil je de promotie bar tonen?"
+
+#: buddypress/forums/index.php:83
+#@ firmasite
+msgid "Create New Topic:"
+msgstr "Maak nieuw topic"
+
+#: functions/customizer.php:138
+#@ firmasite
+msgid "Category / Tag Color"
+msgstr "Categorie / Kernwoord kleur"
+
+#: functions/promotionbar.php:324
+#@ firmasite
+msgid "Before Content"
+msgstr "Voor content"
+
+#: buddypress/forums/index.php:87
+#: buddypress/groups/single/forum/edit.php:47
+#: buddypress/groups/single/forum.php:75
+#@ firmasite
+msgid "Title:"
+msgstr "Titel:"
+
+#: functions/customizer.php:152
+#@ firmasite
+msgid "You can change your categories and taxonomies color from this option."
+msgstr "Je kunt de kleuren van je categorie en taxonomie hier aanpassen"
+
+#: functions/promotionbar.php:326
+#@ firmasite
+msgid "In top of Sidebar"
+msgstr "Bovenaan in de sitebar"
+
+#: buddypress/forums/index.php:90
+#: buddypress/groups/single/forum/edit.php:50
+#: buddypress/groups/single/forum.php:78
+#@ firmasite
+msgid "Content:"
+msgstr "Bericht:"
+
+#: functions/init.php:479
+#@ firmasite
+msgid "Something went wrong with the plugin API."
+msgstr "Er iets iets fout gegaan met de plugin API"
+
+#: functions/shortcodes.php:84
+#, php-format
+#@ firmasite
+msgid "This gallery contains %1$s photo."
+msgid_plural "This gallery contains %1$s photos."
+msgstr[0] "Deze galerij bevat  %1$s foto"
+msgstr[1] "Deze galerij bevat  %1$s foto's"
+
+#: buddypress/forums/index.php:93
+#: buddypress/groups/single/forum/edit.php:53
+#: buddypress/groups/single/forum.php:81
+#@ firmasite
+msgid "Tags (comma separated):"
+msgstr "Kernwoorden (komma gescheiden):"
+
+#: functions/init.php:492
+#, php-format
+#@ firmasite
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Alle plugins zijn succesvol geïnstalleerd en geactiveerd %s"
+
+#: functions/showcase.php:284
+#@ firmasite
+msgid "For example:"
+msgstr "Bijvoorbeeld:"
+
+#: buddypress/forums/index.php:96
+#@ firmasite
+msgid "Post In Group Forum:"
+msgstr "Bericht in groep forum"
+
+#: functions/customizer.php:315
+#: functions/customizer.php:336
+#@ firmasite
+msgid "Alternative"
+msgstr "Alternatief"
+
+#: functions/showcase.php:285
+#@ firmasite
+msgid "Click for more details"
+msgstr "Klik voor meer details"
+
+#. translators: no option picked in select box
+#: buddypress/forums/index.php:99
+#@ firmasite
+msgid "----"
+msgstr "---"
+
+#: functions/customizer.php:316
+#: functions/customizer.php:337
+#@ firmasite
+msgid "Simple"
+msgstr "Simpel"
+
+#: templates/bbpress.php:23
+#: templates/post/loop_excerpt/loop-gallery.php:22
+#: templates/post/loop_excerpt/loop-image.php:27
+#: templates/post/loop_excerpt/loop.php:31
+#: templates/post/loop_list/loop-aside.php:20
+#: templates/post/loop_list/loop-audio.php:20
+#: templates/post/loop_list/loop-chat.php:20
+#: templates/post/loop_list/loop-gallery.php:22
+#: templates/post/loop_list/loop-image.php:27
+#: templates/post/loop_list/loop-link.php:28
+#: templates/post/loop_list/loop-quote.php:20
+#: templates/post/loop_list/loop-status.php:20
+#: templates/post/loop_list/loop.php:25
+#: templates/post/loop_tile/loop.php:28
+#: templates/post/promotionbar/loop.php:21
+#: templates/post/single.php:23
+#: templates/single-page.php:26
+#: templates/single_full-page.php:27
+#@ firmasite
+msgid "Permalink"
+msgstr "Permalink"
+
+#: buddypress/forums/index.php:116
+#: buddypress/groups/single/forum.php:87
+#@ firmasite
+msgid "Post Topic"
+msgstr "Plaats topic"
+
+#: functions/customizer.php:320
+#: functions/customizer.php:341
+#@ firmasite
+msgid "If you are using menus, you can change menu style with this option"
+msgstr "Als je menu's gebruikt, kun je hier de stijl veranderen."
+
+#: functions/customizer.php:291
+#@ firmasite
+msgid "Make fixed. No responsive"
+msgstr "Maak vast, niet responsive"
+
+#: buddypress/activity/entry.php:122
+#: buddypress/forums/index.php:117
+#@ firmasite
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: bbpress/feedback-no-search.php:13
+#@ firmasite
+msgid "Oh bother! No search results were found here!"
+msgstr "Ojhee, er zijn geen zoekresultaten!"
+
+#: functions/showcase.php:304
+#@ firmasite
+msgid "ShowCase is displaying in your home page only."
+msgstr "Showcase wordt alleen op je homepagina getoond."
+
+#: buddypress/forums/index.php:128
+#, php-format
+#@ firmasite
+msgid "You are not a member of any groups so you don't have any group forums you can post in. To start posting, first find a group that matches the topic subject you'd like to start. If this group does not exist, why not <a href='%s'>create a new group</a>? Once you have joined or created the group you can post your topic in that group's forum."
+msgstr "Je bent geen lid van een groep, dus er zijn geen groep fora waar je een bericht in kunt plaatsen. Om te beginnen met posten, zoek dan eerst een groep. Als deze groep niet bestaat, waarom <a href='%s'>maak je dan geen nieuwe groep</a>?  Als je eenmaal bij een groep zit of je een groep aan hebt gemaakt, dan kun je een topic maken in die groep."
+
+#: bbpress/form-reply-move.php:24
+#, php-format
+#@ firmasite
+msgid "Move reply \"%s\""
+msgstr "Verplaats antwoord \"%s\""
+
+#: templates/footer.php:55
+#@ firmasite
+msgid "Theme:"
+msgstr "Thema:"
+
+#: functions/bbpress.php:113
+#@ firmasite
+msgid "No Replies"
+msgstr "Geen antwoorden"
+
+#: bbpress/form-reply-move.php:29
+#@ firmasite
+msgid "You can either make this reply a new topic with a new title, or merge it into an existing topic."
+msgstr "Je kunt van dit antwoord een nieuw topic maken of samenvoegen met een bestaand topic."
+
+#: buddypress/activity/activity-loop.php:20
+#@ firmasite
+msgid "Load More"
+msgstr "Laad meer"
+
+#: functions/bbpress.php:143
+#@ firmasite
+msgid "No Topics"
+msgstr "Geen topics"
+
+#: bbpress/form-reply-move.php:33
+#@ firmasite
+msgid "If you choose an existing topic, replies will be ordered by the time and date they were created."
+msgstr "Als je een bestaand topic kiest, dan zal deze gesorteerd worden  op de aanmaakdatum."
+
+#: buddypress/activity/activity-loop.php:34
+#@ firmasite
+msgid "Sorry, there was no activity found. Please try a different filter."
+msgstr "Er zijn geen activiteiten gevonden. Probeer een ander filter."
+
+#: functions/buddypress-functions.php:243
+#@ firmasite
+msgid "My Favorites"
+msgstr "Mijn favorieten"
+
+#: bbpress/form-reply-move.php:37
+#@ firmasite
+msgid "Move Method"
+msgstr "Verplaats methode"
+
+#. translators: 1: user profile link, 2: user name, 3: activity permalink, 4: activity timestamp
+#: buddypress/activity/comment.php:24
+#, php-format
+#@ firmasite
+msgid "<a href=\"%1$s\">%2$s</a> replied <a href=\"%3$s\" class=\"activity-time-since\"><span class=\"time-since\">%4$s</span></a>"
+msgstr "<a href=\"%1$s\">%2$s</a> antwoordde <a href=\"%3$s\" class=\"activity-time-since\"><span class=\"time-since\">%4$s</span></a>"
+
+#: functions/buddypress-functions.php:238
+#@ firmasite
+msgid "Accepted"
+msgstr "Geaccepteerd"
+
+#: bbpress/form-reply-move.php:42
+#, php-format
+#@ firmasite
+msgid "Moved: %s"
+msgstr "Verplaatst: %s"
+
+#: bbpress/form-topic-tag.php:88
+#: bbpress/form-topic-tag.php:101
+#: buddypress/activity/comment.php:38
+#: buddypress/members/single/messages/messages-loop.php:52
+#: buddypress/members/single/messages/single.php:25
+#@ firmasite
+msgid "Delete"
+msgstr "Verwijder"
+
+#: functions/buddypress-functions.php:244
+#@ firmasite
+msgid "Rejected"
+msgstr "Afgewezen"
+
+#: bbpress/form-reply-move.php:86
+#@ firmasite
+msgid "You do not have the permissions to edit this reply!"
+msgstr "Je hebt geen toestemming om dit bericht te bewerken!"
+
+#: bbpress/loop-search-reply.php:43
+#@ firmasite
+msgid "In reply to: "
+msgstr "Als antwoord op: "
+
+#: functions/buddypress-functions.php:247
+#@ firmasite
+msgid "Show all comments for this thread"
+msgstr "Toon alle opmerkingen bij dit bericht"
+
+#: bbpress/form-reply-move.php:86
+#@ firmasite
+msgid "You cannot edit this reply."
+msgstr "Je kunt dit antwoord niet bewerken."
+
+#: functions/buddypress-functions.php:246
+#@ firmasite
+msgid "Show all"
+msgstr "Toon alles"
+
+#: bbpress/form-search.php:12
+#: bbpress/form-search.php:15
+#@ firmasite
+msgid "Search for:"
+msgstr "Zoek naar:"
+
+#: functions/buddypress-functions.php:250
+#@ firmasite
+msgid "View"
+msgstr "Toon"
+
+#: functions/buddypress-functions.php:240
+#@ firmasite
+msgid "comments"
+msgstr "opmerkingen"
+
+#: bbpress/form-search.php:17
+#@ firmasite
+msgid "Search"
+msgstr "Zoek"
+
+#: buddypress/activity/entry.php:56
+#, php-format
+#@ firmasite
+msgid "Comment <span>%s</span>"
+msgstr "Commentaar <span>%s</span>"
+
+#: buddypress/members/register.php:110
+#: buddypress/members/single/profile/edit.php:47
+#: functions/buddypress-customs.php:238
+#: functions/buddypress-functions.php:239
+#: templates/post/gallery/gallery_grid.php:30
+#: templates/post/gallery/gallery_slider.php:45
+#: templates/post/gallery/gallery_tile.php:36
+#@ firmasite
+msgid "Close"
+msgstr "Sluiten"
+
+#: bbpress/form-topic.php:130
+#@ firmasite
+msgid "(No Forum)"
+msgstr "(Geen forum)"
+
+#: buddypress/activity/entry.php:64
+#@ firmasite
+msgid "Mark as Favorite"
+msgstr "Maak favoriet"
+
+#: bbpress/form-topic.php:158
+#@ firmasite
+msgid "Topic Status:"
+msgstr "Status topic:"
+
+#: buddypress/activity/entry.php:64
+#: functions/buddypress-functions.php:242
+#: functions/buddypress-functions.php:946
+#: functions/buddypress-functions.php:963
+#@ firmasite
+msgid "Favorite"
+msgstr "Favoriet"
+
+#: bbpress/loop-search-topic.php:32
+#@ firmasite
+msgid "in group forum "
+msgstr "in groep forum "
+
+#: buddypress/activity/entry.php:68
+#: functions/buddypress-functions.php:245
+#: functions/buddypress-functions.php:944
+#: functions/buddypress-functions.php:965
+#@ firmasite
+msgid "Remove Favorite"
+msgstr "Verwijder favoriet"
+
+#: buddypress/groups/create.php:30
+#: buddypress/groups/single/admin.php:16
+#@ firmasite
+msgid "Group Name (required)"
+msgstr "Groep naam (verplicht)"
+
+#: bbpress/loop-search-topic.php:36
+#@ firmasite
+msgid "in forum "
+msgstr "in forum "
+
+#: buddypress/activity/entry.php:122
+#@ firmasite
+msgid "Post"
+msgstr "Plaats"
+
+#: buddypress/groups/create.php:35
+#: buddypress/groups/single/admin.php:19
+#@ firmasite
+msgid "Group Description (required)"
+msgstr "Groep beschrijving (verplicht)"
+
+#: bbpress/user-details.php:54
+#, php-format
+#@ firmasite
+msgid "Edit %s's Profile"
+msgstr "Bewerk %s's Profiel"
+
+#: buddypress/groups/create.php:57
+#: buddypress/groups/single/admin.php:61
+#@ firmasite
+msgid "Privacy Options"
+msgstr "Privacy opties"
+
+#: functions/customizer.php:356
+#@ firmasite
+msgid "You can disable dropdown menus automatically open when you hover.<br /> <span class=\"label label-warning\"><i class=\"icon-exclamation-sign\"></i> Be careful:</span> Parent menu item will only work for opening dropdown menu and won't work like a link"
+msgstr "Je kunt de automatische dropdown van het menu uitzettenr.<br /> <span class=\"label label-warning\"><i class=\"icon-exclamation-sign\"></i> Pas op:</span> Het hoofd van de menu item zal alleen werken voor het openen van de dropdown en zal niet als link werken"
+
+#: buddypress/groups/create.php:60
+#: buddypress/groups/single/admin.php:66
+#@ firmasite
+msgid "This is a public group"
+msgstr "Dit is een publieke groep"
+
+#: header.php:34
+#@ firmasite
+msgid "Skip to content"
+msgstr "Ga naar inhoud"
+
+#: buddypress/activity/index.php:20
+#@ firmasite
+msgid "The public activity for everyone on this site."
+msgstr "Publieke activiteit voor iedereen op deze website"
+
+#: buddypress/groups/create.php:62
+#: buddypress/groups/single/admin.php:68
+#@ firmasite
+msgid "Any site member can join this group."
+msgstr "Elke gebruiker kan lid worden van deze groep"
+
+#: searchform.php:7
+#@ firmasite
+msgctxt "label"
+msgid "Search for:"
+msgstr "Zoek naar:"
+
+#: buddypress/activity/index.php:20
+#: buddypress/members/index.php:20
+#, php-format
+#@ firmasite
+msgid "All Members <span>%s</span>"
+msgstr "Alle leden <span>%s</span>"
+
+#: buddypress/groups/create.php:63
+#: buddypress/groups/create.php:74
+#: buddypress/groups/single/admin.php:69
+#: buddypress/groups/single/admin.php:79
+#@ firmasite
+msgid "This group will be listed in the groups directory and in search results."
+msgstr "deze groep zal weergegeven worden in de groep directory en de zoekresultaten"
+
+#: searchform.php:10
+#@ firmasite
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Zoek &hellip;"
+
+#: buddypress/activity/index.php:30
+#@ firmasite
+msgid "The activity of my friends only."
+msgstr "Alleen de activiteiten van mijn vrienden"
+
+#: buddypress/groups/create.php:64
+#: buddypress/groups/single/admin.php:70
+#@ firmasite
+msgid "Group content and activity will be visible to any site member."
+msgstr "Berichten en activiteiten van deze groep zullen zichtbaar zijn voor elke gebruiker"
+
+#: searchform.php:12
+#@ firmasite
+msgctxt "submit button"
+msgid "Search"
+msgstr "Zoek"
+
+#: buddypress/activity/index.php:30
+#: buddypress/members/index.php:23
+#, php-format
+#@ firmasite
+msgid "My Friends <span>%s</span>"
+msgstr "Mijn vrienden <span>%s</span>"
+
+#: buddypress/groups/create.php:70
+#: buddypress/groups/single/admin.php:76
+#@ firmasite
+msgid "This is a private group"
+msgstr "Dit is een private groep"
+
+#: buddypress/activity/index.php:60
+#, php-format
+#@ firmasite
+msgctxt "Number of new activity mentions"
+msgid "%s new"
+msgid_plural "%s new"
+msgstr[0] "%s nieuw"
+msgstr[1] "%s nieuw"
+
+#: buddypress/activity/index.php:42
+#@ firmasite
+msgid "The activity of groups I am a member of."
+msgstr "De activiteiten van groepen waar ik lid van ben"
+
+#: buddypress/groups/create.php:73
+#: buddypress/groups/single/admin.php:78
+#@ firmasite
+msgid "Only users who request membership and are accepted can join the group."
+msgstr "Alleen gebruikers die lidmaatschap hebben aangevraagd en geaccepteerd zijn kunnen bij deze groep"
+
+#: buddypress/activity/index.php:42
+#: buddypress/groups/index.php:23
+#, php-format
+#@ firmasite
+msgid "My Groups <span>%s</span>"
+msgstr "Mijn groepen <span>%s</span>"
+
+#: buddypress/groups/create.php:75
+#: buddypress/groups/create.php:86
+#: buddypress/groups/single/admin.php:80
+#: buddypress/groups/single/admin.php:90
+#@ firmasite
+msgid "Group content and activity will only be visible to members of the group."
+msgstr "Berichten en activiteiten van de groep zullen alleen zichtbaar zijn voor leden van deze groep"
+
+#: buddypress/groups/single/home.php:18
+#: buddypress/members/single/home.php:16
+#: templates/footer.php:15
+#: templates/footer.php:34
+#: templates/header.php:39
+#: templates/header.php:57
+#@ firmasite
+msgid "Toggle navigation"
+msgstr "Schakel navigatie"
+
+#: buddypress/activity/index.php:52
+#@ firmasite
+msgid "The activity I've marked as a favorite."
+msgstr "Activiteit die ik als favoriet gemarkeerd heb"
+
+#: buddypress/groups/create.php:81
+#: buddypress/groups/single/admin.php:86
+#@ firmasite
+msgid "This is a hidden group"
+msgstr "Dit is een verborgen groep"
+
+#: buddypress/activity/index.php:52
+#, php-format
+#@ firmasite
+msgid "My Favorites <span>%s</span>"
+msgstr "Mijn favorieten <span>%s</span>"
+
+#: buddypress/groups/create.php:84
+#: buddypress/groups/single/admin.php:88
+#@ firmasite
+msgid "Only users who are invited can join the group."
+msgstr "Alleen gebruikers die een uitnodiging hebben gehad kunnen lid worden van deze groep"
+
+#: buddypress/activity/index.php:60
+#@ firmasite
+msgid "Activity that I have been mentioned in."
+msgstr "Activiteiten waar ik in genoemd ben."
+
+#: buddypress/groups/create.php:85
+#: buddypress/groups/single/admin.php:89
+#@ firmasite
+msgid "This group will not be listed in the groups directory or search results."
+msgstr "Deze groep zal niet weergegeven worden in de groep directory of zoekresultaten"
+
+#: buddypress/activity/index.php:60
+#@ firmasite
+msgid "Mentions"
+msgstr "Vermeldingen"
+
+#: buddypress/groups/create.php:91
+#: buddypress/groups/single/admin.php:97
+#@ firmasite
+msgid "Group Invitations"
+msgstr "Groep uitnodigingen"
+
+#: buddypress/groups/create.php:93
+#: buddypress/groups/single/admin.php:99
+#@ firmasite
+msgid "Which members of this group are allowed to invite others?"
+msgstr "Welke leden mogen anderen uitnodigen?"
+
+#: buddypress/groups/create.php:98
+#: buddypress/groups/single/admin.php:104
+#@ firmasite
+msgid "All group members"
+msgstr "Alle groepsleden"
+
+#: buddypress/activity/index.php:76
+#: buddypress/groups/single/activity.php:7
+#: buddypress/members/single/activity.php:18
+#@ firmasite
+msgid "Show:"
+msgstr "Toon:"
+
+#: buddypress/groups/create.php:103
+#: buddypress/groups/single/admin.php:109
+#@ firmasite
+msgid "Group admins and mods only"
+msgstr "Alleen de groep admins en mods"
+
+#: buddypress/groups/create.php:108
+#: buddypress/groups/single/admin.php:114
+#@ firmasite
+msgid "Group admins only"
+msgstr "Alleen de groep admins"
+
+#: buddypress/groups/create.php:114
+#@ firmasite
+msgid "Group Forums"
+msgstr "Groep fora"
+
+#: bbpress/loop-search-forum.php:52
+#: bbpress/loop-search-topic.php:54
+#: bbpress/loop-single-forum.php:70
+#: bbpress/loop-single-topic.php:61
+#: buddypress/forums/forums-loop.php:24
+#: functions/buddypress-customs.php:123
+#@ firmasite
+msgid "Posts"
+msgstr "Berichten"
+
+#: buddypress/groups/create.php:118
+#@ firmasite
+msgid "Should this group have a forum?"
+msgstr "Moet deze groep een forum hebben?"
+
+#: buddypress/groups/create.php:121
+#: buddypress/groups/single/admin.php:52
+#@ firmasite
+msgid "Enable discussion forum"
+msgstr "Zet discussie forum aan"
+
+#: functions/template-tags.php:85
+#: functions/template-tags.php:102
+#@ firmasite
+msgid "<span class=\"edit-link\"><span class=\"icon-edit\"></span> Edit</span>"
+msgstr "<span class=\"edit-link\"><span class=\"icon-edit\"></span> Bewerk</span>"
+
+#: buddypress/groups/create.php:125
+#, php-format
+#@ firmasite
+msgid "<strong>Attention Site Admin:</strong> Group forums require the <a href=\"%s\">correct setup and configuration</a> of a bbPress installation."
+msgstr "<strong>Attentie Site Admin:</strong> Groep fora hebben de <a href=\"%s\">correcte setup en configuratie</a> nodig van een bbPress installatie."
+
+#: buddypress/groups/create.php:155
+#: buddypress/groups/single/admin.php:136
+#: buddypress/members/single/profile/change-avatar.php:18
+#@ firmasite
+msgid "Upload Image"
+msgstr "Upload afbeelding"
+
+#: functions/init.php:8
+#@ firmasite
+msgid "Free responsive WordPress theme with Buddypress and bbPress supports. Have 4 different layout: content-sidebar,sidebar-content, full content (long), full content(short). 13 different theme styles, Google Fonts, logo upload abilities. Unique 2 feature builtin: Promotion Bar and ShowCase. All options are using WordPress Theme Customizer feature so you can watch changes live! Designers: This theme built on Twitter Bootstrap, have 0 custom css code and using template_part system so you can easily use it as parent theme! You can find detailed information, showcase, live demo, tips and tricks about theme in: http://theme.firmasite.com/"
+msgstr "Gratis responsieve WordPress thema met Buddypress en BBPress support. Heeft 4 verschillende layouts: content-sidebar, sidebar-content, volledige content(lang), volledige content(korte). 13 verschillende thema stijlen, Google Fonts, logo upload capaciteiten. 2 unieke functies ingebouwd: de Promotie Bar en Showcase. Alle opties worden met behulp van WordPress Theme Customizer gebruikt, zodat u live kunt kijken naar veranderingen!  Designers: Dit thema gebouwd met Twitter Bootstrap, hebt 0 aangepaste css-code en maakt gebruik van template_part systeem, zodat u het gemakkelijk als hoofdthema kunt gebruiken! U kunt gedetailleerde informatie, showcase, live demo, tips en trucs over het thema vindt u in: http://theme.firmasite.com/"
+
+#: buddypress/activity/post-form.php:35
+#, php-format
+#@ firmasite
+msgid "What's new in %s, %s?"
+msgstr "Wat is er nieuw in %s, %s?"
+
+#: buddypress/activity/post-form.php:37
+#, php-format
+#@ firmasite
+msgid "What's new, %s?"
+msgstr "Wat is er nieuw, %s?"
+
+#: buddypress/activity/post-form.php:72
+#@ firmasite
+msgid "Post Update"
+msgstr "Plaats update"
+
+#: buddypress/groups/create.php:174
+#: buddypress/groups/single/admin.php:162
+#: buddypress/members/single/profile/change-avatar.php:39
+#@ firmasite
+msgid "Crop Image"
+msgstr "Snij de afbeelding bij"
+
+#: buddypress/activity/post-form.php:45
+#@ firmasite
+msgid "Post in"
+msgstr "Plaats in"
+
+#: buddypress/groups/create.php:213
+#: buddypress/groups/single/invites-loop.php:65
+#@ firmasite
+msgid "Select people to invite from your friends list."
+msgstr "Selecteer mensen om uit te nodigen van je vriendschapslijst"
+
+#: buddypress/activity/post-form.php:48
+#: buddypress/members/single/profile/profile-wp.php:8
+#@ firmasite
+msgid "My Profile"
+msgstr "Mijn profiel"
+
+#: functions/buddypress-functions.php:712
+#@ firmasite
+msgid "Please enter some content to post."
+msgstr "Voer een bericht in om te plaatsen."
+
+#: buddypress/groups/create.php:270
+#@ firmasite
+msgid "Back to Previous Step"
+msgstr "Terug naar vorige stap"
+
+#: buddypress/groups/create.php:277
+#@ firmasite
+msgid "Next Step"
+msgstr "Volgende stap"
+
+#: functions/buddypress-functions.php:773
+#@ firmasite
+msgid "Please do not leave the comment area blank."
+msgstr "Laat het reactieveld niet leeg."
+
+#: buddypress/groups/create.php:284
+#@ firmasite
+msgid "Create Group and Continue"
+msgstr "Maak de groep en ga door"
+
+#: functions/buddypress-functions.php:776
+#: functions/buddypress-functions.php:785
+#@ firmasite
+msgid "There was an error posting that reply, please try again."
+msgstr "Er heeft zich een probleem voorgedaan bij het plaatsen van het antwoord. Probeer het opnieuw"
+
+#: buddypress/groups/create.php:291
+#@ firmasite
+msgid "Finish"
+msgstr "Klaar"
+
+#: functions/buddypress-functions.php:846
+#: functions/buddypress-functions.php:882
+#@ firmasite
+msgid "There was a problem when deleting. Please try again."
+msgstr "Er heeft zich een probleem voorgedaan bij het verwijderen. Probeer het opnieuw"
+
+#: buddypress/groups/groups-loop.php:44
+#: buddypress/groups/single/group-header.php:43
+#, php-format
+#@ firmasite
+msgid "active %s"
+msgstr "actief %s"
+
+#: buddypress/groups/create.php:231
+#: buddypress/groups/single/invites-loop.php:36
+#: functions/buddypress-functions.php:1052
+#@ firmasite
+msgid "Remove Invite"
+msgstr "Verwijder uitnodiging"
+
+#: buddypress/groups/groups-loop.php:81
+#@ firmasite
+msgid "There were no groups found."
+msgstr "Er zijn geen groepen gevonden"
+
+#: functions/buddypress-functions.php:1101
+#@ firmasite
+msgid "Friendship could not be canceled."
+msgstr "Vriendschap kon niet geannuleerd worden."
+
+#: buddypress/groups/index.php:20
+#, php-format
+#@ firmasite
+msgid "All Groups <span>%s</span>"
+msgstr "Alle Groepen <span>%s</span>"
+
+#: functions/buddypress-functions.php:1103
+#: functions/buddypress-functions.php:1121
+#@ firmasite
+msgid "Add Friend"
+msgstr "Voeg vriend toe."
+
+#: buddypress/groups/index.php:41
+#: buddypress/members/single/groups.php:23
+#@ firmasite
+msgid "Most Members"
+msgstr "Meeste leden"
+
+#: functions/buddypress-functions.php:1111
+#@ firmasite
+msgid " Friendship could not be requested."
+msgstr "Vriendschap kon niet ingediend worden."
+
+#: buddypress/groups/index.php:42
+#: buddypress/members/single/groups.php:24
+#@ firmasite
+msgid "Newly Created"
+msgstr "Nieuwst aangemaakt"
+
+#: functions/buddypress-functions.php:1113
+#@ firmasite
+msgid "Cancel Friendship Request"
+msgstr "Annuleer vriendschapsverzoek."
+
+#: functions/buddypress-functions.php:1123
+#@ firmasite
+msgid "Friendship request could not be cancelled."
+msgstr "Vriendschapsverzoek kon niet worden geannuleerd.."
+
+#: buddypress/members/register.php:199
+#@ firmasite
+msgid "Yes"
+msgstr "Ja"
+
+#: functions/buddypress-functions.php:1128
+#@ firmasite
+msgid "Request Pending"
+msgstr "Verzoek wacht"
+
+#: buddypress/members/register.php:200
+#@ firmasite
+msgid "No"
+msgstr "Nee"
+
+#: functions/buddypress-functions.php:1148
+#@ firmasite
+msgid "There was a problem accepting that request. Please try again."
+msgstr "Er heeft zich een probleem voorgedaan bij het aanvaarden van het verzoek. Probeer het opnieuw"
+
+#: functions/buddypress-functions.php:1167
+#@ firmasite
+msgid "There was a problem rejecting that request. Please try again."
+msgstr "Er heeft zich een probleem voorgedaan bij het afwijzen van het verzoek. Probeer het opnieuw"
+
+#: functions/buddypress-functions.php:1197
+#@ firmasite
+msgid "Error joining group"
+msgstr "Fout bij toetreden tot groep"
+
+#: functions/buddypress-functions.php:1199
+#: functions/buddypress-functions.php:1212
+#@ firmasite
+msgid "Leave Group"
+msgstr "Verlaat groep"
+
+#: buddypress/groups/single/admin.php:182
+#@ firmasite
+msgid "Administrators"
+msgstr "Administrators"
+
+#: functions/buddypress-functions.php:1210
+#: functions/buddypress-functions.php:1220
+#@ firmasite
+msgid "Error requesting membership"
+msgstr "Fout aanvragen lidmaatschap"
+
+#: buddypress/groups/single/admin.php:190
+#: buddypress/groups/single/admin.php:217
+#, php-format
+#@ firmasite
+msgid "Profile picture of %s"
+msgstr "Profielfoto van %s"
+
+#: functions/buddypress-functions.php:1222
+#@ firmasite
+msgid "Membership Requested"
+msgstr "Lidmaatschap aangevraagd"
+
+#: buddypress/groups/single/admin.php:195
+#: buddypress/groups/single/admin.php:222
+#@ firmasite
+msgid "Demote to Member"
+msgstr "Degradeer tot Lid"
+
+#: functions/buddypress-functions.php:1231
+#@ firmasite
+msgid "Error leaving group"
+msgstr "Fout verlaten groep"
+
+#: buddypress/groups/single/admin.php:210
+#@ firmasite
+msgid "Moderators"
+msgstr "Moderators"
+
+#: functions/buddypress-functions.php:1233
+#@ firmasite
+msgid "Join Group"
+msgstr "Toetreden Groep"
+
+#: buddypress/groups/single/admin.php:221
+#: buddypress/groups/single/admin.php:278
+#@ firmasite
+msgid "Promote to Admin"
+msgstr "Promoveer tot admin"
+
+#: functions/buddypress-functions.php:1235
+#@ firmasite
+msgid "Request Membership"
+msgstr "Vraag lidmaatschap aan."
+
+#: buddypress/groups/single/admin.php:236
+#@ firmasite
+msgid "Members"
+msgstr "Gebruikers"
+
+#: functions/buddypress-functions.php:1254
+#@ firmasite
+msgid "There was a problem closing the notice."
+msgstr "Er heeft zich een probleem voorgedaan bij het sluiten van het bericht."
+
+#: buddypress/groups/single/admin.php:266
+#@ firmasite
+msgid "(banned)"
+msgstr "Gebanned"
+
+#: functions/buddypress-functions.php:1300
+#, php-format
+#@ firmasite
+msgid "Sent %s"
+msgstr "Verstuur %s"
+
+#: buddypress/groups/single/admin.php:272
+#@ firmasite
+msgid "Unban this member"
+msgstr "Unban dit lid"
+
+#: functions/buddypress-functions.php:1317
+#@ firmasite
+msgid "There was a problem sending that reply. Please try again."
+msgstr "Er heeft zich een probleem voorgedaan bij het versturen van het antwoord. Probeer het opnieuw"
+
+#: buddypress/groups/single/admin.php:272
+#@ firmasite
+msgid "Remove Ban"
+msgstr "Verwijder ban"
+
+#: functions/buddypress-functions.php:1335
+#@ firmasite
+msgid "There was a problem marking messages as unread."
+msgstr "Er heeft zich een probleem voorgedaan bij het markeren als ongelezen."
+
+#: buddypress/groups/single/admin.php:276
+#@ firmasite
+msgid "Kick and ban this member"
+msgstr "Verwijder en ban dit lid"
+
+#: functions/buddypress-functions.php:1360
+#@ firmasite
+msgid "There was a problem marking messages as read."
+msgstr "Er heeft zich een probleem voorgedaan bij het markeren als gelezen."
+
+#: buddypress/groups/single/admin.php:276
+#@ firmasite
+msgid "Kick &amp; Ban"
+msgstr "Kick &amp; Ban"
+
+#: functions/buddypress-functions.php:1385
+#@ firmasite
+msgid "There was a problem deleting messages."
+msgstr "Er heeft zich een probleem voorgedaan bij het verwijderen van de berichten."
+
+#: buddypress/groups/single/admin.php:277
+#@ firmasite
+msgid "Promote to Mod"
+msgstr "Promoveer tot mod"
+
+#: functions/buddypress-functions.php:1391
+#@ firmasite
+msgid "Messages deleted."
+msgstr "Berichten verwijderd"
+
+#: buddypress/groups/single/admin.php:282
+#@ firmasite
+msgid "Remove this member"
+msgstr "Verwijder dit lid"
+
+#: bbpress/content-single-topic-lead.php:18
+#: bbpress/content-single-topic-lead.php:90
+#@ firmasite
+msgid "Creator"
+msgstr "Maker"
+
+#: buddypress/groups/single/admin.php:282
+#@ firmasite
+msgid "Remove from group"
+msgstr "Verwijder uit de groep"
+
+#: bbpress/feedback-logged-in.php:13
+#@ firmasite
+msgid "You are already logged in."
+msgstr "Je bent al ingelogd."
+
+#: buddypress/groups/single/admin.php:297
+#: buddypress/groups/single/members.php:65
+#@ firmasite
+msgid "This group has no members."
+msgstr "Deze groep heeft geen leden"
+
+#: bbpress/feedback-no-access.php:13
+#@ firmasite
+msgid "Private"
+msgstr "Privé"
+
+#: buddypress/groups/single/requests-loop.php:16
+#: buddypress/members/single/friends/requests.php:22
+#: buddypress/members/single/groups/invites.php:24
+#@ firmasite
+msgid "Accept"
+msgstr "Accepteren"
+
+#: bbpress/feedback-no-access.php:16
+#@ firmasite
+msgid "You do not have permission to view this forum."
+msgstr "Je hebt geen rechten om dit forum te bekijken."
+
+#: buddypress/groups/single/requests-loop.php:18
+#: buddypress/members/single/friends/requests.php:23
+#: buddypress/members/single/groups/invites.php:25
+#@ firmasite
+msgid "Reject"
+msgstr "Afwijzen"
+
+#: bbpress/feedback-no-forums.php:13
+#@ firmasite
+msgid "Oh bother! No forums were found here!"
+msgstr "Ohjee, er zijn geen fora gevonden!"
+
+#: buddypress/groups/single/requests-loop.php:48
+#@ firmasite
+msgid "There are no pending membership requests."
+msgstr "Er zijn geen wachtende lidmaatschapsverzoeken"
+
+#: bbpress/feedback-no-replies.php:13
+#@ firmasite
+msgid "Oh bother! No replies were found here!"
+msgstr "Ohjee, er zijn geen antwoorden gevonden!"
+
+#: buddypress/groups/single/admin.php:331
+#@ firmasite
+msgid "WARNING: Deleting this group will completely remove ALL content associated with it. There is no way back, please be careful with this option."
+msgstr "LET OP: Bij het verwijderen van deze groep zal ook alle content verwijderd worden. Er is geen weg terug. Wees dus voorzichtig"
+
+#: bbpress/feedback-no-topics.php:13
+#@ firmasite
+msgid "Oh bother! No topics were found here!"
+msgstr "Ohjee, er zijn geen topics gevonden!"
+
+#: buddypress/groups/single/admin.php:334
+#@ firmasite
+msgid "I understand the consequences of deleting this group."
+msgstr "Ik begrijp de gevolgen van het verwijderen van deze groep"
+
+#: bbpress/form-anonymous.php:19
+#@ firmasite
+msgid "Author Information"
+msgstr "Informatie auteur"
+
+#: buddypress/groups/single/admin.php:339
+#@ firmasite
+msgid "Delete Group"
+msgstr "Verwijder groep"
+
+#: bbpress/form-anonymous.php:19
+#@ firmasite
+msgid "Your information:"
+msgstr "Jouw informatie:"
+
+#: buddypress/groups/single/forum/edit.php:16
+#: buddypress/groups/single/forum/topic.php:17
+#: buddypress/groups/single/forum.php:27
+#@ firmasite
+msgid "Forum Directory"
+msgstr "Forum Directory"
+
+#: bbpress/form-anonymous.php:26
+#@ firmasite
+msgid "Name (required):"
+msgstr "Naam (verplicht):"
+
+#: buddypress/groups/single/forum/edit.php:25
+#@ firmasite
+msgid "Edit:"
+msgstr "Bewerk:"
+
+#: bbpress/form-anonymous.php:33
+#@ firmasite
+msgid "Mail (will not be published) (required):"
+msgstr "E-mail (wordt niet gepubliceerd) (verplicht):"
+
+#: buddypress/groups/single/forum/edit.php:87
+#@ firmasite
+msgid "This topic does not exist."
+msgstr "Dit topic bestaat niet"
+
+#: bbpress/form-anonymous.php:40
+#@ firmasite
+msgid "Website:"
+msgstr "Website:"
+
+#: buddypress/groups/single/forum/topic.php:9
+#@ firmasite
+msgid "New Reply"
+msgstr "Nieuw antwoord"
+
+#: bbpress/form-forum.php:35
+#: bbpress/form-topic.php:41
+#, php-format
+#@ firmasite
+msgid "Now Editing &ldquo;%s&rdquo;"
+msgstr "Nu bewerken &ldquo;%s&rdquo;"
+
+#: buddypress/groups/single/forum/topic.php:32
+#@ firmasite
+msgid "Topic tags:"
+msgstr "Trefwoorden:"
+
+#: bbpress/form-forum.php:37
+#, php-format
+#@ firmasite
+msgid "Create New Forum in &ldquo;%s&rdquo;"
+msgstr "Maak nieuw forum in &ldquo;%s&rdquo;"
+
+#: buddypress/groups/single/forum/topic.php:82
+#, php-format
+#@ firmasite
+msgid "%1$s said %2$s:"
+msgstr "%1$s schreef %2$s:"
+
+#: bbpress/form-forum.php:37
+#@ firmasite
+msgid "Create New Forum"
+msgstr "Maak nieuw forum"
+
+#: buddypress/forums/forums-loop.php:38
+#: buddypress/groups/single/forum/topic.php:96
+#@ firmasite
+msgid "Permanent link to this post"
+msgstr "Permalink naar dit bericht"
+
+#: bbpress/form-forum.php:47
+#@ firmasite
+msgid "This forum is closed to new content, however your account still allows you to do so."
+msgstr "Dit forum is gesloten voor nieuwe berichten,, echt laat je account dit wil toe."
+
+#: buddypress/groups/single/forum/topic.php:121
+#@ firmasite
+msgid "There are no posts for this topic."
+msgstr "Er zijn geen berichten bij dit topic"
+
+#: bbpress/form-forum.php:55
+#: bbpress/form-reply.php:44
+#: bbpress/form-topic.php:61
+#@ firmasite
+msgid "Your account has the ability to post unrestricted HTML content."
+msgstr "Jouw account heeft de mogelijkheid om onbeperkte HTML inhoud te plaatsen."
+
+#: buddypress/groups/single/forum/topic.php:136
+#@ firmasite
+msgid "You will auto join this group when you reply to this topic."
+msgstr "Je wordt automatisch lid als je antwoord op dit topic"
+
+#: bbpress/form-forum.php:67
+#, php-format
+#@ firmasite
+msgid "Forum Name (Maximum Length: %d):"
+msgstr "Forum Naam (Maximale lengte: %d):"
+
+#: buddypress/groups/single/forum/topic.php:141
+#@ firmasite
+msgid "Add a reply:"
+msgstr "Geef een antwoord:"
+
+#: bbpress/form-forum.php:91
+#@ firmasite
+msgid "Forum Type:"
+msgstr "Forum Type:"
+
+#: buddypress/groups/single/forum/topic.php:146
+#@ firmasite
+msgid "Post Reply"
+msgstr "Geef antwoord"
+
+#: bbpress/form-forum.php:100
+#@ firmasite
+msgid "Status:"
+msgstr "Satus:"
+
+#: buddypress/groups/single/forum/topic.php:157
+#@ firmasite
+msgid "This topic is closed, replies are no longer accepted."
+msgstr "Dit topic is gesloten, antwoorden is niet meer toegestaan"
+
+#: bbpress/form-forum.php:109
+#@ firmasite
+msgid "Visibility:"
+msgstr "Zichtbaarheid:"
+
+#: buddypress/groups/single/forum.php:69
+#@ firmasite
+msgid "You will auto join this group when you start a new topic."
+msgstr "Je zult automatisch lid worden van deze groep als je een nieuw topic start"
+
+#: bbpress/form-forum.php:118
+#@ firmasite
+msgid "Parent Forum:"
+msgstr "Hoofd forum:"
+
+#: buddypress/groups/single/forum.php:73
+#@ firmasite
+msgid "Post a New Topic:"
+msgstr "Plaats een nieuw topic:"
+
+#: bbpress/form-forum.php:123
+#@ firmasite
+msgid "(No Parent)"
+msgstr "(Geen hoofd)"
+
+#: buddypress/groups/single/group-header.php:11
+#@ firmasite
+msgid "Group Admins"
+msgstr "Groep Admins"
+
+#: bbpress/form-forum.php:138
+#: bbpress/form-reply-move.php:73
+#: bbpress/form-reply.php:146
+#: bbpress/form-topic-merge.php:94
+#: bbpress/form-topic-split.php:98
+#: bbpress/form-topic.php:217
+#@ firmasite
+msgid "Submit"
+msgstr "Bevestig"
+
+#: buddypress/groups/single/group-header.php:20
+#@ firmasite
+msgid "Group Mods"
+msgstr "Groep Mods"
+
+#: bbpress/form-forum.php:161
+#, php-format
+#@ firmasite
+msgid "The forum &#8216;%s&#8217; is closed to new content."
+msgstr "Het forum &#8216;%s&#8217; is gesloten voor nieuwe berichten."
+
+#: buddypress/groups/single/request-membership.php:4
+#, php-format
+#@ firmasite
+msgid "You are requesting to become a member of the group '%s'."
+msgstr "Je doet aanvraag om lid te worden van de groep '%s'."
+
+#: bbpress/form-forum.php:169
+#@ firmasite
+msgid "You cannot create new forums."
+msgstr "Je kunt geen nieuwe fora aanmaken."
+
+#: buddypress/groups/single/request-membership.php:7
+#@ firmasite
+msgid "Comments (optional)"
+msgstr "Opmerkingen (optioneel)"
+
+#: bbpress/form-forum.php:169
+#@ firmasite
+msgid "You must be logged in to create new forums."
+msgstr "Je moet ingelogd zijn om nieuwe fora te maken."
+
+#: buddypress/groups/single/request-membership.php:12
+#@ firmasite
+msgid "Send Request"
+msgstr "Verstuur aanvraag"
+
+#: bbpress/form-protected.php:14
+#@ firmasite
+msgid "Protected"
+msgstr "Beveiligd"
+
+#: buddypress/groups/single/invites-loop.php:76
+#@ firmasite
+msgid "Send Invites"
+msgstr "Verstuur uitnodigingen"
+
+#: bbpress/form-reply.php:29
+#, php-format
+#@ firmasite
+msgid "Reply To: %s"
+msgstr "Antwoord op: %s"
+
+#: bbpress/form-reply.php:36
+#@ firmasite
+msgid "This topic is marked as closed to new replies, however your posting capabilities still allow you to do so."
+msgstr "Dit topic is gesloten voor nieuwe antwoorden. Je hebt echter genoeg rechten om dit wel te doen."
+
+#: buddypress/members/index.php:39
+#: buddypress/members/single/friends.php:23
+#@ firmasite
+msgid "Newest Registered"
+msgstr "Recent geregistreerde"
+
+#: bbpress/form-reply.php:85
+#@ firmasite
+msgid "Tags:"
+msgstr "Trefwoorden:"
+
+#: buddypress/members/members-loop.php:94
+#@ firmasite
+msgid "Sorry, no members were found."
+msgstr "Er zijn geen leden gevonden"
+
+#: bbpress/form-reply.php:103
+#: bbpress/form-topic.php:177
+#@ firmasite
+msgid "Notify the author of follow-up replies via email"
+msgstr "Stel de auteur op de hoogte bij antwoorden via e-mail"
+
+#: buddypress/members/single/friends/requests.php:54
+#@ firmasite
+msgid "You have no pending friendship requests."
+msgstr "Je hebt geen wachtende vriendschapsverzoeken"
+
+#: bbpress/form-reply.php:107
+#: bbpress/form-topic.php:181
+#@ firmasite
+msgid "Notify me of follow-up replies via email"
+msgstr "Hou me op de hoogte bij antwoorden middels e-mail"
+
+#: bbpress/form-reply.php:125
+#: bbpress/form-topic.php:198
+#@ firmasite
+msgid "Keep a log of this edit:"
+msgstr "Hou een log bij van deze bewerking:"
+
+#: buddypress/members/single/groups/invites.php:39
+#@ firmasite
+msgid "You have no outstanding group invites."
+msgstr "Je hebt geen openstaande groep uitnodigingen"
+
+#: bbpress/form-reply.php:129
+#: bbpress/form-topic.php:202
+#@ firmasite
+msgid "Optional reason for editing:"
+msgstr "Optionele reden voor bewerking:"
+
+#: buddypress/members/single/messages/compose.php:7
+#@ firmasite
+msgid "Send To (Username or Friend's Name)"
+msgstr "Stuur naar (Gebruikersnaam of naam)"
+
+#: bbpress/form-reply.php:169
+#, php-format
+#@ firmasite
+msgid "The topic &#8216;%s&#8217; is closed to new replies."
+msgstr "Het topic &#8216;%s&#8217; is gesloten voor nieuwe antwoorden."
+
+#: buddypress/members/single/messages/compose.php:23
+#@ firmasite
+msgid "This is a notice to all users."
+msgstr "Opmerkingen voor alle gebruikers"
+
+#: bbpress/form-reply.php:177
+#: bbpress/form-topic.php:240
+#, php-format
+#@ firmasite
+msgid "The forum &#8216;%s&#8217; is closed to new topics and replies."
+msgstr "Het forum &#8216;%s&#8217; is gesloten voor nieuwe topics en antwoorden."
+
+#: buddypress/members/single/messages/compose.php:31
+#@ firmasite
+msgid "Subject"
+msgstr "Onderwerp"
+
+#: bbpress/form-reply.php:185
+#@ firmasite
+msgid "You cannot reply to this topic."
+msgstr "Je kunt niet reageren op dit topic."
+
+#: buddypress/members/single/messages/compose.php:38
+#@ firmasite
+msgid "Message"
+msgstr "Bericht"
+
+#: bbpress/form-reply.php:185
+#@ firmasite
+msgid "You must be logged in to reply to this topic."
+msgstr "Je moet ingelogd zijn om dit topic te beantwoorden."
+
+#: buddypress/members/single/messages/compose.php:55
+#@ firmasite
+msgid "Send Message"
+msgstr "Stuur bericht"
+
+#: bbpress/form-topic-merge.php:24
+#, php-format
+#@ firmasite
+msgid "Merge topic \"%s\""
+msgstr "Samenvoegen topic \"%s\""
+
+#: buddypress/members/single/messages/messages-loop.php:33
+#@ firmasite
+msgid "From:"
+msgstr "Van:"
+
+#: bbpress/form-topic-merge.php:29
+#@ firmasite
+msgid "Select the topic to merge this one into. The destination topic will remain the lead topic, and this one will change into a reply."
+msgstr "Selecteer het topic die je wilt samenvoegen. Het doel topic zal het hoofdtopic blijven, en deze zal een antwoord worden."
+
+#: buddypress/members/single/messages/messages-loop.php:38
+#@ firmasite
+msgid "To:"
+msgstr "Aan:"
+
+#: bbpress/form-topic-merge.php:30
+#@ firmasite
+msgid "To keep this topic as the lead, go to the other topic and use the merge tool from there instead."
+msgstr "Om dit topic als hoofdtopic te behouden. ga naar het anderen topic en gebruik het samenvoegen daar."
+
+#: buddypress/members/single/messages/messages-loop.php:44
+#@ firmasite
+msgid "View Message"
+msgstr "Toon bericht"
+
+#: bbpress/form-topic-merge.php:34
+#@ firmasite
+msgid "All replies within both topics will be merged chronologically. The order of the merged replies is based on the time and date they were posted. If the destination topic was created after this one, it's post date will be updated to second earlier than this one."
+msgstr "Alle antwoorden van beide topics zullen samengevoegd worden. De volgorde zal op datum en tijd gebeuren. Als de bestemmingstopic na dit topic gemaakt is, zal het datum/tijd veld 1 seconde eerder worden dan deze."
+
+#: buddypress/members/single/messages/messages-loop.php:52
+#: buddypress/members/single/messages/notices-loop.php:44
+#: buddypress/members/single/messages/single.php:25
+#@ firmasite
+msgid "Delete Message"
+msgstr "Verwijder bericht"
+
+#: bbpress/form-topic-merge.php:38
+#@ firmasite
+msgid "Destination"
+msgstr "Bestemming"
+
+#: buddypress/members/single/messages/messages-loop.php:71
+#@ firmasite
+msgid "Sorry, no messages were found."
+msgstr "Er zijn geen berichten gevonden"
+
+#: bbpress/form-topic-merge.php:42
+#@ firmasite
+msgid "Merge with this topic:"
+msgstr "Voeg samen met dit topic:"
+
+#: buddypress/members/single/messages/notices-loop.php:37
+#@ firmasite
+msgid "Sent:"
+msgstr "Stuur:"
+
+#: bbpress/form-topic-merge.php:51
+#@ firmasite
+msgid "No topics were found to which the topic could be merged to!"
+msgstr "Er zijn geen topics gevonden waarmee deze samengevoegd kan worden!"
+
+#: buddypress/members/single/messages/notices-loop.php:56
+#@ firmasite
+msgid "Sorry, no notices were found."
+msgstr "Er zijn geen opmerkingen gevonden"
+
+#: bbpress/form-topic-merge.php:57
+#@ firmasite
+msgid "There are no other topics in this forum to merge with."
+msgstr "Er zijn geen andere topics in dit forum om mee samen te voegen."
+
+#: buddypress/members/single/messages/single.php:15
+#@ firmasite
+msgid "You are alone in this conversation."
+msgstr "Je bent alleen in dit gesprek"
+
+#: bbpress/form-topic-merge.php:65
+#: bbpress/form-topic-split.php:69
+#@ firmasite
+msgid "Topic Extras"
+msgstr "Topic extra's"
+
+#: buddypress/members/single/messages/single.php:19
+#, php-format
+#@ firmasite
+msgid "Conversation between %s and you."
+msgstr "Gesprek tussen %s en jou."
+
+#: bbpress/form-topic-merge.php:72
+#@ firmasite
+msgid "Merge topic subscribers"
+msgstr "Voeg topic inschrijvers samen"
+
+#: buddypress/members/single/messages/single.php:87
+#@ firmasite
+msgid "Send a Reply"
+msgstr "Stuur een antwoord"
+
+#: bbpress/form-topic-merge.php:77
+#@ firmasite
+msgid "Merge topic favoriters"
+msgstr "Voeg topic favorieten samen"
+
+#: buddypress/members/single/messages/single.php:108
+#@ firmasite
+msgid "Send Reply"
+msgstr "Stuur antwoord"
+
+#: bbpress/form-topic-merge.php:82
+#@ firmasite
+msgid "Merge topic tags"
+msgstr "Voeg topic kernwoorden samen"
+
+#: bbpress/form-reply-move.php:69
+#: bbpress/form-topic-merge.php:90
+#: bbpress/form-topic-split.php:94
+#@ firmasite
+msgid "<strong>WARNING:</strong> This process cannot be undone."
+msgstr "<strong>Waarschuwing:</strong> Dit kan niet ongedaan gemaakt worden."
+
+#: bbpress/form-topic-merge.php:107
+#: bbpress/form-topic-split.php:111
+#@ firmasite
+msgid "You do not have the permissions to edit this topic!"
+msgstr "Je hebt geen toestemming om dit topic te bewerken!"
+
+#: buddypress/members/single/profile/change-avatar.php:14
+#@ firmasite
+msgid "Click below to select a JPG, GIF or PNG format photo from your computer and then click 'Upload Image' to proceed."
+msgstr "Kies een bestand (JPG, GIF of PNG) en klik op 'Afbeelding Uploaden' om door te gaan."
+
+#: bbpress/form-topic-merge.php:107
+#: bbpress/form-topic-split.php:111
+#@ firmasite
+msgid "You cannot edit this topic."
+msgstr "Je kunt dit topic niet bewerken."
+
+#: bbpress/form-topic-split.php:24
+#, php-format
+#@ firmasite
+msgid "Split topic \"%s\""
+msgstr "Splijt topic \"%s\""
+
+#: bbpress/form-topic-split.php:29
+#@ firmasite
+msgid "When you split a topic, you are slicing it in half starting with the reply you just selected. Choose to use that reply as a new topic with a new title, or merge those replies into an existing topic."
+msgstr "Als je een topic splijt snij je hem door het midden met het antwoord die je zojuist hebt geselecteerd. Kies ervoor om dat antwoord als nieuw topic te maken met een nieuwe titel of voeg die antwoorden samen in een bestaand topic."
+
+#: bbpress/form-topic-split.php:33
+#@ firmasite
+msgid "If you use the existing topic option, replies within both topics will be merged chronologically. The order of the merged replies is based on the time and date they were posted."
+msgstr "Als je een bestaande topic kiest. zullen antwoorden binnen de topic chronologisch samen worden gevoegd.  Dit zal gebeuren op basis van datum en tijd."
+
+#: bbpress/form-topic-split.php:37
+#@ firmasite
+msgid "Split Method"
+msgstr "Splijt methode"
+
+#: buddypress/members/single/profile/edit.php:10
+#, php-format
+#@ firmasite
+msgid "Editing '%s' Profile Group"
+msgstr "Bewerken '%s' Profiels Groep"
+
+#: bbpress/form-reply-move.php:41
+#: bbpress/form-topic-split.php:41
+#, php-format
+#@ firmasite
+msgid "New topic in <strong>%s</strong> titled:"
+msgstr "Nieuw topic in <strong>%s</strong> genaamd:"
+
+#: buddypress/members/register.php:38
+#: buddypress/members/register.php:46
+#: buddypress/members/register.php:55
+#: buddypress/members/register.php:64
+#: buddypress/members/register.php:168
+#: buddypress/members/register.php:185
+#: functions/buddypress-customs.php:370
+#: functions/buddypress-customs.php:417
+#: functions/buddypress-customs.php:453
+#: functions/buddypress-customs.php:500
+#: functions/buddypress-customs.php:540
+#: functions/buddypress-customs.php:574
+#: functions/buddypress-customs.php:609
+#: functions/buddypress-customs.php:643
+#: functions/buddypress-customs.php:678
+#@ firmasite
+msgid "(required)"
+msgstr "(verplicht)"
+
+#: bbpress/form-topic-split.php:42
+#, php-format
+#@ firmasite
+msgid "Split: %s"
+msgstr "Splijt: %s"
+
+#: functions/buddypress-customs.php:466
+#: functions/buddypress-customs.php:513
+#@ firmasite
+msgid "Clear"
+msgstr "Wis"
+
+#: bbpress/form-reply-move.php:49
+#: bbpress/form-topic-split.php:49
+#@ firmasite
+msgid "Use an existing topic in this forum:"
+msgstr "Gebruik een bestaand topic in dit forum:"
+
+#: buddypress/members/register.php:100
+#: buddypress/members/register.php:117
+#: buddypress/members/single/profile/edit.php:37
+#: buddypress/members/single/profile/edit.php:54
+#, php-format
+#@ firmasite
+msgid "This field can be seen by: <span class=\"current-visibility-level\">%s</span>"
+msgstr "Dit veld kan gezien worden door: <span class=\"current-visibility-level\">%s</span>"
+
+#: bbpress/form-reply-move.php:58
+#: bbpress/form-topic-split.php:58
+#@ firmasite
+msgid "No other topics found!"
+msgstr "Geen andere topics gevonden!"
+
+#: bbpress/form-topic-split.php:76
+#@ firmasite
+msgid "Copy subscribers to the new topic"
+msgstr "Kopieer inschrijvers naar het nieuwe topic."
+
+#: buddypress/members/register.php:105
+#: buddypress/members/single/profile/edit.php:42
+#@ firmasite
+msgid "Who can see this field?"
+msgstr "Wie kan dit veld zien?"
+
+#: bbpress/form-topic-split.php:81
+#@ firmasite
+msgid "Copy favoriters to the new topic"
+msgstr "Kopieer favorieten naar het nieuwe topic."
+
+#: buddypress/members/single/profile/profile-wp.php:24
+#@ firmasite
+msgid "About Me"
+msgstr "Over mij"
+
+#: bbpress/form-topic-split.php:86
+#@ firmasite
+msgid "Copy topic tags to the new topic"
+msgstr "Kopieer kernwoorden naar het nieuwe topic"
+
+#: buddypress/members/single/profile/profile-wp.php:42
+#@ firmasite
+msgid "Jabber"
+msgstr "Jabber"
+
+#: bbpress/form-topic-tag.php:18
+#, php-format
+#@ firmasite
+msgid "Manage Tag: \"%s\""
+msgstr "Beheer kernwoorden: \"%s\""
+
+#: buddypress/members/single/profile/profile-wp.php:51
+#@ firmasite
+msgid "AOL Messenger"
+msgstr "AOL Messenger"
+
+#: bbpress/form-topic-tag.php:22
+#@ firmasite
+msgid "Rename"
+msgstr "Hernoem"
+
+#: buddypress/members/single/profile/profile-wp.php:60
+#@ firmasite
+msgid "Yahoo Messenger"
+msgstr "Yahoo Messenger"
+
+#: bbpress/form-topic-tag.php:25
+#@ firmasite
+msgid "Leave the slug empty to have one automatically generated."
+msgstr "Laat de slug leeg om deze automatisch toe te wijzen"
+
+#: bbpress/form-topic-tag.php:29
+#@ firmasite
+msgid "Changing the slug affects its permalink. Any links to the old slug will stop working."
+msgstr "Als je de slug wijzigt heeft dit gevolgen voor de permalink. Alle oude links zullen niet meer werken."
+
+#: buddypress/members/single/settings/capabilities.php:11
+#@ firmasite
+msgid "This user is a spammer."
+msgstr "Deze gebruiker is een spammer"
+
+#: bbpress/form-topic-tag.php:35
+#@ firmasite
+msgid "Name:"
+msgstr "Naam:"
+
+#: buddypress/members/single/settings/capabilities.php:15
+#@ firmasite
+msgid "Save"
+msgstr "Opslaan"
+
+#: bbpress/form-topic-tag.php:40
+#@ firmasite
+msgid "Slug:"
+msgstr "Slug:"
+
+#: buddypress/members/single/settings/delete-account.php:29
+#@ firmasite
+msgid "Delete Account"
+msgstr "Verwijder account"
+
+#: bbpress/form-topic-tag.php:45
+#@ firmasite
+msgid "Update"
+msgstr "Bijwerken"
+
+#: buddypress/members/single/settings/delete-account.php:9
+#@ firmasite
+msgid "Deleting your account will delete all of the content you have created. It will be completely irrecoverable."
+msgstr "Als je je account verwijderd, worden ook je topics verwijderd. Dit kan niet ongedaan gemaakt worden."
+
+#: bbpress/form-topic-tag.php:59
+#: bbpress/form-topic-tag.php:73
+#@ firmasite
+msgid "Merge"
+msgstr "Samenvoegen"
+
+#: buddypress/members/single/settings/delete-account.php:13
+#@ firmasite
+msgid "Deleting this account will delete all of the content it has created. It will be completely irrecoverable."
+msgstr "Als dit account verwijderd wordt, worden ook je topics en antwoorden verwijderd. Dit kan niet ongedaan gemaakt worden."
+
+#: bbpress/form-topic-tag.php:62
+#@ firmasite
+msgid "Merging tags together cannot be undone."
+msgstr "Samenvoegen van kernwoorden kan niet ongedaan gemaakt worden."
+
+#: buddypress/members/single/settings/delete-account.php:25
+#@ firmasite
+msgid "I understand the consequences."
+msgstr "Ik begrijp de gevolgen"
+
+#: bbpress/form-topic-tag.php:68
+#@ firmasite
+msgid "Existing tag:"
+msgstr "Bestaand kernwoord:"
+
+#: bbpress/form-topic-tag.php:73
+#, php-format
+#@ firmasite
+msgid "Are you sure you want to merge the \"%s\" tag into the tag you specified?"
+msgstr "Weet je zeker dat je de kernwoorden \"%s\" wilt samenvoegen?"
+
+#: buddypress/members/single/settings/general.php:9
+#@ firmasite
+msgid "Current Password <span>(required to update email or change current password)</span>"
+msgstr "Huidig wachtwoord <span>(Nodig om je e-mailadres te wijzigen of om je huidige wachtwoord aan te passen)</span>"
+
+#: bbpress/form-topic-tag.php:91
+#@ firmasite
+msgid "This does not delete your topics. Only the tag itself is deleted."
+msgstr "Dit verwijderd je topics niet. Alleen de kernwoorden worden verwijderd."
+
+#: buddypress/members/single/settings/general.php:10
+#@ firmasite
+msgid "Password Lost and Found"
+msgstr "Wachtwoord kwijt en gevonden"
+
+#: bbpress/form-topic-tag.php:94
+#@ firmasite
+msgid "Deleting a tag cannot be undone."
+msgstr "Het verwijderen van een kernwoord kan niet ongedaan gemaakt worden."
+
+#: buddypress/members/single/settings/general.php:10
+#@ firmasite
+msgid "Lost your password?"
+msgstr "Je wachtwoord vergeten?"
+
+#: bbpress/form-topic-tag.php:95
+#@ firmasite
+msgid "Any links to this tag will no longer function."
+msgstr "Links naar dit kernwoord zullen niet meer werken."
+
+#: buddypress/members/single/settings/general.php:14
+#@ firmasite
+msgid "Account Email"
+msgstr "E-mail account"
+
+#: bbpress/form-topic-tag.php:101
+#, php-format
+#@ firmasite
+msgid "Are you sure you want to delete the \"%s\" tag? This is permanent and cannot be undone."
+msgstr "Weet je zeker dat je dit kernwoord \"%s\" wilt verwijderen? Dit kan niet ongedaan gemaakt worden."
+
+#: buddypress/members/single/settings/general.php:17
+#@ firmasite
+msgid "Change Password <span>(leave blank for no change)</span>"
+msgstr "Verander wachtwoord <span>(leeg laten als je niks wilt veranderen)</span>"
+
+#: bbpress/form-topic.php:43
+#, php-format
+#@ firmasite
+msgid "Create New Topic in &ldquo;%s&rdquo;"
+msgstr "Maak nieuw Topic in &ldquo;%s&rdquo;"
+
+#: buddypress/members/single/settings/general.php:20
+#@ firmasite
+msgid "Repeat New Password"
+msgstr "Herhaal nieuw wachtwoord"
+
+#: bbpress/form-topic.php:43
+#@ firmasite
+msgid "Create New Topic"
+msgstr "Maak nieuw topic"
+
+#: bbpress/form-topic.php:53
+#@ firmasite
+msgid "This forum is marked as closed to new topics, however your posting capabilities still allow you to do so."
+msgstr "Dit forum is gemarkeerd als gesloten. Je hebt echter genoeg rechten om een nieuw topic aan te maken."
+
+#: bbpress/form-topic.php:77
+#, php-format
+#@ firmasite
+msgid "Topic Title (Maximum Length: %d):"
+msgstr "Topic titel (Maximale lengte: %d):"
+
+#: bbpress/form-topic.php:114
+#@ firmasite
+msgid "Topic Tags:"
+msgstr "Topic Kernwoorden:"
+
+#: buddypress/members/activate.php:15
+#@ firmasite
+msgid "Your account was activated successfully! Your account details have been sent to you in a separate email."
+msgstr "e account is succesvol geactiveerd. Verdere details zijn in een e-mail verzonden naar je."
+
+#: bbpress/form-topic.php:127
+#@ firmasite
+msgid "Forum:"
+msgstr "Forum:"
+
+#: bbpress/form-topic.php:146
+#@ firmasite
+msgid "Topic Type:"
+msgstr "Soort topic:"
+
+#: bbpress/form-topic.php:248
+#@ firmasite
+msgid "You cannot create new topics."
+msgstr "Je kunt geen nieuwe topics aanmaken."
+
+#: buddypress/members/activate.php:22
+#@ firmasite
+msgid "Please provide a valid activation key."
+msgstr "Geef een geldige activatiecode."
+
+#: bbpress/form-topic.php:248
+#@ firmasite
+msgid "You must be logged in to create new topics."
+msgstr "Je moet ingelogd zijn om nieuwe topics aan te maken"
+
+#: buddypress/members/activate.php:26
+#@ firmasite
+msgid "Activation Key:"
+msgstr "Activatiecode:"
+
+#: bbpress/form-user-edit.php:14
+#: bbpress/form-user-edit.php:19
+#: buddypress/members/single/profile/profile-wp.php:15
+#: functions/template-tags.php:163
+#@ firmasite
+msgid "Name"
+msgstr "Naam:"
+
+#: buddypress/members/activate.php:30
+#: functions/class-tgm-plugin-activation.php:1381
+#@ firmasite
+msgid "Activate"
+msgstr "Activeer"
+
+#: bbpress/form-user-edit.php:24
+#@ firmasite
+msgid "First Name"
+msgstr "Voornaam"
+
+#: buddypress/members/register.php:16
+#@ firmasite
+msgid "User registration is currently not allowed."
+msgstr "Registreren is momenteel niet mogelijk"
+
+#: bbpress/form-user-edit.php:31
+#@ firmasite
+msgid "Last Name"
+msgstr "Achternaam"
+
+#: buddypress/members/register.php:27
+#@ firmasite
+msgid "Registering for this site is easy, just fill in the fields below and we'll get a new account set up for you in no time."
+msgstr "Registreren is erg makkelijk. Vul onderstaande velden in en het account wordt in no-time voor je aangemaakt."
+
+#: bbpress/form-user-edit.php:38
+#@ firmasite
+msgid "Nickname"
+msgstr "Bijnaam"
+
+#: buddypress/members/register.php:35
+#@ firmasite
+msgid "Account Details"
+msgstr "Account details"
+
+#: bbpress/form-user-edit.php:45
+#@ firmasite
+msgid "Display Name"
+msgstr "Weergavenaam"
+
+#: buddypress/members/register.php:46
+#@ firmasite
+msgid "Email Address"
+msgstr "E-mail adres"
+
+#: bbpress/form-user-edit.php:55
+#: bbpress/form-user-edit.php:58
+#@ firmasite
+msgid "Contact Info"
+msgstr "Contact Info"
+
+#: buddypress/members/register.php:55
+#@ firmasite
+msgid "Choose a Password"
+msgstr "Kies een wachtwoord"
+
+#: bbpress/form-user-edit.php:63
+#: buddypress/members/single/profile/profile-wp.php:33
+#: functions/template-tags.php:167
+#@ firmasite
+msgid "Website"
+msgstr "Website"
+
+#: buddypress/members/register.php:64
+#@ firmasite
+msgid "Confirm Password"
+msgstr "Bevestig wachtwoord"
+
+#: bbpress/form-user-edit.php:84
+#: bbpress/form-user-edit.php:87
+#@ firmasite
+msgid "About Yourself"
+msgstr "Over jezelf"
+
+#: buddypress/members/register.php:81
+#@ firmasite
+msgid "Profile Details"
+msgstr "Profiel details"
+
+#: bbpress/form-user-edit.php:84
+#: bbpress/form-user-edit.php:87
+#@ firmasite
+msgid "About the user"
+msgstr "Over de gebruiker"
+
+#: buddypress/members/register.php:152
+#@ firmasite
+msgid "Blog Details"
+msgstr "Blog Details"
+
+#: bbpress/form-user-edit.php:92
+#@ firmasite
+msgid "Biographical Info"
+msgstr "Biografie"
+
+#: buddypress/members/register.php:158
+#@ firmasite
+msgid "Yes, I'd like to create a new site"
+msgstr "Ja, ik wil een nieuwe site aanmaken"
+
+#: bbpress/form-user-edit.php:103
+#: bbpress/form-user-edit.php:106
+#@ firmasite
+msgid "Account"
+msgstr "Account"
+
+#: buddypress/members/register.php:168
+#@ firmasite
+msgid "Blog URL"
+msgstr "Blog URL"
+
+#: bbpress/form-user-edit.php:111
+#: bbpress/form-user-login.php:17
+#: bbpress/form-user-register.php:23
+#: buddypress/members/register.php:38
+#@ firmasite
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+#: buddypress/members/register.php:185
+#@ firmasite
+msgid "Site Title"
+msgstr "Site titel"
+
+#: bbpress/form-user-edit.php:118
+#: bbpress/form-user-register.php:28
+#: functions/template-tags.php:165
+#@ firmasite
+msgid "Email"
+msgstr "E-mail"
+
+#: buddypress/members/register.php:195
+#@ firmasite
+msgid "I would like my site to appear in search engines, and in public listings around this network."
+msgstr "Ik wil dat mijn site in zoekmachines komen en in publieke lijsten van dit netwerk"
+
+#: bbpress/form-user-edit.php:130
+#, php-format
+#@ firmasite
+msgid "There is a pending email address change to <code>%1$s</code>. <a href=\"%2$s\">Cancel</a>"
+msgstr "Een e-mailadres wijziging wacht <code>%1$s</code>. <a href=\"%2$s\">Annuleer</a>"
+
+#: buddypress/members/register.php:216
+#@ firmasite
+msgid "Complete Sign Up"
+msgstr "Voltooi het aanmelden"
+
+#: bbpress/form-user-edit.php:139
+#: buddypress/members/single/settings/general.php:18
+#@ firmasite
+msgid "New Password"
+msgstr "Nieuw wachtwoord"
+
+#: buddypress/members/register.php:227
+#@ firmasite
+msgid "Sign Up Complete!"
+msgstr "Aanmelden voltooid!"
+
+#: functions/init.php:22
+#@ firmasite
+msgid "Main Menu"
+msgstr "Hoofd menu"
+
+#: templates/bbpress.php:9
+#: templates/post/loop_excerpt/loop-gallery.php:17
+#: templates/post/loop_excerpt/loop-image.php:18
+#: templates/post/loop_excerpt/loop.php:18
+#: templates/post/loop_list/loop-gallery.php:17
+#: templates/post/loop_list/loop-image.php:18
+#: templates/post/loop_list/loop-link.php:21
+#: templates/post/loop_list/loop.php:18
+#: templates/post/loop_tile/loop.php:16
+#: templates/post/single.php:12
+#: templates/single-page.php:15
+#: templates/single_full-page.php:16
+#, php-format
+#@ firmasite
+msgid "Permalink to %s"
+msgstr "Permalink naar %s"
+
+#: functions/showcase.php:280
+#: templates/bbpress.php:19
+#: templates/post/loop_excerpt/loop-image.php:22
+#: templates/post/loop_excerpt/loop.php:25
+#: templates/post/loop_list/loop-aside.php:17
+#: templates/post/loop_list/loop-audio.php:17
+#: templates/post/loop_list/loop-chat.php:17
+#: templates/post/loop_list/loop-gallery.php:18
+#: templates/post/loop_list/loop-image.php:22
+#: templates/post/loop_list/loop-link.php:25
+#: templates/post/loop_list/loop-quote.php:17
+#: templates/post/loop_list/loop-status.php:17
+#: templates/post/loop_list/loop.php:21
+#: templates/post/loop_tile/loop.php:22
+#: templates/post/promotionbar/loop.php:17
+#: templates/post/showcase/loop.php:23
+#: templates/post/single.php:19
+#: templates/single-page.php:22
+#: templates/single_full-page.php:23
+#@ firmasite
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Laes verder <span class=\"meta-nav\">&rarr;</span>"
+
+#: templates/post/loop_excerpt/loop.php:28
+#: templates/post/loop_list/loop-aside.php:18
+#: templates/post/loop_list/loop-audio.php:18
+#: templates/post/loop_list/loop-chat.php:18
+#: templates/post/loop_list/loop-link.php:26
+#: templates/post/loop_list/loop-quote.php:18
+#: templates/post/loop_list/loop-status.php:18
+#: templates/post/loop_list/loop.php:22
+#: templates/post/single.php:20
+#: templates/single-page.php:23
+#: templates/single_full-page.php:24
+#@ firmasite
+msgid "Pages:"
+msgstr "Pagina's"
+
+#: templates/no-results.php:13
+#@ firmasite
+msgid "Nothing Found"
+msgstr "Niets gevonden"
+
+#: templates/no-results.php:19
+#, php-format
+#@ firmasite
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Klaar om je eerste bericht te posten? <a href=\"%1$s\">Begin hier</a>."
+
+#: templates/no-results.php:23
+#@ firmasite
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Er is niks gevonden. Probeer het eens met andere woorden"
+
+#: templates/no-results.php:28
+#@ firmasite
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "We kunnen niet vinden wat je bedoelt. Probeer het eens met zoeken."
+
+#: functions/showcase.php:261
+#: page-full-width.php:9
+#@ firmasite
+msgid "Full Width"
+msgstr "Volle breedte"
+
+#: bbpress/user-details.php:54
+#: templates/post/loop_list/loop-gallery.php:55
+#: templates/post/loop_list/loop-image.php:59
+#: templates/post/loop_list/loop.php:59
+#: templates/post/single.php:53
+#: templates/single-page.php:29
+#: templates/single_full-page.php:30
+#@ firmasite
+msgid "Edit"
+msgstr "Bewerk"
+
+#: functions/customizer.php:86
+#@ firmasite
+msgid "Logo"
+msgstr "Logo"
+
+#: functions/customizer.php:173
+#@ firmasite
+msgid "Font"
+msgstr "Lettertype"
+
+#: functions/customizer.php:208
+#@ firmasite
+msgid "Layout"
+msgstr "Layout"
+
+#: functions/customizer.php:212
+#@ firmasite
+msgid "Content - Sidebar"
+msgstr "Content - Sidebar"
+
+#: functions/customizer.php:213
+#@ firmasite
+msgid "Sidebar - Content"
+msgstr "Sidebar - Content"
+
+#: functions/customizer.php:231
+#@ firmasite
+msgid "Theme Style"
+msgstr "Thema stijl"
+
+#: functions/customizer-call.php:92
+#@ firmasite
+msgid "United"
+msgstr "United"
+
+#: functions/customizer-call.php:81
+#: functions/customizer.php:314
+#: functions/customizer.php:335
+#: functions/showcase.php:259
+#@ firmasite
+msgid "Default"
+msgstr "Default"
+
+#: functions/customizer-call.php:76
+#@ firmasite
+msgid "Amelia"
+msgstr "Amelia"
+
+#: functions/customizer-call.php:77
+#@ firmasite
+msgid "Cerulean"
+msgstr "Cerulean"
+
+#: functions/customizer-call.php:78
+#@ firmasite
+msgid "Cosmo"
+msgstr "Cosmo"
+
+#: functions/customizer-call.php:79
+#@ firmasite
+msgid "Cyborg"
+msgstr "Cyborg"
+
+#: functions/customizer-call.php:83
+#@ firmasite
+msgid "Journal"
+msgstr "Journal"
+
+#: functions/customizer-call.php:86
+#@ firmasite
+msgid "Readable"
+msgstr "Readable"
+
+#: functions/customizer-call.php:88
+#@ firmasite
+msgid "Simplex"
+msgstr "Simplex"
+
+#: functions/customizer-call.php:89
+#@ firmasite
+msgid "Slate"
+msgstr "Slate"
+
+#: functions/customizer-call.php:90
+#@ firmasite
+msgid "Spacelab"
+msgstr "Spacelab"
+
+#: functions/init.php:58
+#@ firmasite
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions/init.php:59
+#@ firmasite
+msgid "Widgets that shows in sidebar"
+msgstr "Widgets die getoond worden in de sidebar"
+
+#: functions/init.php:67
+#@ firmasite
+msgid "Footer"
+msgstr "Footer"
+
+#: functions/init.php:68
+#@ firmasite
+msgid "Widgets that shows in footer"
+msgstr "Widgets die getoond worden in de footer"
+
+#: comments.php:32
+#, php-format
+#@ firmasite
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Een gedachte op &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s gedachtes op &ldquo;%2$s&rdquo;"
+
+#: comments.php:71
+#@ firmasite
+msgid "Comments are closed."
+msgstr "Opmerkingen zijn gesloten"
+
+#: functions/init.php:26
+#@ firmasite
+msgid "Footer Menu"
+msgstr "Footer menu"
+
+#: functions/template-tags.php:85
+#@ firmasite
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions/template-tags.php:112
+#, php-format
+#@ firmasite
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">zegt:</span>"
+
+#: functions/template-tags.php:106
+#@ firmasite
+msgid "Your comment is awaiting moderation."
+msgstr "Je bericht wacht op moderatie."
+
+#. translators: 1: date, 2: time
+#: functions/template-tags.php:100
+#, php-format
+#@ firmasite
+msgid "%1$s at %2$s"
+msgstr "%1$s op %2$s"
+
+#: templates/post/loop_list/loop-gallery.php:43
+#: templates/post/loop_list/loop-image.php:47
+#: templates/post/loop_list/loop.php:47
+#@ firmasite
+msgid "Leave a comment"
+msgstr "Laat een reactie achter"
+
+#: templates/post/loop_list/loop-gallery.php:43
+#: templates/post/loop_list/loop-image.php:47
+#: templates/post/loop_list/loop.php:47
+#@ firmasite
+msgid "1 Comment"
+msgstr "1 bericht"
+
+#: templates/post/loop_list/loop-gallery.php:43
+#: templates/post/loop_list/loop-image.php:47
+#: templates/post/loop_list/loop.php:47
+#@ firmasite
+msgid "% Comments"
+msgstr "% berichten"
+
+#: functions/customizer.php:252
+#@ firmasite
+msgid "Theme Settings"
+msgstr "Instellingen thema"
+
+#: functions/promotionbar.php:268
+#: functions/showcase.php:235
+#@ firmasite
+msgid "These settings will activate when you save changes and refresh this page."
+msgstr "Deze instellingen zijn geactiveerd worden als je opslaat en de pagina ververst."
+
+#: functions/template-tags.php:38
+#@ firmasite
+msgctxt "Next post link"
+msgid "<i class=\"icon-arrow-right\"></i>"
+msgstr "<i class=\"icon-arrow-right\"></i>"
+
+#: functions/template-tags.php:39
+#@ firmasite
+msgctxt "Previous post link"
+msgid "<i class=\"icon-arrow-left\"></i>"
+msgstr "<i class=\"icon-arrow-left\"></i>"
+
+#: functions/custom-custom-css.php:15
+#@ firmasite
+msgid "Custom Css"
+msgstr "Aangepaste CSS"
+
+#: functions/custom-custom-css.php:21
+#@ firmasite
+msgid "You can change your site's appearance with custom css but if you are not sure what you doing, please ask for support"
+msgstr "Je kunt je site aanpassen met eigen CSS. Als je niet zeker weet hoe je het moet doen, vraag dan support"
+
+#: functions/custom-custom-css.php:22
+#@ firmasite
+msgid "Be Careful!"
+msgstr "Pas op!"
+
+#: functions/promotionbar.php:165
+#: functions/promotionbar.php:178
+#@ firmasite
+msgid "Add to PromotionBar"
+msgstr "Voeg toe aan Promotiebar"
+
+#: functions/showcase.php:133
+#: functions/showcase.php:146
+#@ firmasite
+msgid "Add to ShowCase"
+msgstr "Voeg toe aan Showcase"
+
+#: functions/showcase.php:234
+#@ firmasite
+msgid "ShowCase"
+msgstr "ShowCase"
+
+#: functions/showcase.php:276
+#@ firmasite
+msgid "Current Call-to-Action text: "
+msgstr "Huidige Call-to-Action tekst: "
+
+#: functions/showcase.php:283
+#@ firmasite
+msgid "If you are planning to use multiple ShowCase posts, try to choose a common text"
+msgstr "Als je denkt meerdere Showcases te gebruiken, probeer dan een standaard tekst te kiezen"
+
+#: functions/showcase.php:293
+#@ firmasite
+msgid "Disable ShowCase feature"
+msgstr "Zet Showcase uit"
+
+#: functions/showcase.php:270
+#@ firmasite
+msgid "Call-to-Action Text"
+msgstr "Call-to-Action Tekst"
+
+#: functions/customizer.php:363
+#@ firmasite
+msgid "You can create or manage menus from Menus page under Appearance"
+msgstr "Je kunt menu's bewerken en aanmaken onder het menu Instellingen - Menu"
+
+#: functions/customizer.php:363
+#@ firmasite
+msgid "Menus"
+msgstr "Menus"
+
+#: functions/customizer.php:214
+#@ firmasite
+msgid "Only Content. No sidebar (Short)"
+msgstr "Alleen content, Geen sidebar (kort)"
+
+#: functions/customizer.php:215
+#@ firmasite
+msgid "Only Content. No sidebar (Long)"
+msgstr "Alleen content, Geen sidebar (lang)"
+
+#: functions/customizer.php:297
+#@ firmasite
+msgid "Responsive feature have special display style for different devices (from desktop computer monitors to mobile phones). This will remove responsive feature so your site will have same display in all devices."
+msgstr "Responsieve functie hebben een speciale vertoning voor verschillende apparaten (van desktop computer beeldschermen tot mobiele telefoons). Dit zal responsieve functies verwijderen zodat uw site zal dezelfde weergave heeft op alle apparaten hebben."
+
+#: functions/promotionbar.php:267
+#@ firmasite
+msgid "Promotion Bar"
+msgstr "Promotie bar"
+
+#: functions/promotionbar.php:287
+#@ firmasite
+msgid "Title"
+msgstr "Titel"
+
+#: functions/promotionbar.php:293
+#@ firmasite
+msgid "If you leave it empty, it wont show title. Example titles: <b>Editor's Choice</b>, <b>Must Read List</b> "
+msgstr "Als je dit leeg laat, zal het de titel tonen. Voorbeeld titels: <b>Editor's keuze</b>, <b>Moet je lezen lijst</b>  "
+
+#: functions/promotionbar.php:302
+#@ firmasite
+msgid "Where do you want to show Promotion Bar?"
+msgstr "Waar wil je de promotie bar vertonen?"
+
+#: functions/promotionbar.php:307
+#@ firmasite
+msgid "Only Home Page"
+msgstr "Alleen op Home pagina"
+
+#: functions/promotionbar.php:308
+#@ firmasite
+msgid "All Site"
+msgstr "Alle sites"
+
+#: buddypress/members/register.php:100
+#: buddypress/members/single/profile/edit.php:37
+#@ firmasite
+msgctxt "Change profile field visibility level"
+msgid "Change"
+msgstr ""
+
+#: functions/infinite-scroll.php:73
+#@ firmasite
+msgid "All content loaded."
+msgstr ""
+
+#: functions/infinite-scroll.php:75
+#@ firmasite
+msgid "Loading..."
+msgstr ""
+

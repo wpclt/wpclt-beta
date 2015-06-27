@@ -1,0 +1,3240 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FirmaSite [Theme]\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Thu Sep 18 2014 22:53:37 GMT+0300 (GTB Daylight Time)\n"
+"PO-Revision-Date: Thu Sep 18 2014 22:53:38 GMT+0300 (GTB Daylight Time)\n"
+"Last-Translator: Ünsal Korkmaz <unsalkorkmaz@gmail.com>\n"
+"Language-Team: \n"
+"Language: Spanish\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: es_ES"
+
+#: buddypress/activity/entry.php:48
+msgid "View Conversation"
+msgstr ""
+
+#: buddypress/activity/index.php:78 buddypress/groups/single/activity.php:9
+#: buddypress/members/single/activity.php:20
+msgid "&mdash; Everything &mdash;"
+msgstr ""
+
+#: buddypress/groups/create.php:151 buddypress/groups/single/admin.php:132
+msgid ""
+"Upload an image to use as a profile photo for this group. The image will be "
+"shown on the main group page, and in search results."
+msgstr ""
+
+#: buddypress/groups/create.php:159
+msgid "To skip the group profile photo upload process, hit the \"Next Step\" button."
+msgstr ""
+
+#: buddypress/groups/create.php:166
+msgid "Crop Group Profile Photo"
+msgstr ""
+
+#: buddypress/groups/create.php:168 buddypress/groups/single/admin.php:156
+msgid "Profile photo to crop"
+msgstr ""
+
+#: buddypress/groups/create.php:171 buddypress/groups/single/admin.php:159
+msgid "Profile photo preview"
+msgstr ""
+
+#: buddypress/groups/create.php:248
+msgid ""
+"Once you have built up friend connections you will be able to invite others "
+"to your group."
+msgstr ""
+
+#: buddypress/groups/single/admin.php:31
+msgid "Notify group members of these changes via email"
+msgstr ""
+
+#: buddypress/groups/single/admin.php:142
+msgid ""
+"If you'd like to remove the existing group profile photo but not upload a "
+"new one, please use the delete group profile photo button."
+msgstr ""
+
+#: buddypress/groups/single/admin.php:144
+msgid "Delete Group Profile Photo"
+msgstr ""
+
+#: buddypress/groups/single/admin.php:154
+msgid "Crop Profile Photo"
+msgstr ""
+
+#: buddypress/members/activate.php:17
+#, c-format
+msgid ""
+"Your account was activated successfully! You can now <a href=\"%s\">log in</a> "
+"with the username and password you provided when you signed up."
+msgstr ""
+
+#: buddypress/members/single/notifications/feedback-no-notifications.php:7
+msgid "You have no unread notifications."
+msgstr ""
+
+#: buddypress/members/single/notifications/feedback-no-notifications.php:11
+msgid "This member has no unread notifications."
+msgstr ""
+
+#: buddypress/members/single/notifications/feedback-no-notifications.php:19
+msgid "You have no notifications."
+msgstr ""
+
+#: buddypress/members/single/notifications/feedback-no-notifications.php:23
+msgid "This member has no notifications."
+msgstr ""
+
+#: buddypress/members/single/notifications/notifications-loop.php:6
+msgid "Notification"
+msgstr ""
+
+#: buddypress/members/single/notifications/notifications-loop.php:7
+msgid "Date Received"
+msgstr ""
+
+#: buddypress/members/single/notifications/notifications-loop.php:8
+msgid "Actions"
+msgstr ""
+
+#: buddypress/members/single/profile/change-avatar.php:1
+msgid "Change Profile Photo"
+msgstr ""
+
+#: buddypress/members/single/profile/change-avatar.php:7
+msgid ""
+"Your profile photo will be used on your profile and throughout the site. If "
+"there is a <a href=\"http://gravatar.com\">Gravatar</a> associated with your "
+"account email we will use that, or you can upload an image from your "
+"computer."
+msgstr ""
+
+#: buddypress/members/single/profile/change-avatar.php:23
+msgid ""
+"If you'd like to delete your current profile photo but not upload a new one, "
+"please use the delete profile photo button."
+msgstr ""
+
+#: buddypress/members/single/profile/change-avatar.php:24
+msgid "Delete Profile Photo"
+msgstr ""
+
+#: buddypress/members/single/profile/change-avatar.php:24
+msgid "Delete My Profile Photo"
+msgstr ""
+
+#: buddypress/members/single/profile/change-avatar.php:31
+msgid "Crop Your New Profile Photo"
+msgstr ""
+
+#: buddypress/members/single/profile/change-avatar.php:33
+msgid "Profile Photo to crop"
+msgstr ""
+
+#: buddypress/members/single/profile/change-avatar.php:36
+msgid "Profile Photo preview"
+msgstr ""
+
+#: buddypress/members/single/profile/change-avatar.php:55
+msgid ""
+"Your profile photo will be used on your profile and throughout the site. To "
+"change your profile photo, please create an account with <a href=\"http:"
+"//gravatar.com\">Gravatar</a> using the same email address as you used to "
+"register with this site."
+msgstr ""
+
+#: buddypress/members/single/settings/notifications.php:6
+msgid "Send an email notice when:"
+msgstr ""
+
+#: buddypress/members/single/settings/profile.php:15
+msgid "Visibility"
+msgstr ""
+
+#: buddypress/members/single/settings/profile.php:42
+msgid "Save Settings"
+msgstr ""
+
+#: functions/buddypress-customs.php:325
+msgid "Oldest"
+msgstr ""
+
+#: functions/buddypress-customs.php:328
+msgid "Group Activity"
+msgstr ""
+
+#: functions/buddypress-functions.php:63
+msgid "FirmaSite"
+msgstr ""
+
+#: functions/buddypress-functions.php:241
+msgid "Are you sure you want to leave this group?"
+msgstr ""
+
+#: functions/buddypress-functions.php:248
+#, c-format
+msgid "Show all %d comments"
+msgstr ""
+
+#: functions/buddypress-functions.php:249
+msgid ""
+"Your profile has unsaved changes. If you leave the page, the changes will be "
+"lost."
+msgstr ""
+
+#: functions/buddypress-functions.php:724
+msgid "There was a problem posting your update; please try again."
+msgstr ""
+
+#: functions/buddypress-functions.php:1053
+#, c-format
+msgid ""
+"%s has previously requested to join this group. Sending an invitation will "
+"automatically add the member to the group."
+msgstr ""
+
+#: functions/customizer-call.php:80
+msgid "Darkly"
+msgstr ""
+
+#: functions/customizer-call.php:84
+msgid "Lumen"
+msgstr ""
+
+#: functions/customizer-call.php:85
+msgid "Paper"
+msgstr ""
+
+#: functions/customizer-call.php:87
+msgid "Sandstone"
+msgstr ""
+
+#: functions/customizer-call.php:91
+msgid "Superhero"
+msgstr ""
+
+#: functions/honeypot.php:13 functions/honeypot.php:28
+#: functions/honeypot.php:43 functions/honeypot.php:62
+msgid "You filled out a form field that was created to stop spammers."
+msgstr ""
+
+#: functions/infinite-scroll.php:58
+msgid "Activate Infinite Scroll"
+msgstr ""
+
+#: functions/infinite-scroll.php:64
+msgid ""
+"Instead of having to click a link to get to the next set of posts, infinite "
+"scrolling pulls the next posts automatically into view when the reader "
+"approaches the bottom of the page."
+msgstr ""
+
+#: functions/shortcodes.php:190
+msgid "Gallery Style"
+msgstr ""
+
+#: functions/shortcodes.php:194
+msgid "Grid"
+msgstr ""
+
+#: functions/shortcodes.php:195
+msgid "Tiles"
+msgstr ""
+
+#: functions/shortcodes.php:196
+msgid "Slider"
+msgstr ""
+
+#: functions/infinite-scroll/infinity.php:277
+msgid "To infinity and beyond"
+msgstr ""
+
+#: functions/infinite-scroll/infinity.php:286
+msgid ""
+"We&rsquo;ve changed this option to a click-to-scroll version for you since "
+"you have footer widgets in Appearance &rarr; Widgets, or your theme uses "
+"click-to-scroll as the default behavior."
+msgstr ""
+
+#: functions/infinite-scroll/infinity.php:292
+msgid "Scroll Infinitely"
+msgstr ""
+
+#: functions/infinite-scroll/infinity.php:292
+#, c-format
+msgid "(Shows %s posts on each load)"
+msgstr ""
+
+#: functions/infinite-scroll/infinity.php:523
+msgid "Older posts"
+msgstr ""
+
+#: functions/infinite-scroll/infinity.php:540
+#, c-format
+msgid "Older %s"
+msgstr ""
+
+#: functions/infinite-scroll/infinity.php:557
+msgid "Scroll back to top"
+msgstr ""
+
+#: functions/infinite-scroll/infinity.php:1088
+#, c-format
+msgid "Theme: %1$s."
+msgstr ""
+
+#: buddypress/members/single/groups/invites.php:15
+#, c-format
+msgctxt "Group member count"
+msgid "1 member"
+msgid_plural "%d members"
+msgstr[0] ""
+msgstr[1] ""
+
+#: bbpress/form-user-edit.php:143
+msgid ""
+"If you would like to change the password type a new one. Otherwise leave "
+"this blank."
+msgstr ""
+"Si deseas cambiar la contraseña escribe una nueva. De lo contrario déjalo en "
+"blanco."
+
+#: buddypress/members/register.php:292
+msgid ""
+"You have successfully created your account! To begin using this site you "
+"will need to activate your account via the email we have just sent to your "
+"address."
+msgstr ""
+"Has creado satisfactoriamente la cuenta. Para comenzar a utilizar este sitio,"
+" necesitarás activar tu cuenta mediante el correo electrónico que hemos "
+"enviado a tu cuenta."
+
+#: bbpress/form-user-edit.php:146
+msgid "Type your new password again."
+msgstr "Escribe tu nueva contraseña de nuevo."
+
+#: buddypress/members/register.php:294
+msgid ""
+"You have successfully created your account! Please log in using the username "
+"and password you have just created."
+msgstr ""
+"Tu cuenta ha sido creada. Puedes acceder a tu cuenta con el usuario y "
+"contraseña que has creado."
+
+#: bbpress/form-user-edit.php:149
+msgid ""
+"Your password should be at least ten characters long. Use upper and lower "
+"case letters, numbers, and symbols to make it even stronger."
+msgstr ""
+"Tu contraseña debería tener al menos, 10 caracteres. Usa mayúsculas y "
+"minúsculas, números y símbolos para hacerla más segura."
+
+#: functions/customizer.php:261
+msgid "Loop Style"
+msgstr "Estilo del Loop"
+
+#: bbpress/form-user-edit.php:160 bbpress/form-user-edit.php:163
+msgid "User Role"
+msgstr "[Rol del Usuario]"
+
+#: functions/customizer.php:267 functions/customizer.php:274
+msgid "Vertical List (Excerpt)"
+msgstr "Lista Vertical (Extracto)"
+
+#: bbpress/form-user-edit.php:170
+msgid "Network Role"
+msgstr "Perfil en la red"
+
+#: functions/customizer.php:273
+msgid "Content will list one by one"
+msgstr "El contenido se listara uno a uno"
+
+#: bbpress/form-user-edit.php:173
+msgid "Grant this user super admin privileges for the Network."
+msgstr "Otorgar a este usuario privilegios de Super Administrador para la red."
+
+#: functions/customizer.php:275
+msgid "Content's excerpt will list one by one"
+msgstr "Los extractos se listarán uno a uno"
+
+#: bbpress/form-user-edit.php:190 buddypress/groups/single/admin.php:37
+#: buddypress/groups/single/admin.php:122
+#: buddypress/groups/single/forum/edit.php:58
+#: buddypress/groups/single/forum/edit.php:74
+#: buddypress/members/single/profile/edit.php:153
+#: buddypress/members/single/settings/general.php:25
+#: buddypress/members/single/settings/notifications.php:13
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: functions/customizer.php:277
+#, c-format
+msgid "Content's excerpt will list vertically (%s in each row)"
+msgstr "Los extractos se listarán verticalmente (%s en cada línea)"
+
+#: bbpress/form-user-edit.php:195
+msgid "Update Profile"
+msgstr "Actualizar Perfil"
+
+#: functions/customizer.php:348
+msgid "Dont make menu automatically open when hover"
+msgstr "No abrir menú automáticamente al pasar por encima"
+
+#: bbpress/form-user-edit.php:195
+msgid "Update User"
+msgstr "Actualizar Usuario"
+
+#: functions/promotionbar.php:325
+msgid "In Site Footer"
+msgstr "En el Pie de Página"
+
+#: bbpress/form-user-login.php:14 bbpress/form-user-login.php:35
+msgid "Log In"
+msgstr "Identifícate"
+
+#: functions/customizer.php:89
+msgid "You can upload logo for your site."
+msgstr "Sube tu logotipo."
+
+#: bbpress/form-user-login.php:22
+msgid "Password"
+msgstr "Contraseña"
+
+#: functions/customizer.php:178
+msgid "You can change your site's font"
+msgstr "Cambiar la tipografía de la web"
+
+#: bbpress/form-user-login.php:28
+msgid "Keep me signed in"
+msgstr "Mantenerme registrado"
+
+#: functions/customizer.php:217
+msgid "You can change your site's layout."
+msgstr "Cambia el diseño de la web."
+
+#: bbpress/form-user-lost-pass.php:14
+msgid "Lost Password"
+msgstr "Perdí mi contraseña"
+
+#: functions/customizer.php:238
+msgid "You can change your site's style."
+msgstr "Cambia el diseño de la plantilla."
+
+#: bbpress/form-user-lost-pass.php:18
+msgid "Username or Email"
+msgstr "Nombre de usuario o correo electr&oacute;nico"
+
+#: functions/fix.php:260
+#, c-format
+msgid "Page %s"
+msgstr "Página %s"
+
+#: bbpress/form-user-lost-pass.php:27
+msgid "Reset My Password"
+msgstr "Restablecer mi contraseña"
+
+#: buddypress/activity/comment.php:32
+#: buddypress/groups/single/forum/edit.php:10
+msgid "Reply"
+msgid_plural "Replies"
+msgstr[0] "Respuesta"
+msgstr[1] "Respuestas"
+
+#: bbpress/form-user-register.php:14 buddypress/members/register.php:23
+msgid "Create an Account"
+msgstr "Crear cuenta"
+
+#: bbpress/content-single-topic-lead.php:22
+#: bbpress/content-single-topic-lead.php:94
+#: buddypress/forums/forums-loop.php:23
+msgid "Topic"
+msgid_plural "Topics"
+msgstr[0] "Tema"
+msgstr[1] "Temas"
+
+#: bbpress/form-user-register.php:17
+msgid "Your username must be unique, and cannot be changed later."
+msgstr ""
+"Tu nombre de usuario debe ser &uacute;nico y no lo podrás cambiar más "
+"adelante."
+
+#: functions/class-tgm-plugin-activation.php:164 functions/init.php:475
+msgid "Install Required Plugins"
+msgstr "Instalar los plugins necesarios"
+
+#: bbpress/form-user-register.php:18
+msgid ""
+"We use your email address to email you a secure password and verify your "
+"account."
+msgstr ""
+"Usamos tu direcci&oacute;n de correo electr&oacute;nico para enviarte una "
+"contrase&ntilde;a segura y verificar tu cuenta."
+
+#: functions/class-tgm-plugin-activation.php:165 functions/init.php:476
+msgid "Install Plugins"
+msgstr "Instalar Plugins"
+
+#: bbpress/form-user-register.php:36
+msgid "Register"
+msgstr "Registrar"
+
+#: functions/class-tgm-plugin-activation.php:166 functions/init.php:477
+#, c-format
+msgid "Installing Plugin: %s"
+msgstr "Instalando Plugin: %s"
+
+#: bbpress/form-user-roles.php:2
+msgid "Blog Role"
+msgstr "Perfil en el Blog"
+
+#: functions/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr "Ha habido un error."
+
+#: bbpress/form-user-roles.php:9
+msgid "Forum Role"
+msgstr "Perfil en el Foro"
+
+#: functions/class-tgm-plugin-activation.php:168 functions/init.php:479
+#, c-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Este Tema requiere el plugin: %1$s."
+msgstr[1] "Este Tema requiere los plugins: %1$s."
+
+#: bbpress/loop-search-forum.php:50 bbpress/loop-single-forum.php:68
+msgid "Topics"
+msgstr "Debates"
+
+#: functions/class-tgm-plugin-activation.php:169 functions/init.php:480
+#, c-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Este Tema recomienda utilizar el plugin: %1$s."
+msgstr[1] "Este Tema recomienda utilizar los plugins: %1$s."
+
+#: bbpress/loop-search-forum.php:52 bbpress/loop-search-topic.php:54
+#: bbpress/loop-single-forum.php:70 bbpress/loop-single-topic.php:61
+msgid "Replies"
+msgstr "Respuestas"
+
+#: functions/class-tgm-plugin-activation.php:171 functions/init.php:481
+#, c-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins."
+" Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] ""
+"Lo sentimos, no tienes permisos para instalar el plugin %s. Contacta con el "
+"administrador de la web para recibir asistencia acerca de la instalación de "
+"plugins."
+msgstr[1] ""
+"Lo sentimos, no tienes permisos para instalar los plugins %s. Contacta con "
+"el administrador de la web para recibir asistencia acerca de la instalación "
+"de plugins."
+
+#: bbpress/loop-single-reply-threaded.php:33 bbpress/loop-single-reply.php:33
+msgid "in reply to: "
+msgstr "en repuesta a: "
+
+#: functions/class-tgm-plugin-activation.php:172 functions/init.php:482
+#, c-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin requerido esta inactivo: %1$s."
+msgstr[1] "Los siguientes plugins requeridos estan inactivos: %1$s."
+
+#: bbpress/loop-search-topic.php:63 bbpress/loop-single-topic.php:70
+#: buddypress/forums/forums-loop.php:25 functions/bbpress.php:111
+#: functions/bbpress.php:141
+msgid "Freshness"
+msgstr "Actualizado"
+
+#: functions/class-tgm-plugin-activation.php:173 functions/init.php:483
+#, c-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin reqcomendado esta inactivo: %1$s."
+msgstr[1] "Los siguientes plugins recomendados estan inactivos: %1$s."
+
+#: bbpress/loop-search-topic.php:58 bbpress/loop-single-topic.php:65
+#, c-format
+msgid "Started by: %1$s"
+msgstr "Iniciado por: %1$s"
+
+#: functions/class-tgm-plugin-activation.php:174 functions/init.php:484
+#, c-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin."
+" Contact the administrator of this site for help on getting the plugin "
+"activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+"Lo sentimos, no tienes permisos para activar el plugin %s. Contacta con el "
+"administrador de la web para recibir asistencia acerca de la activación de "
+"plugins."
+msgstr[1] ""
+"Lo sentimos, no tienes permisos para activar los plugins %s. Contacta con el "
+"administrador de la web para recibir asistencia acerca de la activación de "
+"plugins."
+
+#: bbpress/loop-search-topic.php:83 bbpress/loop-single-topic.php:90
+#, c-format
+msgid "in: <a href=\"%1$s\">%2$s</a>"
+msgstr "en: <a href=\"%1$s\">%2$s</a>"
+
+#: functions/class-tgm-plugin-activation.php:175 functions/init.php:485
+#, c-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"Para garantizar la máxima compatibilidad con el Tema, necesitas actualizar a "
+"su última versión el siguiente plugin: %1$s."
+msgstr[1] ""
+"Para garantizar la máxima compatibilidad con el Tema, necesitas actualizar a "
+"su última versión los siguientes plugins: %1$s."
+
+#: bbpress/user-details.php:28
+#: buddypress/members/single/profile/profile-wp.php:8
+#, c-format
+msgid "%s's Profile"
+msgstr "Perfil de %s"
+
+#: functions/class-tgm-plugin-activation.php:176 functions/init.php:486
+#, c-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+"Lo sentimos, no tienes permisos para actualizar el plugin %s. Contacta con "
+"el administrador de la web para recibir asistencia acerca de la "
+"actualización de plugins."
+msgstr[1] ""
+"Lo sentimos, no tienes permisos para actualizar los plugins %s. Contacta con "
+"el administrador de la web para recibir asistencia acerca de la "
+"actualización de plugins."
+
+#: bbpress/user-details.php:28 bbpress/user-profile.php:15
+msgid "Profile"
+msgstr "Perfil"
+
+#: functions/class-tgm-plugin-activation.php:177 functions/init.php:487
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Comenzar la instalación del plugin"
+msgstr[1] "Comenzar la instalación de los plugins"
+
+#: bbpress/user-details.php:32
+#, c-format
+msgid "%s's Topics Started"
+msgstr "%s's Temas Comenzados"
+
+#: functions/class-tgm-plugin-activation.php:179 functions/init.php:488
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] "Activar el plugin instalado"
+msgstr[1] "Activar los plugins instalados"
+
+#: bbpress/user-details.php:32
+msgid "Topics Started"
+msgstr "Temas Comenzados"
+
+#: functions/class-tgm-plugin-activation.php:180
+#: functions/class-tgm-plugin-activation.php:510 functions/init.php:489
+msgid "Return to Required Plugins Installer"
+msgstr "Volver al Instalador de Plugins Requeridos"
+
+#: bbpress/user-details.php:36
+#, c-format
+msgid "%s's Replies Created"
+msgstr "%s's Respuestas Realizadas"
+
+#: functions/class-tgm-plugin-activation.php:181
+#: functions/class-tgm-plugin-activation.php:1908 functions/init.php:490
+msgid "Plugin activated successfully."
+msgstr "Plugin activado correctamente."
+
+#: bbpress/user-details.php:36
+msgid "Replies Created"
+msgstr "Respuestas Creadas"
+
+#: functions/class-tgm-plugin-activation.php:182
+#, c-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos los plugins se instalaron y activaron correctamente. %1$s"
+
+#: bbpress/user-details.php:41
+#, c-format
+msgid "%s's Favorites"
+msgstr "%s's Favoritos"
+
+#: functions/class-tgm-plugin-activation.php:537
+#: functions/class-tgm-plugin-activation.php:2120
+msgid "Return to the Dashboard"
+msgstr "Volver al Escritorio"
+
+#: bbpress/user-details.php:41
+msgid "Favorites"
+msgstr "Favoritos"
+
+#: functions/class-tgm-plugin-activation.php:565
+#, c-format
+msgid "The following plugin was activated successfully: %s."
+msgstr "El suiguiente plugin se activó correctamente: %s."
+
+#: bbpress/user-details.php:49
+#, c-format
+msgid "%s's Subscriptions"
+msgstr "%s's Suscripciones"
+
+#: functions/class-tgm-plugin-activation.php:738
+msgid "Dismiss this notice"
+msgstr "Descartar esta notificación"
+
+#: bbpress/user-details.php:49
+msgid "Subscriptions"
+msgstr "Suscripciones"
+
+#: functions/class-tgm-plugin-activation.php:1125
+msgid "External Link"
+msgstr "Enlace Externo"
+
+#: bbpress/user-favorites.php:15
+msgid "Favorite Forum Topics"
+msgstr "Temas Favoritos"
+
+#: functions/class-tgm-plugin-activation.php:1130
+msgid "Private Repository"
+msgstr "Repositorio Privado"
+
+#: bbpress/user-favorites.php:28
+msgid "You currently have no favorite topics."
+msgstr "Actualmente no tienes debates favoritos."
+
+#: functions/class-tgm-plugin-activation.php:1133
+msgid "Pre-Packaged"
+msgstr "Pre-Empaquetado"
+
+#: bbpress/user-favorites.php:28
+msgid "This user has no favorite topics."
+msgstr "Este usuario no tiene debates favoritos."
+
+#: functions/class-tgm-plugin-activation.php:1137
+msgid "WordPress Repository"
+msgstr "Repositorio de Wordpress"
+
+#: bbpress/user-profile.php:24
+#, c-format
+msgid "Forum Role: %s"
+msgstr "Perfil en el Foro: %s"
+
+#: functions/class-tgm-plugin-activation.php:1140
+msgid "Required"
+msgstr "Requerido"
+
+#: bbpress/user-profile.php:25
+#, c-format
+msgid "Topics Started: %s"
+msgstr "Temas Comenzados: %s"
+
+#: functions/class-tgm-plugin-activation.php:1140
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: bbpress/user-profile.php:26
+#, c-format
+msgid "Replies Created: %s"
+msgstr "Respuestas creadas: %s"
+
+#: functions/class-tgm-plugin-activation.php:1143
+msgid "Not Installed"
+msgstr "Sin Instalar"
+
+#: bbpress/user-replies-created.php:15
+msgid "Forum Replies Created"
+msgstr "Respuestas en los foros"
+
+#: functions/class-tgm-plugin-activation.php:1145
+msgid "Installed But Not Activated"
+msgstr "Instalado Pero sin Activar"
+
+#: bbpress/user-replies-created.php:28
+msgid "You have not replied to any topics."
+msgstr "No has respondido a ningún debate."
+
+#: functions/class-tgm-plugin-activation.php:1343
+#, c-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"No hay plugins que activar o instalar. <a href=\"%1$s\" title=\"Volver al "
+"Escritorio\">Volver al Escritorio</a>"
+
+#: bbpress/user-replies-created.php:28
+msgid "This user has not replied to any topics."
+msgstr "Este usuario no ha respondido a ningún debate."
+
+#: functions/class-tgm-plugin-activation.php:1359
+msgid "Plugin"
+msgstr "Plugin"
+
+#: bbpress/user-subscriptions.php:34
+msgid "Subscribed Forum Topics"
+msgstr "Debates del foro con suscripción"
+
+#: functions/class-tgm-plugin-activation.php:1360
+msgid "Source"
+msgstr "Fuente"
+
+#: bbpress/user-subscriptions.php:47
+msgid "You are not currently subscribed to any topics."
+msgstr "No estás suscrito a ningún debate."
+
+#: functions/class-tgm-plugin-activation.php:1361
+msgid "Type"
+msgstr "Tipo"
+
+#: bbpress/user-subscriptions.php:47
+msgid "This user is not currently subscribed to any topics."
+msgstr "Este usuario actualmente no está suscrito a ningún debate."
+
+#: functions/class-tgm-plugin-activation.php:1362
+msgid "Status"
+msgstr "Estado"
+
+#: bbpress/user-topics-created.php:15
+msgid "Forum Topics Started"
+msgstr "Temas que has comenzado"
+
+#: functions/class-tgm-plugin-activation.php:1380
+msgid "Install"
+msgstr "Instalar"
+
+#: bbpress/user-topics-created.php:28
+msgid "You have not created any topics."
+msgstr "No has creado ningún debate."
+
+#: functions/class-tgm-plugin-activation.php:1606
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "El siguiente plugin se ha activado correctamente:"
+msgstr[1] "Los siguientes plugins se han activado correctamente:"
+
+#: bbpress/user-topics-created.php:28
+msgid "This user has not created any topics."
+msgstr "Este usuario no ha creado ningún debate."
+
+#: functions/class-tgm-plugin-activation.php:1891
+msgid "Install package not available."
+msgstr "Paquete de instalación no disponibe."
+
+#: buddypress/blogs/blogs-loop.php:78
+msgid "Sorry, there were no sites found."
+msgstr "Lo sentimos, no se han encontrado sitios."
+
+#: functions/class-tgm-plugin-activation.php:1892
+#, c-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "Descargando paquete de instalación desde <span class=\"code\">%s</span>&#8230;"
+
+#: functions/class-tgm-plugin-activation.php:1893
+msgid "Unpacking the package&#8230;"
+msgstr "Desempaquetando&#8230;"
+
+#: functions/class-tgm-plugin-activation.php:1894
+msgid "Installing the plugin&#8230;"
+msgstr "Instalando el plugin&#8230;"
+
+#: buddypress/blogs/create.php:14
+msgid "Site registration is currently disabled"
+msgstr "Registro de sitios deshabilitado"
+
+#: functions/class-tgm-plugin-activation.php:1895
+msgid "Plugin install failed."
+msgstr "Instalación del plugin fallida."
+
+#: buddypress/blogs/index.php:17
+#, c-format
+msgid "All Sites <span>%s</span>"
+msgstr "Todos los Sitios <span>%s</span>"
+
+#: functions/class-tgm-plugin-activation.php:1896
+msgid "Plugin installed successfully."
+msgstr "Plugin instalado correctamente."
+
+#: buddypress/blogs/index.php:21
+#, c-format
+msgid "My Sites <span>%s</span>"
+msgstr "Mis Sitios <span>%s</span>"
+
+#: functions/class-tgm-plugin-activation.php:1907
+msgid "Plugin activation failed."
+msgstr "Activación del plugin fallida."
+
+#: buddypress/blogs/index.php:37 buddypress/forums/index.php:43
+#: buddypress/groups/index.php:37 buddypress/groups/single/forum.php:36
+#: buddypress/members/index.php:36 buddypress/members/single/blogs.php:19
+#: buddypress/members/single/forums.php:18
+#: buddypress/members/single/friends.php:20
+#: buddypress/members/single/groups.php:20 functions/buddypress-customs.php:322
+msgid "Order By:"
+msgstr "Ordenado por:"
+
+#: functions/class-tgm-plugin-activation.php:2017
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"La instalación y activación ha comenzado. Puede tardar un rato, por favor se "
+"paciente."
+
+#: buddypress/blogs/index.php:39 buddypress/forums/index.php:45
+#: buddypress/groups/index.php:40 buddypress/groups/single/forum.php:38
+#: buddypress/members/index.php:38 buddypress/members/single/blogs.php:21
+#: buddypress/members/single/forums.php:20
+#: buddypress/members/single/friends.php:22
+#: buddypress/members/single/groups.php:22
+msgid "Last Active"
+msgstr "Último Activo"
+
+#: functions/class-tgm-plugin-activation.php:2018
+#, c-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalado y activado correctamente."
+
+#: buddypress/blogs/index.php:40 buddypress/members/single/blogs.php:22
+#: functions/buddypress-customs.php:324
+msgid "Newest"
+msgstr "Más Nuevo"
+
+#: functions/class-tgm-plugin-activation.php:2018
+#: functions/class-tgm-plugin-activation.php:2027
+msgid "Show Details"
+msgstr "Mostrar Detalles"
+
+#: buddypress/blogs/index.php:41 buddypress/groups/index.php:43
+#: buddypress/members/index.php:42 buddypress/members/single/blogs.php:23
+#: buddypress/members/single/friends.php:24
+#: buddypress/members/single/groups.php:25 functions/buddypress-customs.php:331
+msgid "Alphabetical"
+msgstr "Alfabético"
+
+#: functions/class-tgm-plugin-activation.php:2018
+#: functions/class-tgm-plugin-activation.php:2027
+msgid "Hide Details"
+msgstr "Ocultar Detalles"
+
+#: templates/footer.php:52
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: functions/class-tgm-plugin-activation.php:2019
+msgid "All installations and activations have been completed."
+msgstr "Todas las instalaciones y activaciones se han completado."
+
+#: templates/footer.php:52
+#, c-format
+msgid "Proudly powered by %s"
+msgstr "Funciona con %s"
+
+#: functions/class-tgm-plugin-activation.php:2020
+#, c-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando y Activando Plugin %1$s (%2$d/%3$d)"
+
+#: buddypress/forums/forums-loop.php:45
+#, c-format
+msgid "Started by %1$s"
+msgstr "Comenzado por %1$s"
+
+#: functions/class-tgm-plugin-activation.php:2024
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr "El proceso de instalación "
+
+#: buddypress/forums/forums-loop.php:56
+#, c-format
+msgid "in %1$s"
+msgstr "en %1$s"
+
+#: functions/class-tgm-plugin-activation.php:2025
+#, c-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Ha habido un error durante la instalación de %1$s: <strong>%2$s</strong>."
+
+#: buddypress/forums/forums-loop.php:106
+msgid "Sorry, there were no forum topics found."
+msgstr "Lo sentimos, no se han encontrado temas en los foros."
+
+#: functions/class-tgm-plugin-activation.php:2026
+#, c-format
+msgid "The installation of %1$s failed."
+msgstr "La instalación de %1$s ha fallado."
+
+#: functions/class-tgm-plugin-activation.php:2027
+#, c-format
+msgid "%1$s installed successfully."
+msgstr "%1$s instalado correctamente."
+
+#: buddypress/groups/single/forum.php:19
+msgid "New Topic"
+msgstr "Nuevo hilo"
+
+#: functions/class-tgm-plugin-activation.php:2028
+msgid "All installations have been completed."
+msgstr "Se han completado todas las instalaciones."
+
+#: buddypress/forums/index.php:23
+#, c-format
+msgid "All Topics <span>%s</span>"
+msgstr "Todos los Temas <span>%s</span>"
+
+#: functions/class-tgm-plugin-activation.php:2029
+#, c-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando el Plugin %1$s (%2$d/%3$d)"
+
+#: buddypress/forums/index.php:27
+#, c-format
+msgid "My Topics <span>%s</span>"
+msgstr "Mis Temas <span>%s</span>"
+
+#: functions/customizer-call.php:82
+msgid "Flatly"
+msgstr "Flatly"
+
+#: buddypress/forums/index.php:46 buddypress/groups/single/forum.php:39
+#: buddypress/members/single/forums.php:21
+msgid "Most Posts"
+msgstr "Más Posts"
+
+#: functions/customizer.php:112
+msgid "Site Title Color"
+msgstr "Color del Título"
+
+#: buddypress/forums/index.php:47 buddypress/groups/single/forum.php:40
+#: buddypress/members/single/forums.php:22
+msgid "Unreplied"
+msgstr "Sin Responder"
+
+#: functions/customizer.php:126
+msgid ""
+"If you are not using logo, you can change your site title's color from this "
+"option."
+msgstr ""
+"Si no utilizas un logotipo, puedes cambiar el color del texto del título con "
+"esta opción."
+
+#: functions/promotionbar.php:319
+msgid "Which location do you want to show Promotion Bar?"
+msgstr "¿En qué parte quieres que se muestre la Barra Promocional?"
+
+#: buddypress/forums/index.php:83
+msgid "Create New Topic:"
+msgstr "Crear Nuevo Tema:"
+
+#: functions/customizer.php:136
+msgid "Category / Tag Color"
+msgstr "Categoría / Color de Etiqueta"
+
+#: functions/promotionbar.php:324
+msgid "Before Content"
+msgstr "Despues del Contenido"
+
+#: buddypress/forums/index.php:87 buddypress/groups/single/forum/edit.php:47
+#: buddypress/groups/single/forum.php:75
+msgid "Title:"
+msgstr "Título:"
+
+#: functions/customizer.php:150
+msgid "You can change your categories and taxonomies color from this option."
+msgstr "Puedes cambiar el color de las categorías y taxonomías con esta opción."
+
+#: functions/promotionbar.php:326
+msgid "In top of Sidebar"
+msgstr "Arriba de la Barra Lateral"
+
+#: buddypress/forums/index.php:90 buddypress/groups/single/forum/edit.php:50
+#: buddypress/groups/single/forum.php:78
+msgid "Content:"
+msgstr "Contenido:"
+
+#: functions/init.php:478
+msgid "Something went wrong with the plugin API."
+msgstr "Ha habido un error con la API del plugin."
+
+#: functions/shortcodes.php:84
+#, c-format
+msgid "This gallery contains %1$s photo."
+msgid_plural "This gallery contains %1$s photos."
+msgstr[0] "La galería contiene %1$s imagen."
+msgstr[1] "La galería contiene %1$s imágenes."
+
+#: buddypress/forums/index.php:93 buddypress/groups/single/forum/edit.php:53
+#: buddypress/groups/single/forum.php:81
+msgid "Tags (comma separated):"
+msgstr "Etiquetas (separadas por comas):"
+
+#: functions/init.php:491
+#, c-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Todos los plugins han sido instalados y activados correctamente. %s"
+
+#: functions/showcase.php:284
+msgid "For example:"
+msgstr "Por ejemplo:"
+
+#: buddypress/forums/index.php:96
+msgid "Post In Group Forum:"
+msgstr "Escribir en el Foro del Grupo:"
+
+#: functions/customizer.php:313 functions/customizer.php:334
+msgid "Alternative"
+msgstr "Alternativo"
+
+#: functions/showcase.php:285
+msgid "Click for more details"
+msgstr "Pincha para leer más"
+
+#: buddypress/forums/index.php:99
+msgid "----"
+msgstr "----"
+
+#: functions/customizer.php:314 functions/customizer.php:335
+msgid "Simple"
+msgstr "Simple"
+
+#: templates/bbpress.php:23 templates/post/loop_excerpt/loop-gallery.php:22
+#: templates/post/loop_excerpt/loop-image.php:27
+#: templates/post/loop_excerpt/loop.php:31
+#: templates/post/loop_list/loop-aside.php:20
+#: templates/post/loop_list/loop-audio.php:20
+#: templates/post/loop_list/loop-chat.php:20
+#: templates/post/loop_list/loop-gallery.php:22
+#: templates/post/loop_list/loop-image.php:27
+#: templates/post/loop_list/loop-link.php:28
+#: templates/post/loop_list/loop-quote.php:20
+#: templates/post/loop_list/loop-status.php:20
+#: templates/post/loop_list/loop.php:25 templates/post/loop_tile/loop.php:37
+#: templates/post/promotionbar/loop.php:21 templates/post/single.php:23
+#: templates/single-page.php:26 templates/single_full-page.php:27
+msgid "Permalink"
+msgstr "Enlace Permanente"
+
+#: buddypress/forums/index.php:116 buddypress/groups/single/forum.php:87
+msgid "Post Topic"
+msgstr "Postear Tema"
+
+#: functions/customizer.php:318 functions/customizer.php:339
+msgid "If you are using menus, you can change menu style with this option"
+msgstr "Si estás usando menús, puedes cambiar su estilo con esta opción"
+
+#: functions/customizer.php:289
+msgid "Make fixed. No responsive"
+msgstr "Tamaño Fijo. No Responsivo"
+
+#: buddypress/activity/entry.php:122 buddypress/forums/index.php:117
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: bbpress/feedback-no-search.php:13
+msgid "Oh bother! No search results were found here!"
+msgstr "¡Lo sentimos, no se hallaron resultados!"
+
+#: functions/showcase.php:304
+msgid "ShowCase is displaying in your home page only."
+msgstr "El Escaparate solo se muestra en la página de inicio."
+
+#: buddypress/forums/index.php:128
+#, c-format
+msgid ""
+"You are not a member of any groups so you don't have any group forums you "
+"can post in. To start posting, first find a group that matches the topic "
+"subject you'd like to start. If this group does not exist, why not <a "
+"href='%s'>create a new group</a>? Once you have joined or created the group "
+"you can post your topic in that group's forum."
+msgstr ""
+"No puedes escribir en ningún foro ya que no eres miembro de ninguno. Para "
+"empezar a publicar, encuentra un grupo de una temática afín a lo que deseas "
+"publicar. Si no existe el grupo, porque no <a href='%s'>¿creas un nuevo "
+"grupo</a>? Cuando te hayas creado o te hayas unido al grupo puedes empezar a "
+"publicar."
+
+#: bbpress/form-reply-move.php:24
+#, c-format
+msgid "Move reply \"%s\""
+msgstr "Mover respuesta \"%s\""
+
+#: templates/footer.php:55
+msgid "Theme:"
+msgstr "Tema:"
+
+#: functions/bbpress.php:113
+msgid "No Replies"
+msgstr "Sin respuestas"
+
+#: bbpress/form-reply-move.php:29
+msgid ""
+"You can either make this reply a new topic with a new title, or merge it "
+"into an existing topic."
+msgstr ""
+"Puedes hacer de esta respuesta un nuevo tema con título propio, o incluirla "
+"dentro de un tema existente"
+
+#: buddypress/activity/activity-loop.php:20
+msgid "Load More"
+msgstr "Cargar Más"
+
+#: functions/bbpress.php:143
+msgid "No Topics"
+msgstr "Sin Temas"
+
+#: bbpress/form-reply-move.php:33
+msgid ""
+"If you choose an existing topic, replies will be ordered by the time and "
+"date they were created."
+msgstr ""
+"Para un tema ya existente, las respuestas se ordenarán por la hora y fecha "
+"de creación."
+
+#: buddypress/activity/activity-loop.php:34
+msgid "Sorry, there was no activity found. Please try a different filter."
+msgstr "Lo sentimos, no se ha encontrado actividad. Prueba con otro filtro."
+
+#: functions/buddypress-functions.php:243
+msgid "My Favorites"
+msgstr "Favoritos"
+
+#: bbpress/form-reply-move.php:37
+msgid "Move Method"
+msgstr "Método Mover"
+
+#: buddypress/activity/comment.php:24
+#, c-format
+msgid ""
+"<a href=\"%1$s\">%2$s</a> replied <a href=\"%3$s\" class=\"activity-time-"
+"since\"><span class=\"time-since\">%4$s</span></a>"
+msgstr ""
+"<a href=\"%1$s\">%2$s</a> respondió <a href=\"%3$s\" class=\"activity-time-"
+"since\"><span class=\"time-since\">%4$s</span></a>"
+
+#: functions/buddypress-functions.php:238
+msgid "Accepted"
+msgstr "Aceptado"
+
+#: bbpress/form-reply-move.php:42
+#, c-format
+msgid "Moved: %s"
+msgstr "Movido: %s"
+
+#: bbpress/form-topic-tag.php:88 bbpress/form-topic-tag.php:101
+#: buddypress/activity/comment.php:38
+#: buddypress/members/single/messages/messages-loop.php:52
+#: buddypress/members/single/messages/single.php:25
+msgid "Delete"
+msgstr "Borrar"
+
+#: functions/buddypress-functions.php:244
+msgid "Rejected"
+msgstr "Rechazado"
+
+#: bbpress/form-reply-move.php:86
+msgid "You do not have the permissions to edit this reply!"
+msgstr "¡No tienes permisos para editar esta respuesta!"
+
+#: bbpress/loop-search-reply.php:43
+msgid "In reply to: "
+msgstr "en repuesta a: "
+
+#: functions/buddypress-functions.php:247
+msgid "Show all comments for this thread"
+msgstr "Mostras todos los comentarios de este hilo"
+
+#: bbpress/form-reply-move.php:86
+msgid "You cannot edit this reply."
+msgstr "No puedes editar esta respuesta-"
+
+#: functions/buddypress-functions.php:246
+msgid "Show all"
+msgstr "Mostrar todos"
+
+#: bbpress/form-search.php:12 bbpress/form-search.php:15
+msgid "Search for:"
+msgstr "Buscar por:"
+
+#: functions/buddypress-functions.php:250
+msgid "View"
+msgstr "Ver"
+
+#: functions/buddypress-functions.php:240
+msgid "comments"
+msgstr "comentarios"
+
+#: bbpress/form-search.php:17
+msgid "Search"
+msgstr "Buscar"
+
+#: buddypress/activity/entry.php:56
+#, c-format
+msgid "Comment <span>%s</span>"
+msgstr "Comentario <span>%s</span>"
+
+#: functions/buddypress-customs.php:223 functions/buddypress-customs.php:265
+#: functions/buddypress-functions.php:239
+#: templates/post/gallery/gallery_grid.php:30
+#: templates/post/gallery/gallery_slider.php:45
+#: templates/post/gallery/gallery_tile.php:36
+msgid "Close"
+msgstr "Cerrar"
+
+#: bbpress/form-topic.php:130
+msgid "(No Forum)"
+msgstr "(No hay Foros)"
+
+#: buddypress/activity/entry.php:64
+msgid "Mark as Favorite"
+msgstr "Marcar como Favorito"
+
+#: bbpress/form-topic.php:158
+msgid "Topic Status:"
+msgstr "Estado del Tema:"
+
+#: buddypress/activity/entry.php:64 functions/buddypress-functions.php:242
+#: functions/buddypress-functions.php:943
+#: functions/buddypress-functions.php:960
+msgid "Favorite"
+msgstr "Favorito"
+
+#: bbpress/loop-search-topic.php:32
+msgid "in group forum "
+msgstr "en el grupo del foro"
+
+#: buddypress/activity/entry.php:68 functions/buddypress-functions.php:245
+#: functions/buddypress-functions.php:941
+#: functions/buddypress-functions.php:962
+msgid "Remove Favorite"
+msgstr "Eliminar Favorito"
+
+#: buddypress/groups/create.php:30 buddypress/groups/single/admin.php:16
+msgid "Group Name (required)"
+msgstr "Nombre del Grupo (obligatorio)"
+
+#: bbpress/loop-search-topic.php:36
+msgid "in forum "
+msgstr "en el foro"
+
+#: buddypress/activity/entry.php:122
+msgid "Post"
+msgstr "Entrada"
+
+#: buddypress/groups/create.php:35 buddypress/groups/single/admin.php:19
+msgid "Group Description (required)"
+msgstr "Descripción del Grupo (obligatorio)"
+
+#: bbpress/user-details.php:54
+#, c-format
+msgid "Edit %s's Profile"
+msgstr "Editar el Perfil %s"
+
+#: buddypress/groups/create.php:57 buddypress/groups/single/admin.php:61
+msgid "Privacy Options"
+msgstr "Opciones de Privacidad"
+
+#: functions/customizer.php:354
+msgid ""
+"You can disable dropdown menus automatically open when you hover.<br /> "
+"<span class=\"label label-warning\"><i class=\"icon-exclamation-sign\"></i> Be "
+"careful:</span> Parent menu item will only work for opening dropdown menu "
+"and won't work like a link"
+msgstr ""
+"Deshabilitar el desplegado de los menús al pasar sobre ellos.<br /> <span "
+"class=\"label label-warning\"><i class=\"icon-exclamation-sign\"></i> Cuidado:"
+"</span>El elemento padre del menú solo podrá ser clickado para desplegar el "
+"menú y no funcionará como link."
+
+#: buddypress/groups/create.php:60 buddypress/groups/single/admin.php:66
+msgid "This is a public group"
+msgstr "Grupo público"
+
+#: header.php:34
+msgid "Skip to content"
+msgstr "Ir al contenido"
+
+#: buddypress/activity/index.php:20
+msgid "The public activity for everyone on this site."
+msgstr "Actualizaciones públicas de todos los usuarios"
+
+#: buddypress/groups/create.php:62 buddypress/groups/single/admin.php:68
+msgid "Any site member can join this group."
+msgstr "Cualquier usuario puede unirse a este grupo."
+
+#: searchform.php:7
+msgctxt "label"
+msgid "Search for:"
+msgstr "Buscar:"
+
+#: buddypress/activity/index.php:20 buddypress/members/index.php:20
+#, c-format
+msgid "All Members <span>%s</span>"
+msgstr "Todos los miembros <span>%s</span>"
+
+#: buddypress/groups/create.php:63 buddypress/groups/create.php:74
+#: buddypress/groups/single/admin.php:69 buddypress/groups/single/admin.php:79
+msgid "This group will be listed in the groups directory and in search results."
+msgstr "El grupo se mostrará en el directorio y en los resultados de búsqueda."
+
+#: searchform.php:10
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Buscar &hellip;"
+
+#: buddypress/activity/index.php:30
+msgid "The activity of my friends only."
+msgstr "Solo actualizaciones de mis amigos."
+
+#: buddypress/groups/create.php:64 buddypress/groups/single/admin.php:70
+msgid "Group content and activity will be visible to any site member."
+msgstr "El contenido y actividad del grupo puede ser visto por cualquier usuario."
+
+#: searchform.php:12
+msgctxt "submit button"
+msgid "Search"
+msgstr "Buscar"
+
+#: buddypress/activity/index.php:30 buddypress/members/index.php:23
+#, c-format
+msgid "My Friends <span>%s</span>"
+msgstr "Mis Amigos <span>%s</span>"
+
+#: buddypress/groups/create.php:70 buddypress/groups/single/admin.php:76
+msgid "This is a private group"
+msgstr "Grupo privado"
+
+#: buddypress/activity/index.php:60
+#, c-format
+msgctxt "Number of new activity mentions"
+msgid "%s new"
+msgid_plural "%s new"
+msgstr[0] "%s nuevo"
+msgstr[1] "%s nuevos"
+
+#: buddypress/activity/index.php:42
+msgid "The activity of groups I am a member of."
+msgstr "Actualizaciones de los grupos que formo parte."
+
+#: buddypress/groups/create.php:73 buddypress/groups/single/admin.php:78
+msgid "Only users who request membership and are accepted can join the group."
+msgstr ""
+"Solo los usuarios que soliciten y se les conceda autorización pueden unirse "
+"a este grupo."
+
+#: bbpress/loop-search-reply.php:64 bbpress/loop-single-reply-threaded.php:74
+#: bbpress/loop-single-reply.php:63 buddypress/activity/entry.php:41
+msgid "Details"
+msgstr "Detalles"
+
+#: buddypress/activity/index.php:42 buddypress/groups/index.php:23
+#, c-format
+msgid "My Groups <span>%s</span>"
+msgstr "Mis Grupos <span>%s</span>"
+
+#: buddypress/groups/create.php:75 buddypress/groups/create.php:86
+#: buddypress/groups/single/admin.php:80 buddypress/groups/single/admin.php:90
+msgid "Group content and activity will only be visible to members of the group."
+msgstr ""
+"Los contenidos y la actividad del grupo solo puede ser vista por sus "
+"miembros."
+
+#: buddypress/groups/single/home.php:18 buddypress/members/single/home.php:16
+#: templates/footer.php:15 templates/footer.php:34 templates/header.php:39
+#: templates/header.php:57
+msgid "Toggle navigation"
+msgstr "Cambiar navegación"
+
+#: buddypress/activity/index.php:52
+msgid "The activity I've marked as a favorite."
+msgstr "Actualizaciones marcadas como favoritas."
+
+#: buddypress/groups/create.php:81 buddypress/groups/single/admin.php:86
+msgid "This is a hidden group"
+msgstr "Grupo oculto"
+
+#: functions/buddypress-customs.php:110
+msgid "Site"
+msgstr "Web"
+
+#: buddypress/activity/index.php:52
+#, c-format
+msgid "My Favorites <span>%s</span>"
+msgstr "Mis Favoritos <span>%s</span>"
+
+#: buddypress/groups/create.php:84 buddypress/groups/single/admin.php:88
+msgid "Only users who are invited can join the group."
+msgstr "Solo los usuarios invitados pueden unirse al grupo."
+
+#: functions/customizer.php:158
+msgid "Appearance"
+msgstr "Apariencia"
+
+#: buddypress/activity/index.php:60
+msgid "Activity that I have been mentioned in."
+msgstr "Actualizaciones en las que me han mencionado."
+
+#: buddypress/groups/create.php:85 buddypress/groups/single/admin.php:89
+msgid "This group will not be listed in the groups directory or search results."
+msgstr "Este grupo no se mostrará en el directorio ni en los resultados de búsqueda."
+
+#: functions/customizer.php:266 functions/customizer.php:272
+msgid "Vertical List"
+msgstr "Listado Vertical"
+
+#: buddypress/activity/index.php:60
+msgid "Mentions"
+msgstr "Menciones"
+
+#: buddypress/groups/create.php:91 buddypress/groups/single/admin.php:97
+msgid "Group Invitations"
+msgstr "Invitaciones al Grupo"
+
+#: functions/customizer.php:268 functions/customizer.php:276
+msgid "Multi-Column List (Excerpt)"
+msgstr "Listado Multi-Columna (Resumen)"
+
+#: buddypress/groups/create.php:93 buddypress/groups/single/admin.php:99
+msgid "Which members of this group are allowed to invite others?"
+msgstr "¿Qué miembros de este grupo pueden invitar a otros?"
+
+#: functions/fix.php:173
+#, c-format
+msgid "Daily Archives: %s"
+msgstr "Archivos por dia: %s"
+
+#: buddypress/groups/create.php:98 buddypress/groups/single/admin.php:104
+msgid "All group members"
+msgstr "Todos los miembros"
+
+#: functions/fix.php:178
+#, c-format
+msgid "Monthly Archives: %s"
+msgstr "Archivos por mes:  %s"
+
+#: buddypress/activity/index.php:76 buddypress/groups/single/activity.php:7
+#: buddypress/members/single/activity.php:18
+msgid "Show:"
+msgstr "Mostrar:"
+
+#: buddypress/groups/create.php:103 buddypress/groups/single/admin.php:109
+msgid "Group admins and mods only"
+msgstr "Solo adminsitradores y mods"
+
+#: functions/fix.php:178
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "FY"
+
+#: buddypress/groups/create.php:108 buddypress/groups/single/admin.php:114
+msgid "Group admins only"
+msgstr "Solo adminstradores"
+
+#: functions/fix.php:183
+#, c-format
+msgid "Yearly Archives: %s"
+msgstr "Archivos por año: %s"
+
+#: buddypress/groups/create.php:114
+msgid "Group Forums"
+msgstr "Foros del grupo"
+
+#: functions/fix.php:183
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: bbpress/loop-search-forum.php:52 bbpress/loop-search-topic.php:54
+#: bbpress/loop-single-forum.php:70 bbpress/loop-single-topic.php:61
+#: buddypress/forums/forums-loop.php:24 functions/buddypress-customs.php:123
+msgid "Posts"
+msgstr "Mensajes"
+
+#: buddypress/groups/create.php:118
+msgid "Should this group have a forum?"
+msgstr "¿Tiene este grupo un foro propio?"
+
+#: functions/fix.php:188
+#, c-format
+msgid "All posts by %s"
+msgstr "Todas las entradas de %s"
+
+#: buddypress/groups/create.php:121 buddypress/groups/single/admin.php:52
+msgid "Enable discussion forum"
+msgstr "Activar foro"
+
+#: functions/template-tags.php:85 functions/template-tags.php:102
+msgid "<span class=\"edit-link\"><span class=\"icon-edit\"></span> Edit</span>"
+msgstr "<span class=\"edit-link\"><span class=\"icon-edit\"></span> Editar</span>"
+
+#: buddypress/groups/create.php:125
+#, c-format
+msgid ""
+"<strong>Attention Site Admin:</strong> Group forums require the <a "
+"href=\"%s\">correct setup and configuration</a> of a bbPress installation."
+msgstr ""
+"<strong>Atención Administradores:</strong> Los foros de grupo requieren <a "
+"href=\"%s\">una correcta instalación y configuración</a> del sistema bbPress."
+
+#: functions/customizer.php:189
+msgid "Header Font"
+msgstr "Tipografía de Cabecera"
+
+#: functions/customizer.php:196
+msgid "You can optionally use different font in your site's headers."
+msgstr "Puedes utilizar otra tipografía para las cabeceras."
+
+#: buddypress/groups/create.php:155 buddypress/groups/single/admin.php:136
+#: buddypress/members/single/profile/change-avatar.php:18
+msgid "Upload Image"
+msgstr "Subir Imagen"
+
+#: functions/fix.php:175 functions/fix.php:180 functions/fix.php:185
+#: functions/fix.php:189 functions/fix.php:195 templates/bbpress.php:12
+#, c-format
+msgid "%s. page"
+msgstr "%s. página"
+
+#: functions/init.php:8
+msgid ""
+"Free responsive WordPress theme with Buddypress and bbPress supports. Have 4 "
+"different layout: content-sidebar,sidebar-content, full content (long), full "
+"content(short). 13 different theme styles, Google Fonts, logo upload "
+"abilities. Unique 2 feature builtin: Promotion Bar and ShowCase. All options "
+"are using WordPress Theme Customizer feature so you can watch changes live! "
+"Designers: This theme built on Twitter Bootstrap, have 0 custom css code and "
+"using template_part system so you can easily use it as parent theme! You can "
+"find detailed information, showcase, live demo, tips and tricks about theme "
+"in: http://theme.firmasite.com/"
+msgstr ""
+"Tema responsivo de Wordpress gratuito con soporte para Budypress y bbPress. "
+"Con 4 diseños de página: contenido-barra lateral, barra lateral-contenido, "
+"sin barra lateral (ancho), sin barra lateral (corto). Con 13 estilos "
+"gráficos, tipografías de Google, logotipo personalizado. Con dos extras "
+"incluídos: Barra Promocional y Escaparate. Todas las opciones se gestionan "
+"mediante la función de personalización de Wordpress por lo que pueden ser "
+"modificadas en vivo. Este tema utiliza Twitter Bootstrap, no tiene código "
+"css propio y utiliza el sistema de template_part por lo que se pueden crear "
+"temas hijos. Puedes encontrar más información, trucos y consejos acerca de "
+"la plantilla y una muestra del funcionamiento en: http://theme.firmasite.com/"
+
+#: functions/customizer.php:100
+msgid ""
+"Please decide your preferred <strong>Theme Style</strong> under "
+"<strong>Appearance</strong> first. Then you can change small color options "
+"here."
+msgstr ""
+"Por favor, primero escoge tu <strong>Estilo de Plantilla</strong> preferido "
+"en <strong>Apariencia</strong>. Después puedes cambiar los colores desde "
+"aquí."
+
+#: buddypress/activity/post-form.php:35
+#, c-format
+msgid "What's new in %s, %s?"
+msgstr "¿Qué hay nuevo en %s, %s?"
+
+#: functions/customizer.php:307
+msgid "Main Menu Style"
+msgstr "Estilo del Menú Principal"
+
+#: buddypress/activity/post-form.php:37
+#, c-format
+msgid "What's new, %s?"
+msgstr "¿Qué hay de nuevo, %s?"
+
+#: functions/customizer.php:328
+msgid "Footer Menu Style"
+msgstr "Estilo del Menú del Pie de Página"
+
+#: buddypress/activity/post-form.php:72
+msgid "Post Update"
+msgstr "Actualización del Post"
+
+#: buddypress/groups/create.php:174 buddypress/groups/single/admin.php:162
+#: buddypress/members/single/profile/change-avatar.php:39
+msgid "Crop Image"
+msgstr "Ajustar imagen"
+
+#: functions/promotionbar.php:327
+msgid "In bottom of Sidebar"
+msgstr "En la parte de abajo de la Barra Lateral"
+
+#: buddypress/activity/post-form.php:45
+msgid "Post in"
+msgstr "Publicar en"
+
+#: buddypress/groups/create.php:213
+#: buddypress/groups/single/invites-loop.php:65
+msgid "Select people to invite from your friends list."
+msgstr "Selecciona gente a invitar de tu lista de amigos."
+
+#: functions/class-tgm-plugin-activation.php:170
+#, c-format
+msgid "There is a new update for %1$s."
+msgid_plural "There are several plugins updates available %1$s."
+msgstr[0] "Hay una actualización para %1$s."
+msgstr[1] "Hay varias actualizaciones de plugins disponibles %1$s."
+
+#: buddypress/activity/post-form.php:48
+#: buddypress/members/single/profile/profile-wp.php:8
+msgid "My Profile"
+msgstr "My Perfil"
+
+#: functions/class-tgm-plugin-activation.php:178
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Comenzar la actualización del plugin"
+msgstr[1] "Comenzar la actualización de los plugins"
+
+#: functions/buddypress-functions.php:709
+msgid "Please enter some content to post."
+msgstr "Por favor, incluye algo para publicar."
+
+#: buddypress/groups/create.php:270
+msgid "Back to Previous Step"
+msgstr "Volver al paso anterior"
+
+#: functions/class-tgm-plugin-activation.php:1147
+msgid "Not Updated"
+msgstr "Sin Actualizar"
+
+#: buddypress/groups/create.php:277
+msgid "Next Step"
+msgstr "Siguiente Paso"
+
+#: functions/class-tgm-plugin-activation.php:1149
+msgid "Active"
+msgstr "Activo"
+
+#: functions/buddypress-functions.php:770
+msgid "Please do not leave the comment area blank."
+msgstr "No dejes la zona de comentarios vacía."
+
+#: buddypress/groups/create.php:284
+msgid "Create Group and Continue"
+msgstr "Crea un grupo y continua"
+
+#: functions/showcase.php:255
+msgid "ShowCase Style"
+msgstr "Estilo del Showcase"
+
+#: functions/buddypress-functions.php:773
+#: functions/buddypress-functions.php:782
+msgid "There was an error posting that reply, please try again."
+msgstr "Ha habido un error con la respuesta, inténtalo de nuevo."
+
+#: buddypress/groups/create.php:291
+msgid "Finish"
+msgstr "Acabar"
+
+#: functions/showcase.php:260
+msgid "Bigger"
+msgstr "Más grande"
+
+#: functions/buddypress-functions.php:843
+#: functions/buddypress-functions.php:879
+msgid "There was a problem when deleting. Please try again."
+msgstr "Ha habido un error al eliminar. Inténtalo de nuevo. "
+
+#: buddypress/groups/groups-loop.php:44
+#: buddypress/groups/single/group-header.php:43
+#, c-format
+msgid "active %s"
+msgstr "activo %s"
+
+#: bbpress/user-subscriptions.php:19
+msgid "Subscribed Forums"
+msgstr "Suscripciones a los Foros"
+
+#: buddypress/groups/create.php:231
+#: buddypress/groups/single/invites-loop.php:36
+#: functions/buddypress-functions.php:1049
+msgid "Remove Invite"
+msgstr "Quitar la Invitación"
+
+#: buddypress/groups/groups-loop.php:81
+msgid "There were no groups found."
+msgstr "No hemos encontrados grupos."
+
+#: bbpress/user-subscriptions.php:28
+msgid "You are not currently subscribed to any forums."
+msgstr "No estas suscrito a ningún foro."
+
+#: functions/buddypress-functions.php:1098
+msgid "Friendship could not be canceled."
+msgstr "No se ha podido cancelar la amistad."
+
+#: buddypress/groups/index.php:20
+#, c-format
+msgid "All Groups <span>%s</span>"
+msgstr "Todos los grupos <span>%s</span>"
+
+#: bbpress/user-subscriptions.php:28
+msgid "This user is not currently subscribed to any forums."
+msgstr "Este usuario no esta suscrito a ningún foro."
+
+#: functions/buddypress-functions.php:1100
+#: functions/buddypress-functions.php:1118
+msgid "Add Friend"
+msgstr "Añadir Amigo"
+
+#: buddypress/groups/index.php:41 buddypress/members/single/groups.php:23
+msgid "Most Members"
+msgstr "Más usuarios"
+
+#: functions/customizer-call.php:93
+msgid "Yeti"
+msgstr "Yeti"
+
+#: functions/buddypress-functions.php:1108
+msgid " Friendship could not be requested."
+msgstr "No se ha podido solicitar amistad."
+
+#: buddypress/groups/index.php:42 buddypress/members/single/groups.php:24
+msgid "Newly Created"
+msgstr "Creado recientemente"
+
+#: functions/buddypress-functions.php:1110
+msgid "Cancel Friendship Request"
+msgstr "Cancelar Solicitud de Amistad"
+
+#: functions/buddypress-functions.php:1120
+msgid "Friendship request could not be cancelled."
+msgstr "No se ha podido cancelar la solicitud de amistad."
+
+#: buddypress/members/register.php:261
+msgid "Yes"
+msgstr "Si"
+
+#: functions/buddypress-functions.php:1125
+msgid "Request Pending"
+msgstr "Solicitud Pendiente"
+
+#: buddypress/members/register.php:262
+msgid "No"
+msgstr "No"
+
+#: functions/buddypress-functions.php:1145
+msgid "There was a problem accepting that request. Please try again."
+msgstr "Ha habido un error al aceptar la solicitud. Inténtalo de nuevo."
+
+#: functions/buddypress-functions.php:1164
+msgid "There was a problem rejecting that request. Please try again."
+msgstr "Ha habido un error al rechazar la solicitud. Inténtalo de nuevo."
+
+#: functions/buddypress-functions.php:1194
+msgid "Error joining group"
+msgstr "Error al unirse al grupo"
+
+#: functions/buddypress-functions.php:1196
+#: functions/buddypress-functions.php:1209
+msgid "Leave Group"
+msgstr "Abandonar Grupo"
+
+#: buddypress/groups/single/admin.php:182
+msgid "Administrators"
+msgstr "Administradores"
+
+#: functions/buddypress-functions.php:1207
+#: functions/buddypress-functions.php:1217
+msgid "Error requesting membership"
+msgstr "Error en la solicitud de miembro"
+
+#: buddypress/groups/single/admin.php:190
+#: buddypress/groups/single/admin.php:217
+#, c-format
+msgid "Profile picture of %s"
+msgstr "Foto del perfil de %s"
+
+#: functions/buddypress-functions.php:1219
+msgid "Membership Requested"
+msgstr "Se ha solicitado ser Miembro"
+
+#: buddypress/groups/single/admin.php:195
+#: buddypress/groups/single/admin.php:222
+msgid "Demote to Member"
+msgstr "Degradar Usuario"
+
+#: functions/buddypress-functions.php:1228
+msgid "Error leaving group"
+msgstr "Error al abandonar el grupo"
+
+#: buddypress/groups/single/admin.php:210
+msgid "Moderators"
+msgstr "Moderadores"
+
+#: functions/buddypress-functions.php:1230
+msgid "Join Group"
+msgstr "Unirse al Grupo"
+
+#: buddypress/groups/single/admin.php:221
+#: buddypress/groups/single/admin.php:278
+msgid "Promote to Admin"
+msgstr "Promocionar a Admin"
+
+#: functions/buddypress-functions.php:1232
+msgid "Request Membership"
+msgstr "Solicitar ser Miembro"
+
+#: buddypress/groups/single/admin.php:236
+msgid "Members"
+msgstr "Miembros"
+
+#: functions/buddypress-functions.php:1251
+msgid "There was a problem closing the notice."
+msgstr "Ha habido un problema al cerrar la nota."
+
+#: buddypress/groups/single/admin.php:266
+msgid "(banned)"
+msgstr "(baneado)"
+
+#: functions/buddypress-functions.php:1297
+#, c-format
+msgid "Sent %s"
+msgstr "Enviar %s"
+
+#: buddypress/groups/single/admin.php:272
+msgid "Unban this member"
+msgstr "Quitar baneo al usuario"
+
+#: functions/buddypress-functions.php:1314
+msgid "There was a problem sending that reply. Please try again."
+msgstr "Ha habido un problema al enviar la respuesta. Inténtalo de nuevo."
+
+#: buddypress/groups/single/admin.php:272
+msgid "Remove Ban"
+msgstr "Borrar baneo"
+
+#: functions/buddypress-functions.php:1332
+msgid "There was a problem marking messages as unread."
+msgstr "Ha habido un problema al marcar como no leído."
+
+#: buddypress/groups/single/admin.php:276
+msgid "Kick and ban this member"
+msgstr "Echar y banear a este usuario"
+
+#: functions/buddypress-functions.php:1357
+msgid "There was a problem marking messages as read."
+msgstr "Ha habido un problema al marcar como leído."
+
+#: buddypress/groups/single/admin.php:276
+msgid "Kick &amp; Ban"
+msgstr "Echar y banear"
+
+#: functions/buddypress-functions.php:1382
+msgid "There was a problem deleting messages."
+msgstr "Ha habido un problema al eliminar los mensajes."
+
+#: buddypress/groups/single/admin.php:277
+msgid "Promote to Mod"
+msgstr "Promocionar a Moderador"
+
+#: functions/buddypress-functions.php:1388
+msgid "Messages deleted."
+msgstr "Mensajes eliminados."
+
+#: buddypress/groups/single/admin.php:282
+msgid "Remove this member"
+msgstr "Eliminar este usuario"
+
+#: bbpress/content-single-topic-lead.php:18
+#: bbpress/content-single-topic-lead.php:90
+msgid "Creator"
+msgstr "Creador"
+
+#: buddypress/groups/single/admin.php:282
+msgid "Remove from group"
+msgstr "Eliminar del grupo"
+
+#: bbpress/feedback-logged-in.php:13
+msgid "You are already logged in."
+msgstr "Ya está conectado."
+
+#: buddypress/groups/single/admin.php:297
+#: buddypress/groups/single/members.php:65
+msgid "This group has no members."
+msgstr "Este grupo no tiene usuarios."
+
+#: bbpress/feedback-no-access.php:13
+msgid "Private"
+msgstr "Privado"
+
+#: buddypress/groups/single/requests-loop.php:16
+#: buddypress/members/single/friends/requests.php:22
+#: buddypress/members/single/groups/invites.php:24
+msgid "Accept"
+msgstr "Aceptar"
+
+#: bbpress/feedback-no-access.php:16
+msgid "You do not have permission to view this forum."
+msgstr "No tienes permiso para ver este foro."
+
+#: buddypress/groups/single/requests-loop.php:18
+#: buddypress/members/single/friends/requests.php:23
+#: buddypress/members/single/groups/invites.php:25
+msgid "Reject"
+msgstr "Rechazar"
+
+#: bbpress/feedback-no-forums.php:13
+msgid "Oh bother! No forums were found here!"
+msgstr "Ohh! &#161; No se han encontrado foros aqu&iacute;!"
+
+#: buddypress/groups/single/requests-loop.php:48
+msgid "There are no pending membership requests."
+msgstr "No hay solicitudes de adhesión en espera."
+
+#: bbpress/feedback-no-replies.php:13
+msgid "Oh bother! No replies were found here!"
+msgstr "¡Vaya!, no hay respuestas aquí"
+
+#: buddypress/groups/single/admin.php:331
+msgid ""
+"WARNING: Deleting this group will completely remove ALL content associated "
+"with it. There is no way back, please be careful with this option."
+msgstr ""
+"ATENCIÓN: Borrando este grupo, borrarás completamente TODOS los contenidos "
+"asociados a este. No hay vuelta atrás, por favor, piensa bien lo que haces."
+
+#: bbpress/feedback-no-topics.php:13
+msgid "Oh bother! No topics were found here!"
+msgstr "¡Oh! &#161; No se han encontrado debates aqu&iacute;! "
+
+#: buddypress/groups/single/admin.php:334
+msgid "I understand the consequences of deleting this group."
+msgstr "Yo entiendo las consecuencias de Borrar este Grupo."
+
+#: bbpress/form-anonymous.php:19
+msgid "Author Information"
+msgstr "Información del autor"
+
+#: buddypress/groups/single/admin.php:339
+msgid "Delete Group"
+msgstr "Borrar Grupo"
+
+#: bbpress/form-anonymous.php:19
+msgid "Your information:"
+msgstr "Tu información:"
+
+#: buddypress/groups/single/forum/edit.php:16
+#: buddypress/groups/single/forum/topic.php:17
+#: buddypress/groups/single/forum.php:27
+msgid "Forum Directory"
+msgstr "Directorio de Foros"
+
+#: bbpress/form-anonymous.php:26
+msgid "Name (required):"
+msgstr "Nombre (requerido):"
+
+#: buddypress/groups/single/forum/edit.php:25
+msgid "Edit:"
+msgstr "Editar:"
+
+#: bbpress/form-anonymous.php:33
+msgid "Mail (will not be published) (required):"
+msgstr "Email (no será publicado)(requerido):"
+
+#: buddypress/groups/single/forum/edit.php:87
+msgid "This topic does not exist."
+msgstr "Este hilo no existe."
+
+#: bbpress/form-anonymous.php:40
+msgid "Website:"
+msgstr "Web:"
+
+#: buddypress/groups/single/forum/topic.php:9
+msgid "New Reply"
+msgstr "Nueva respuesta"
+
+#: bbpress/form-forum.php:35 bbpress/form-topic.php:41
+#, c-format
+msgid "Now Editing &ldquo;%s&rdquo;"
+msgstr "Ahora editando &ldquo;%s&rdquo;"
+
+#: buddypress/groups/single/forum/topic.php:32
+msgid "Topic tags:"
+msgstr "Etiquetas hilo:"
+
+#: bbpress/form-forum.php:37
+#, c-format
+msgid "Create New Forum in &ldquo;%s&rdquo;"
+msgstr "Crear un foro nuevo en &ldquo;%s&rdquo;"
+
+#: buddypress/groups/single/forum/topic.php:82
+#, c-format
+msgid "%1$s said %2$s:"
+msgstr "%1$s dijo %2$s:"
+
+#: bbpress/form-forum.php:37
+msgid "Create New Forum"
+msgstr "Crear Nuevo Foro"
+
+#: buddypress/forums/forums-loop.php:38
+#: buddypress/groups/single/forum/topic.php:96
+msgid "Permanent link to this post"
+msgstr "Enlace permanente a esta entrada"
+
+#: bbpress/form-forum.php:47
+msgid ""
+"This forum is closed to new content, however your account still allows you "
+"to do so."
+msgstr ""
+"Este foro está cerrado a la publicación de contenido nuevo, sin embargo tu "
+"cuenta aún te permite hacerlo."
+
+#: buddypress/groups/single/forum/topic.php:121
+msgid "There are no posts for this topic."
+msgstr "No hay entradas para este hilo"
+
+#: bbpress/form-forum.php:55 bbpress/form-reply.php:44
+#: bbpress/form-topic.php:61
+msgid "Your account has the ability to post unrestricted HTML content."
+msgstr "Su cuenta tiene permiso para publicar contenido HTML sin restricciones."
+
+#: buddypress/groups/single/forum/topic.php:136
+msgid "You will auto join this group when you reply to this topic."
+msgstr ""
+"Participarás automáticamente en este grupo en el momento que respondas a un "
+"hilo."
+
+#: bbpress/form-forum.php:67
+#, c-format
+msgid "Forum Name (Maximum Length: %d):"
+msgstr "Nombre del foro (longitud máxima: %d):"
+
+#: buddypress/groups/single/forum/topic.php:141
+msgid "Add a reply:"
+msgstr "Responder:"
+
+#: bbpress/form-forum.php:91
+msgid "Forum Type:"
+msgstr "Tipo de Foro:"
+
+#: buddypress/groups/single/forum/topic.php:146
+msgid "Post Reply"
+msgstr "Enviar Respuesta"
+
+#: bbpress/form-forum.php:100
+msgid "Status:"
+msgstr "Estado:"
+
+#: buddypress/groups/single/forum/topic.php:157
+msgid "This topic is closed, replies are no longer accepted."
+msgstr "Este hilo está cerrado, no se permiten nuevas respuestas."
+
+#: bbpress/form-forum.php:109
+msgid "Visibility:"
+msgstr "Visibilidad:"
+
+#: buddypress/groups/single/forum.php:69
+msgid "You will auto join this group when you start a new topic."
+msgstr ""
+"Participarás automáticamente en este grupo en el momento que comiences un "
+"nuevo hilo."
+
+#: bbpress/form-forum.php:118
+msgid "Parent Forum:"
+msgstr "Foro superior:"
+
+#: buddypress/groups/single/forum.php:73
+msgid "Post a New Topic:"
+msgstr "Envía nuevo hilo:"
+
+#: bbpress/form-forum.php:123
+msgid "(No Parent)"
+msgstr "(sin superior)"
+
+#: buddypress/groups/single/group-header.php:11
+msgid "Group Admins"
+msgstr "Administradores de Grupo"
+
+#: bbpress/form-forum.php:138 bbpress/form-reply-move.php:73
+#: bbpress/form-reply.php:146 bbpress/form-topic-merge.php:94
+#: bbpress/form-topic-split.php:98 bbpress/form-topic.php:217
+msgid "Submit"
+msgstr "Enviar"
+
+#: buddypress/groups/single/group-header.php:20
+msgid "Group Mods"
+msgstr "Modradores Grupo"
+
+#: bbpress/form-forum.php:161
+#, c-format
+msgid "The forum &#8216;%s&#8217; is closed to new content."
+msgstr "El foro &#8216;%s&#8217; está cerrado a la publicación de nuevo contenido."
+
+#: buddypress/groups/single/request-membership.php:4
+#, c-format
+msgid "You are requesting to become a member of the group '%s'."
+msgstr "Estás pidiendo ser miembro del grupo '%s'."
+
+#: bbpress/form-forum.php:169
+msgid "You cannot create new forums."
+msgstr "No puedes crear foros nuevos."
+
+#: buddypress/groups/single/request-membership.php:7
+msgid "Comments (optional)"
+msgstr "Comentarios (opcional)"
+
+#: bbpress/form-forum.php:169
+msgid "You must be logged in to create new forums."
+msgstr "Debes conectarte para crear foros nuevos."
+
+#: buddypress/groups/single/request-membership.php:12
+msgid "Send Request"
+msgstr "Enviar Solicitud"
+
+#: bbpress/form-protected.php:14
+msgid "Protected"
+msgstr "Protegido"
+
+#: buddypress/groups/single/invites-loop.php:76
+msgid "Send Invites"
+msgstr "Enviar Invitaciones"
+
+#: bbpress/form-reply.php:29
+#, c-format
+msgid "Reply To: %s"
+msgstr "Respuesta a: %s"
+
+#: bbpress/form-reply.php:36
+msgid ""
+"This topic is marked as closed to new replies, however your posting "
+"capabilities still allow you to do so."
+msgstr ""
+"Este hilo está marcado como cerrado para nuevas respuestas, pero tu "
+"capacidad de publicación aún te permite hacerlo."
+
+#: buddypress/members/index.php:39 buddypress/members/single/friends.php:23
+msgid "Newest Registered"
+msgstr "Últimos Registrados"
+
+#: bbpress/form-reply.php:85
+msgid "Tags:"
+msgstr "Etiquetas: "
+
+#: buddypress/members/members-loop.php:94
+msgid "Sorry, no members were found."
+msgstr "Lo sentimos, no hemos encontrado usuarios."
+
+#: bbpress/form-reply.php:103 bbpress/form-topic.php:177
+msgid "Notify the author of follow-up replies via email"
+msgstr "Notificar al autor de las siguientes respuestas por correo electr&oacute;nico"
+
+#: buddypress/members/single/friends/requests.php:54
+msgid "You have no pending friendship requests."
+msgstr "No tienes peticiones de amistad."
+
+#: bbpress/form-reply.php:107 bbpress/form-topic.php:181
+msgid "Notify me of follow-up replies via email"
+msgstr "Notificarme de las siguientes respuestas por correo electrónico"
+
+#: bbpress/form-reply.php:125 bbpress/form-topic.php:198
+msgid "Keep a log of this edit:"
+msgstr "Mantener un registro de esta modificación:"
+
+#: buddypress/members/single/groups/invites.php:39
+msgid "You have no outstanding group invites."
+msgstr "No tienes ninguna invitación de grupo pendiente."
+
+#: bbpress/form-reply.php:129 bbpress/form-topic.php:202
+msgid "Optional reason for editing:"
+msgstr "Raz&oacute;n opcional para la edición:"
+
+#: buddypress/members/single/messages/compose.php:7
+msgid "Send To (Username or Friend's Name)"
+msgstr "Enviar a (Nombre Usuario o Nombre de Amigo)"
+
+#: bbpress/form-reply.php:169
+#, c-format
+msgid "The topic &#8216;%s&#8217; is closed to new replies."
+msgstr "El debate &#8216;%s&#8217; está cerrado y no admite más respuestas."
+
+#: buddypress/members/single/messages/compose.php:23
+msgid "This is a notice to all users."
+msgstr "Esta es una noticia para todos los usuarios."
+
+#: bbpress/form-reply.php:177 bbpress/form-topic.php:240
+#, c-format
+msgid "The forum &#8216;%s&#8217; is closed to new topics and replies."
+msgstr ""
+"El foro &#8216;%s&#8217; está cerrado y no se permiten nuevos debates ni "
+"respuestas."
+
+#: buddypress/members/single/messages/compose.php:31
+msgid "Subject"
+msgstr "Asunto"
+
+#: bbpress/form-reply.php:185
+msgid "You cannot reply to this topic."
+msgstr "No puedes responder a este tema."
+
+#: buddypress/members/single/messages/compose.php:38
+msgid "Message"
+msgstr "Mensaje"
+
+#: bbpress/form-reply.php:185
+msgid "You must be logged in to reply to this topic."
+msgstr "Debes estar registrado para responder a este debate."
+
+#: buddypress/members/single/messages/compose.php:55
+msgid "Send Message"
+msgstr "Enviar Mensaje"
+
+#: bbpress/form-topic-merge.php:24
+#, c-format
+msgid "Merge topic \"%s\""
+msgstr "Fusionar hilo \"%s\""
+
+#: buddypress/members/single/messages/messages-loop.php:33
+msgid "From:"
+msgstr "De:"
+
+#: bbpress/form-topic-merge.php:29
+msgid ""
+"Select the topic to merge this one into. The destination topic will remain "
+"the lead topic, and this one will change into a reply."
+msgstr ""
+"Elige el hilo en el que vas a fusionar este. El hilo de destino seguirá "
+"siendo el hilo principal, y este se convertirá en respuesta."
+
+#: buddypress/members/single/messages/messages-loop.php:38
+msgid "To:"
+msgstr "A:"
+
+#: bbpress/form-topic-merge.php:30
+msgid ""
+"To keep this topic as the lead, go to the other topic and use the merge tool "
+"from there instead."
+msgstr ""
+"Para mantener este hilo como principal ve al otro hilo y usa la herramienta "
+"de fusión desde ese hilo."
+
+#: buddypress/members/single/messages/messages-loop.php:44
+msgid "View Message"
+msgstr "Ver Mensajes"
+
+#: bbpress/form-topic-merge.php:34
+msgid ""
+"All replies within both topics will be merged chronologically. The order of "
+"the merged replies is based on the time and date they were posted. If the "
+"destination topic was created after this one, it's post date will be updated "
+"to second earlier than this one."
+msgstr ""
+"Todas las respuestas de ambos hilos se fusionarán cronológicamente. El orden "
+"de las respuestas fusionadas se basa en la fecha y hora en que fueron "
+"publicadas. Si el hilo de destino se creó después de este su fecha de "
+"publicación se actualizará al segundo anterior a este."
+
+#: buddypress/members/single/messages/messages-loop.php:52
+#: buddypress/members/single/messages/notices-loop.php:44
+#: buddypress/members/single/messages/single.php:25
+msgid "Delete Message"
+msgstr "Borrar Mensaje"
+
+#: bbpress/form-topic-merge.php:38
+msgid "Destination"
+msgstr "Destino"
+
+#: buddypress/members/single/messages/messages-loop.php:71
+msgid "Sorry, no messages were found."
+msgstr "No hemos encontrado mensajes."
+
+#: bbpress/form-topic-merge.php:42
+msgid "Merge with this topic:"
+msgstr "Fusionar con este hilo:"
+
+#: buddypress/members/single/messages/notices-loop.php:37
+msgid "Sent:"
+msgstr "Enviado:"
+
+#: bbpress/form-topic-merge.php:51
+msgid "No topics were found to which the topic could be merged to!"
+msgstr "¡No se han encontrado hilos a los que fusionar el hilo!"
+
+#: buddypress/members/single/messages/notices-loop.php:56
+msgid "Sorry, no notices were found."
+msgstr "Lo sentimos, no hemos encontrado notificaciones."
+
+#: bbpress/form-topic-merge.php:57
+msgid "There are no other topics in this forum to merge with."
+msgstr "No hay más debates en este foro con los que fusionar."
+
+#: buddypress/members/single/messages/single.php:15
+msgid "You are alone in this conversation."
+msgstr "Eres el único en esta conversación."
+
+#: bbpress/form-topic-merge.php:65 bbpress/form-topic-split.php:69
+msgid "Topic Extras"
+msgstr "Extras del Debate"
+
+#: buddypress/members/single/messages/single.php:19
+#, c-format
+msgid "Conversation between %s and you."
+msgstr "Conversación entre %s y tú."
+
+#: bbpress/form-topic-merge.php:72
+msgid "Merge topic subscribers"
+msgstr "Fusionar suscriptores al debate"
+
+#: buddypress/members/single/messages/single.php:87
+msgid "Send a Reply"
+msgstr "Enviar Respuesta"
+
+#: bbpress/form-topic-merge.php:77
+msgid "Merge topic favoriters"
+msgstr "Fusionar los que han marcado como favorito el hilo"
+
+#: buddypress/members/single/messages/single.php:108
+msgid "Send Reply"
+msgstr "Enviar Respuesta"
+
+#: bbpress/form-topic-merge.php:82
+msgid "Merge topic tags"
+msgstr "Fusionar etiquetas del tema"
+
+#: bbpress/form-reply-move.php:69 bbpress/form-topic-merge.php:90
+#: bbpress/form-topic-split.php:94
+msgid "<strong>WARNING:</strong> This process cannot be undone."
+msgstr "<strong>AVISO:</strong> Este proceso no es reversible."
+
+#: bbpress/form-topic-merge.php:107 bbpress/form-topic-split.php:111
+msgid "You do not have the permissions to edit this topic!"
+msgstr "¡No tienes los permisos para editar este debate!"
+
+#: buddypress/members/single/profile/change-avatar.php:14
+msgid ""
+"Click below to select a JPG, GIF or PNG format photo from your computer and "
+"then click 'Upload Image' to proceed."
+msgstr ""
+"Pincha abajo para elegir una imagen en formato JPG, GIF o PNG de tu "
+"ordenador y pulsa 'Subir Imagen' para continuar."
+
+#: bbpress/form-topic-merge.php:107 bbpress/form-topic-split.php:111
+msgid "You cannot edit this topic."
+msgstr "No puedes editar este debate."
+
+#: bbpress/form-topic-split.php:24
+#, c-format
+msgid "Split topic \"%s\""
+msgstr "Dividir debate \"%s\""
+
+#: bbpress/form-topic-split.php:29
+msgid ""
+"When you split a topic, you are slicing it in half starting with the reply "
+"you just selected. Choose to use that reply as a new topic with a new title, "
+"or merge those replies into an existing topic."
+msgstr ""
+"Cuando se divide un debate estás cortado por la mitad a partir de la "
+"respuesta que acabas de seleccionar. Elige usar esta respuesta como un "
+"debate nuevo con un título nuevo o fusiona esas respuestas en un debate "
+"existente."
+
+#: bbpress/form-topic-split.php:33
+msgid ""
+"If you use the existing topic option, replies within both topics will be "
+"merged chronologically. The order of the merged replies is based on the time "
+"and date they were posted."
+msgstr ""
+"Si utiliza la opción de tema existente, las respuestas dentro de ambos temas "
+"se fusionar&aacute;n en orden cronol&oacute;gico. El orden de las respuestas "
+"combinadas se basa en el tiempo y la fecha en que fueron publicados."
+
+#: bbpress/form-topic-split.php:37
+msgid "Split Method"
+msgstr "Método de división"
+
+#: buddypress/members/single/profile/edit.php:10
+#, c-format
+msgid "Editing '%s' Profile Group"
+msgstr "Editando '%s' Perfil del Grupo"
+
+#: bbpress/form-reply-move.php:41 bbpress/form-topic-split.php:41
+#, c-format
+msgid "New topic in <strong>%s</strong> titled:"
+msgstr "Nuevo debate en <strong>%s</strong> titulado:"
+
+#: buddypress/members/register.php:38 buddypress/members/register.php:46
+#: buddypress/members/register.php:55 buddypress/members/register.php:64
+#: buddypress/members/register.php:94 buddypress/members/register.php:105
+#: buddypress/members/register.php:117 buddypress/members/register.php:131
+#: buddypress/members/register.php:155 buddypress/members/register.php:174
+#: buddypress/members/register.php:186 buddypress/members/register.php:245
+#: buddypress/members/register.php:254
+#: buddypress/members/single/profile/edit.php:27
+#: buddypress/members/single/profile/edit.php:37
+#: buddypress/members/single/profile/edit.php:48
+#: buddypress/members/single/profile/edit.php:61
+#: buddypress/members/single/profile/edit.php:84
+#: buddypress/members/single/profile/edit.php:103
+#: buddypress/members/single/profile/edit.php:114
+msgid "(required)"
+msgstr "(obligatorio)"
+
+#: bbpress/form-topic-split.php:42
+#, c-format
+msgid "Split: %s"
+msgstr "Dividir: %s"
+
+#: buddypress/members/register.php:142 buddypress/members/register.php:162
+#: buddypress/members/single/profile/edit.php:71
+#: buddypress/members/single/profile/edit.php:90
+msgid "Clear"
+msgstr "Limpiar"
+
+#: bbpress/form-reply-move.php:49 bbpress/form-topic-split.php:49
+msgid "Use an existing topic in this forum:"
+msgstr "Usa un debate existente en este foro:"
+
+#: functions/buddypress-customs.php:213 functions/buddypress-customs.php:227
+#, c-format
+msgid "This field can be seen by: <span class=\"current-visibility-level\">%s</span>"
+msgstr "Este campo podrá verlo: <span class=\"current-visibility-level\">%s</span>"
+
+#: bbpress/form-reply-move.php:58 bbpress/form-topic-split.php:58
+msgid "No other topics found!"
+msgstr "¡No hay más debates!"
+
+#: functions/buddypress-customs.php:213
+msgid "Change"
+msgstr "Cambiar"
+
+#: bbpress/form-topic-split.php:76
+msgid "Copy subscribers to the new topic"
+msgstr "Copiar suscriptores al nuevo hilo"
+
+#: functions/buddypress-customs.php:218
+msgid "Who can see this field?"
+msgstr "¿Quién puede ver este campo?"
+
+#: bbpress/form-topic-split.php:81
+msgid "Copy favoriters to the new topic"
+msgstr "Copiar los que han marcado como favorito al nuevo hilo"
+
+#: buddypress/members/single/profile/profile-wp.php:24
+msgid "About Me"
+msgstr "Sobre Mi"
+
+#: bbpress/form-topic-split.php:86
+msgid "Copy topic tags to the new topic"
+msgstr "Copiar tags del hilo al nuevo hilo"
+
+#: buddypress/members/single/profile/profile-wp.php:42
+msgid "Jabber"
+msgstr "Jabber"
+
+#: bbpress/form-topic-tag.php:18
+#, c-format
+msgid "Manage Tag: \"%s\""
+msgstr "Gestionar Tag: \"%s\""
+
+#: buddypress/members/single/profile/profile-wp.php:51
+msgid "AOL Messenger"
+msgstr "AOL Messenger"
+
+#: bbpress/form-topic-tag.php:22
+msgid "Rename"
+msgstr "Renombrar"
+
+#: buddypress/members/single/profile/profile-wp.php:60
+msgid "Yahoo Messenger"
+msgstr "Yahoo Messenger"
+
+#: bbpress/form-topic-tag.php:25
+msgid "Leave the slug empty to have one automatically generated."
+msgstr "Deja la url vacía para que se genere una automáticamente."
+
+#: bbpress/form-topic-tag.php:29
+msgid ""
+"Changing the slug affects its permalink. Any links to the old slug will stop "
+"working."
+msgstr ""
+"Cambiar la url afecta a su enlace permanente. Cualquier enlace a la vieja "
+"url dejará de funcionar."
+
+#: buddypress/members/single/settings/capabilities.php:11
+msgid "This user is a spammer."
+msgstr "Este usuario es un spammer."
+
+#: bbpress/form-topic-tag.php:35
+msgid "Name:"
+msgstr "Nombre:"
+
+#: buddypress/members/single/settings/capabilities.php:15
+msgid "Save"
+msgstr "Guardar"
+
+#: bbpress/form-topic-tag.php:40
+msgid "Slug:"
+msgstr "URL:"
+
+#: buddypress/members/single/settings/delete-account.php:29
+msgid "Delete Account"
+msgstr "Eliminar Cuenta"
+
+#: bbpress/form-topic-tag.php:45
+msgid "Update"
+msgstr "Actualizar"
+
+#: buddypress/members/single/settings/delete-account.php:9
+msgid ""
+"Deleting your account will delete all of the content you have created. It "
+"will be completely irrecoverable."
+msgstr ""
+"Eliminando tu cuenta se borrará todo el contenido que has creado. Esto será "
+"irrecuperable."
+
+#: bbpress/form-topic-tag.php:59 bbpress/form-topic-tag.php:73
+msgid "Merge"
+msgstr "Fusionar"
+
+#: buddypress/members/single/settings/delete-account.php:13
+msgid ""
+"Deleting this account will delete all of the content it has created. It will "
+"be completely irrecoverable."
+msgstr ""
+"Eliminando esta cuenta se borrará todo el contenido que ha sido creado. Esto "
+"será irrecuperable."
+
+#: bbpress/form-topic-tag.php:62
+msgid "Merging tags together cannot be undone."
+msgstr "Fusionar etiquetas no se peude deshacer."
+
+#: buddypress/members/single/settings/delete-account.php:25
+msgid "I understand the consequences."
+msgstr "Entiendo las consecuencias"
+
+#: bbpress/form-topic-tag.php:68
+msgid "Existing tag:"
+msgstr "Tag actual:"
+
+#: bbpress/form-topic-tag.php:73
+#, c-format
+msgid "Are you sure you want to merge the \"%s\" tag into the tag you specified?"
+msgstr "¿Estás seguro de querer fusionar la tag \"%s\" en la tag elegida?"
+
+#: buddypress/members/single/settings/general.php:9
+msgid ""
+"Current Password <span>(required to update email or change current "
+"password)</span>"
+msgstr ""
+"Contraseña actual <span>(requerido para actualizar dirección de correo o "
+"cambiar la contraseña actual)</span>"
+
+#: bbpress/form-topic-tag.php:91
+msgid "This does not delete your topics. Only the tag itself is deleted."
+msgstr "Esto no borra tus hilos. Solo se borra la tag."
+
+#: buddypress/members/single/settings/general.php:10
+msgid "Password Lost and Found"
+msgstr "Recuperar Contraseña"
+
+#: bbpress/form-topic-tag.php:94
+msgid "Deleting a tag cannot be undone."
+msgstr "Borrar una etiqueta no puede deshacerse."
+
+#: buddypress/members/single/settings/general.php:10
+msgid "Lost your password?"
+msgstr "¿Olvidaste tu contraseña?"
+
+#: bbpress/form-topic-tag.php:95
+msgid "Any links to this tag will no longer function."
+msgstr "Todos los enlaces a esta etiqueta ya no funcionarán."
+
+#: buddypress/members/single/settings/general.php:14
+msgid "Account Email"
+msgstr "Cuenta de correo electrónico"
+
+#: bbpress/form-topic-tag.php:101
+#, c-format
+msgid ""
+"Are you sure you want to delete the \"%s\" tag? This is permanent and cannot "
+"be undone."
+msgstr ""
+"¿Est&aacute; seguro que desea eliminar la etiqueta \"%s\"? Esto es permanente "
+"y no se puede deshacer."
+
+#: buddypress/members/single/settings/general.php:17
+msgid "Change Password <span>(leave blank for no change)</span>"
+msgstr "Cambiar Contraseña <span>(no escribas nada si no la quieres cambiar)</span>"
+
+#: bbpress/form-topic.php:43
+#, c-format
+msgid "Create New Topic in &ldquo;%s&rdquo;"
+msgstr "Crear un nuevo debate en &ldquo;%s&rdquo;"
+
+#: buddypress/members/single/settings/general.php:20
+msgid "Repeat New Password"
+msgstr "Repetir nueva contraseña"
+
+#: bbpress/form-topic.php:43
+msgid "Create New Topic"
+msgstr "Crear Nuevo Debate"
+
+#: bbpress/form-topic.php:53
+msgid ""
+"This forum is marked as closed to new topics, however your posting "
+"capabilities still allow you to do so."
+msgstr ""
+"Este foro se ha marcado como cerrado para nuevos debates, pero tus permisos "
+"de publicación todavía te permiten hacerlo."
+
+#: bbpress/form-topic.php:77
+#, c-format
+msgid "Topic Title (Maximum Length: %d):"
+msgstr "Título del debate (Longitud máxima: %d):"
+
+#: bbpress/form-topic.php:114
+msgid "Topic Tags:"
+msgstr "Etiquetas del debate:"
+
+#: buddypress/members/activate.php:15
+msgid ""
+"Your account was activated successfully! Your account details have been sent "
+"to you in a separate email."
+msgstr ""
+"Tu cuenta ha sido activada correctamente. Los datos de tu cuenta te han sido "
+"enviados en otro correo electrónico."
+
+#: bbpress/form-topic.php:127
+msgid "Forum:"
+msgstr "Foro:"
+
+#: bbpress/form-topic.php:146
+msgid "Topic Type:"
+msgstr "Tipo de debate:"
+
+#: bbpress/form-topic.php:248
+msgid "You cannot create new topics."
+msgstr "No puedes crear debates nuevos."
+
+#: buddypress/members/activate.php:22
+msgid "Please provide a valid activation key."
+msgstr "Por favor, facilítanos un Código de Activación correcto."
+
+#: bbpress/form-topic.php:248
+msgid "You must be logged in to create new topics."
+msgstr "Debes estar registrado para crear temas nuevos."
+
+#: buddypress/members/activate.php:26
+msgid "Activation Key:"
+msgstr "Llave de Activación:"
+
+#: bbpress/form-user-edit.php:14 bbpress/form-user-edit.php:19
+#: buddypress/members/single/profile/profile-wp.php:15
+#: functions/template-tags.php:163
+msgid "Name"
+msgstr "Nombre"
+
+#: buddypress/members/activate.php:30
+#: functions/class-tgm-plugin-activation.php:1381
+msgid "Activate"
+msgstr "Activar"
+
+#: bbpress/form-user-edit.php:24
+msgid "First Name"
+msgstr "Nombre"
+
+#: buddypress/members/register.php:16
+msgid "User registration is currently not allowed."
+msgstr "El registro de usuarios no está permitido actualmente."
+
+#: bbpress/form-user-edit.php:31
+msgid "Last Name"
+msgstr "Apellido"
+
+#: buddypress/members/register.php:27
+msgid ""
+"Registering for this site is easy, just fill in the fields below and we'll "
+"get a new account set up for you in no time."
+msgstr ""
+"Registrarse en este sitio, es fácil, basta con rellenar el formulario que "
+"aparece a continuación, no perderás nada de tiempo."
+
+#: bbpress/form-user-edit.php:38
+msgid "Nickname"
+msgstr "Apodo"
+
+#: buddypress/members/register.php:35
+msgid "Account Details"
+msgstr "Detalles de la cuenta"
+
+#: bbpress/form-user-edit.php:45
+msgid "Display Name"
+msgstr "Mostrar el nombre"
+
+#: buddypress/members/register.php:46
+msgid "Email Address"
+msgstr "Dirección de Email"
+
+#: bbpress/form-user-edit.php:55 bbpress/form-user-edit.php:58
+msgid "Contact Info"
+msgstr "Informaci&oacute;n de contacto"
+
+#: buddypress/members/register.php:55
+msgid "Choose a Password"
+msgstr "Escribe una Contraseña"
+
+#: bbpress/form-user-edit.php:63
+#: buddypress/members/single/profile/profile-wp.php:33
+#: functions/template-tags.php:167
+msgid "Website"
+msgstr "Web"
+
+#: buddypress/members/register.php:64
+msgid "Confirm Password"
+msgstr "Confirma la Contraseña"
+
+#: bbpress/form-user-edit.php:84 bbpress/form-user-edit.php:87
+msgid "About Yourself"
+msgstr "Acerca de t&iacute; mismo"
+
+#: buddypress/members/register.php:83
+msgid "Profile Details"
+msgstr "Detalles del Perfil"
+
+#: bbpress/form-user-edit.php:84 bbpress/form-user-edit.php:87
+msgid "About the user"
+msgstr "Acerca del usuario"
+
+#: buddypress/members/register.php:239
+msgid "Blog Details"
+msgstr "Detalles del Sitio"
+
+#: bbpress/form-user-edit.php:92
+msgid "Biographical Info"
+msgstr "Informaci&oacute;n biogr&aacute;fica"
+
+#: buddypress/members/register.php:241
+msgid "Yes, I'd like to create a new site"
+msgstr "Si, quiero crear un nuevo sitio"
+
+#: bbpress/form-user-edit.php:103 bbpress/form-user-edit.php:106
+msgid "Account"
+msgstr "Cuenta"
+
+#: buddypress/members/register.php:245
+msgid "Blog URL"
+msgstr "URL del Sitio"
+
+#: bbpress/form-user-edit.php:111 bbpress/form-user-login.php:17
+#: bbpress/form-user-register.php:23 buddypress/members/register.php:38
+msgid "Username"
+msgstr "Nombre de usuario"
+
+#: buddypress/members/register.php:254
+msgid "Site Title"
+msgstr "Título del Sitio"
+
+#: bbpress/form-user-edit.php:118 bbpress/form-user-register.php:28
+#: functions/template-tags.php:165
+msgid "Email"
+msgstr "Email"
+
+#: buddypress/members/register.php:258
+msgid ""
+"I would like my site to appear in search engines, and in public listings "
+"around this network."
+msgstr ""
+"Quiero que mi sitio parezca en los buscadores y en los listados públicos de "
+"toda esta red."
+
+#: bbpress/form-user-edit.php:130
+#, c-format
+msgid ""
+"There is a pending email address change to <code>%1$s</code>. <a "
+"href=\"%2$s\">Cancel</a>"
+msgstr ""
+"Hay un cambio de dirección de correo electrónico pendiente de "
+"<code>%1$s</code>. <a href=\"%2$s\">Cancelar</a>"
+
+#: buddypress/members/register.php:275
+msgid "Complete Sign Up"
+msgstr "Completar Registro"
+
+#: bbpress/form-user-edit.php:139
+#: buddypress/members/single/settings/general.php:18
+msgid "New Password"
+msgstr "Nueva contraseña"
+
+#: buddypress/members/register.php:286
+msgid "Sign Up Complete!"
+msgstr "¡Registro Completado!"
+
+#: functions/init.php:22
+msgid "Main Menu"
+msgstr "Menú Principal"
+
+#: templates/bbpress.php:9 templates/post/loop_excerpt/loop-gallery.php:17
+#: templates/post/loop_excerpt/loop-image.php:18
+#: templates/post/loop_excerpt/loop.php:18
+#: templates/post/loop_list/loop-gallery.php:17
+#: templates/post/loop_list/loop-image.php:18
+#: templates/post/loop_list/loop-link.php:21
+#: templates/post/loop_list/loop.php:18 templates/post/loop_tile/loop.php:25
+#: templates/post/single.php:12 templates/single-page.php:15
+#: templates/single_full-page.php:16
+#, c-format
+msgid "Permalink to %s"
+msgstr "Enlace permanente de %s"
+
+#: functions/showcase.php:280 templates/bbpress.php:19
+#: templates/post/loop_excerpt/loop-image.php:22
+#: templates/post/loop_excerpt/loop.php:25
+#: templates/post/loop_list/loop-aside.php:17
+#: templates/post/loop_list/loop-audio.php:17
+#: templates/post/loop_list/loop-chat.php:17
+#: templates/post/loop_list/loop-gallery.php:18
+#: templates/post/loop_list/loop-image.php:22
+#: templates/post/loop_list/loop-link.php:25
+#: templates/post/loop_list/loop-quote.php:17
+#: templates/post/loop_list/loop-status.php:17
+#: templates/post/loop_list/loop.php:21 templates/post/loop_tile/loop.php:31
+#: templates/post/promotionbar/loop.php:17 templates/post/showcase/loop.php:23
+#: templates/post/single.php:19 templates/single-page.php:22
+#: templates/single_full-page.php:23
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continuar leyendo <span class=\"meta-nav\">&rarr;</span>"
+
+#: templates/post/loop_excerpt/loop.php:28
+#: templates/post/loop_list/loop-aside.php:18
+#: templates/post/loop_list/loop-audio.php:18
+#: templates/post/loop_list/loop-chat.php:18
+#: templates/post/loop_list/loop-link.php:26
+#: templates/post/loop_list/loop-quote.php:18
+#: templates/post/loop_list/loop-status.php:18
+#: templates/post/loop_list/loop.php:22 templates/post/single.php:20
+#: templates/single-page.php:23 templates/single_full-page.php:24
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: templates/no-results.php:13
+msgid "Nothing Found"
+msgstr "No se hallaron resultados"
+
+#: templates/no-results.php:19
+#, c-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Preparado para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: templates/no-results.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Lo sentimos, no hay resultados para tu búesqueda. Inténtalo buscando con "
+"otras palabras."
+
+#: templates/no-results.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "No hemos podido encontrar lo que buscas. Prueba a realizar una búsqueda."
+
+#: functions/showcase.php:261 page-full-width.php:9
+msgid "Full Width"
+msgstr "Anchura Completa"
+
+#: bbpress/user-details.php:54 templates/post/loop_list/loop-gallery.php:55
+#: templates/post/loop_list/loop-image.php:59
+#: templates/post/loop_list/loop.php:59 templates/post/single.php:53
+#: templates/single-page.php:29 templates/single_full-page.php:30
+msgid "Edit"
+msgstr "Editar"
+
+#: functions/customizer.php:84
+msgid "Logo"
+msgstr "Logotipo"
+
+#: functions/customizer.php:171
+msgid "Font"
+msgstr "Tipografía"
+
+#: functions/customizer.php:206
+msgid "Layout"
+msgstr "Diseño"
+
+#: functions/customizer.php:210
+msgid "Content - Sidebar"
+msgstr "Contenido - Barra Lateral"
+
+#: functions/customizer.php:211
+msgid "Sidebar - Content"
+msgstr "Barra Lateral - Contenido"
+
+#: functions/customizer.php:229
+msgid "Theme Style"
+msgstr "Estilo de la Plantilla"
+
+#: functions/customizer-call.php:92
+msgid "United"
+msgstr "United"
+
+#: functions/customizer-call.php:81 functions/customizer.php:312
+#: functions/customizer.php:333 functions/showcase.php:259
+msgid "Default"
+msgstr "Predeterminado"
+
+#: functions/customizer-call.php:76
+msgid "Amelia"
+msgstr "Amelia"
+
+#: functions/customizer-call.php:77
+msgid "Cerulean"
+msgstr "Cerulean"
+
+#: functions/customizer-call.php:78
+msgid "Cosmo"
+msgstr "Cosmo"
+
+#: functions/customizer-call.php:79
+msgid "Cyborg"
+msgstr "Cyborg"
+
+#: functions/customizer-call.php:83
+msgid "Journal"
+msgstr "Journal"
+
+#: functions/customizer-call.php:86
+msgid "Readable"
+msgstr "Readable"
+
+#: functions/customizer-call.php:88
+msgid "Simplex"
+msgstr "Simplex"
+
+#: functions/customizer-call.php:89
+msgid "Slate"
+msgstr "Slate"
+
+#: functions/customizer-call.php:90
+msgid "Spacelab"
+msgstr "Spacelab"
+
+#: functions/init.php:58
+msgid "Sidebar"
+msgstr "Barra Lateral"
+
+#: functions/init.php:59
+msgid "Widgets that shows in sidebar"
+msgstr "Widgets que se muestran en la barra lateral"
+
+#: functions/init.php:67
+msgid "Footer"
+msgstr "Pie de Página"
+
+#: functions/init.php:68
+msgid "Widgets that shows in footer"
+msgstr "WIdgets que se meustran en el pie de página"
+
+#: comments.php:32
+#, c-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Una reflexión en &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s reflexiones en &ldquo;%2$s&rdquo;"
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr "Comentarios cerrados."
+
+#: functions/init.php:26
+msgid "Footer Menu"
+msgstr "Menú Inferior"
+
+#: functions/template-tags.php:85
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions/template-tags.php:112
+#, c-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">dice:</span>"
+
+#: functions/template-tags.php:106
+msgid "Your comment is awaiting moderation."
+msgstr "Esperando aprobación del comentario."
+
+#: functions/template-tags.php:100
+#, c-format
+msgid "%1$s at %2$s"
+msgstr "%1$s en %2$s"
+
+#: templates/post/loop_list/loop-gallery.php:43
+#: templates/post/loop_list/loop-image.php:47
+#: templates/post/loop_list/loop.php:47
+msgid "Leave a comment"
+msgstr "Dejar comentario"
+
+#: templates/post/loop_list/loop-gallery.php:43
+#: templates/post/loop_list/loop-image.php:47
+#: templates/post/loop_list/loop.php:47
+msgid "1 Comment"
+msgstr "1 Comentario"
+
+#: templates/post/loop_list/loop-gallery.php:43
+#: templates/post/loop_list/loop-image.php:47
+#: templates/post/loop_list/loop.php:47
+msgid "% Comments"
+msgstr "% Comentarios"
+
+#: functions/customizer.php:250
+msgid "Theme Settings"
+msgstr "Personalizar el Tema"
+
+#: functions/promotionbar.php:268 functions/showcase.php:235
+msgid "These settings will activate when you save changes and refresh this page."
+msgstr "Los cambios se activarán cuando guardes y recargues la página."
+
+#: functions/template-tags.php:38
+msgctxt "Next post link"
+msgid "<i class=\"icon-arrow-right\"></i>"
+msgstr "<i class=\"icon-arrow-right\"></i>"
+
+#: functions/template-tags.php:39
+msgctxt "Previous post link"
+msgid "<i class=\"icon-arrow-left\"></i>"
+msgstr "<i class=\"icon-arrow-right\"></i>"
+
+#: functions/custom-custom-css.php:15
+msgid "Custom Css"
+msgstr "CSS Personalizado"
+
+#: functions/custom-custom-css.php:21
+msgid ""
+"You can change your site's appearance with custom css but if you are not "
+"sure what you doing, please ask for support"
+msgstr ""
+"Puedes cambiar el aspecto de la web usando css personalizados si sabes como, "
+"si no solicita asistencia"
+
+#: functions/custom-custom-css.php:22
+msgid "Be Careful!"
+msgstr "¡Advertencia!"
+
+#: functions/promotionbar.php:165 functions/promotionbar.php:178
+msgid "Add to PromotionBar"
+msgstr "Añadir a la Barra Promocional"
+
+#: functions/showcase.php:133 functions/showcase.php:146
+msgid "Add to ShowCase"
+msgstr "Añadir al Escaparate"
+
+#: functions/showcase.php:234
+msgid "ShowCase"
+msgstr "Escaparate"
+
+#: functions/showcase.php:276
+msgid "Current Call-to-Action text: "
+msgstr "Texto de Llamada-a-la-Acción actual"
+
+#: functions/showcase.php:283
+msgid ""
+"If you are planning to use multiple ShowCase posts, try to choose a common "
+"text"
+msgstr "Si vas mostrar varios post en el Escaparate, intenta utilizar un texto común."
+
+#: functions/showcase.php:293
+msgid "Disable ShowCase feature"
+msgstr "Desactivar Escaparate"
+
+#: functions/showcase.php:270
+msgid "Call-to-Action Text"
+msgstr "Texto de Llamada-a-la-Acción"
+
+#: functions/customizer.php:361
+msgid "You can create or manage menus from Menus page under Appearance"
+msgstr "Crea y gestiona los menús desde la sección Menus dentro de Apariencia"
+
+#: functions/customizer.php:361
+msgid "Menus"
+msgstr "Menús"
+
+#: functions/customizer.php:212
+msgid "Only Content. No sidebar (Short)"
+msgstr "Sin Barra Lateral (Estrecho)"
+
+#: functions/customizer.php:213
+msgid "Only Content. No sidebar (Long)"
+msgstr "Sin Barra Lateral (Ancho)"
+
+#: functions/customizer.php:295
+msgid ""
+"Responsive feature have special display style for different devices (from "
+"desktop computer monitors to mobile phones). This will remove responsive "
+"feature so your site will have same display in all devices."
+msgstr ""
+"El diseño responsivo muestra el contenido adaptado a los diferentes "
+"dispositivos (monitores de ordenador, pantallas de móviles...). Esta opción "
+"hace que el diseño se muestre igual en todos los dispositivos."
+
+#: functions/promotionbar.php:267
+msgid "Promotion Bar"
+msgstr "Barra Promocional"
+
+#: functions/promotionbar.php:287
+msgid "Title"
+msgstr "Título"
+
+#: functions/promotionbar.php:293
+msgid ""
+"If you leave it empty, it wont show title. Example titles: <b>Editor's "
+"Choice</b>, <b>Must Read List</b> "
+msgstr ""
+"Si lo dejas en blanco, no se mostrará el título.  Títulos de ejemplo: "
+"<b>Sleleción del Editor</b>, <b>De Obligada lectura</b> "
+
+#: functions/promotionbar.php:302
+msgid "Where do you want to show Promotion Bar?"
+msgstr "¿Dónde quieres que se muestre la Barra Promocional?"
+
+#: functions/promotionbar.php:307
+msgid "Only Home Page"
+msgstr "Solo en Página de Inicio"
+
+#: functions/promotionbar.php:308
+msgid "All Site"
+msgstr "Todo el Sitio"
+
+#: functions/promotionbar.php:309
+msgid "Remove Promotion Bar"
+msgstr "Quitar Barra Promocional"

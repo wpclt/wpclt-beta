@@ -1,0 +1,4 @@
+These themes are from http://bootswatch.com/
+
+Those changes are made to these themes:
+* Cleared font @import's from themes for performance
