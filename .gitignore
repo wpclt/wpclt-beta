@@ -91,6 +91,6 @@ wp-content/*
 !wp-content/plugins/wpclt-presentations/
 !wp-content/plugins/wpclt-events/
 !wp-content/themes/wpclt/
-  
+
 # ignore node/grunt dependency directories
 node_modules/
