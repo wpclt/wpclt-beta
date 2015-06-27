@@ -1,0 +1,10 @@
+Fix bug for wp customizer:
+
+
+in bootstrap-formhelpers.min.js file
+
+find:
+.ready(function(){
+
+replace:
+.on('ready', function(){
