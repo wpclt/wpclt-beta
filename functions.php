@@ -93,6 +93,50 @@ function wpclt_widgets_init() {
 		'before_title'  => '<h1 class="widget-title">',
 		'after_title'   => '</h1>',
 	) );
+
+	register_sidebar( array(
+		'name' => ( 'Footer #1' ),
+		'id' => 'footer-widget-1',
+		'description'   => 'Footer #1',
+		'class'         => '',
+		'before_widget' => '<div id="%1$s" class="widget %2$s">',
+		'after_widget' => '</div>',
+		'before_title' => '<h6 class="widget-title"> ',
+		'after_title' => ' </h6>',
+	) );
+
+	register_sidebar( array(
+		'name' => ( 'Footer #2' ),
+		'id' => 'footer-widget-21',
+		'description'   => 'Footer #2',
+		'class'         => '',
+		'before_widget' => '<div id="%1$s" class="widget %2$s">',
+		'after_widget' => '</div>',
+		'before_title' => '<h6 class="widget-title"> ',
+		'after_title' => ' </h6>',
+	) );
+
+	register_sidebar( array(
+		'name' => ( 'Footer #3' ),
+		'id' => 'footer-widget-3',
+		'description'   => 'Footer #3',
+		'class'         => '',
+		'before_widget' => '<div id="%1$s" class="widget %2$s">',
+		'after_widget' => '</div>',
+		'before_title' => '<h6 class="widget-title"> ',
+		'after_title' => ' </h6>',
+	) );
+
+	register_sidebar( array(
+		'name' => ( 'Footer #4' ),
+		'id' => 'footer-widget-4',
+		'description'   => 'Footer #4',
+		'class'         => '',
+		'before_widget' => '<div id="%1$s" class="widget %2$s">',
+		'after_widget' => '</div>',
+		'before_title' => '<h6 class="widget-title"> ',
+		'after_title' => ' </h6>',
+	) );
 }
 add_action( 'widgets_init', 'wpclt_widgets_init' );
 

@@ -8,16 +8,19 @@
  */
 ?>
 
-	</div><!-- main container end -->
-</div><!-- page end -->
-<!-- FOOTER -->
-
-<footer>
-	<div class="container_main"></div>
+		</div><!-- main container end -->
+	</div><!-- page end -->
+	<!-- FOOTER -->
 	<div class="clearfix"></div>
-</footer>
+	<div class="container">
+		<footer>
+			<div class="col-md-4"><?php dynamic_sidebar( 'footer-widget-1' ); ?></div>
+			<div class="col-md-4"><?php dynamic_sidebar( 'footer-widget-2' ); ?></div>
+			<div class="col-md-4"><?php dynamic_sidebar( 'footer-widget-3' ); ?></div>
+			<div class="col-md-4"><?php dynamic_sidebar( 'footer-widget-4' ); ?></div>
+		</footer>
+	</div>
 
-<?php wp_footer(); ?>
-
-</body>
+	<?php wp_footer(); ?>
+	</body>
 </html>
