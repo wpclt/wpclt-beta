@@ -87,7 +87,7 @@ Thumbs.db
 # "themes" directory
 wp-content/*
 !wp-content/mu-plugins/
-!wp-content/plugins/
+!wp-content/plugins/wpclt*/
 !wp-content/themes/wpclt*/
  
 # ignore these plugins
