@@ -67,7 +67,6 @@ class WPCLT_Presentations {
 	 * @since    1.0.0
 	 */
 	public function __construct() {
-
 		$this->plugin_name = 'wpclt-presentations';
 		$this->version = '1.0.0';
 
@@ -75,7 +74,6 @@ class WPCLT_Presentations {
 		$this->set_locale();
 		$this->define_admin_hooks();
 		$this->define_public_hooks();
-
 	}
 
 	/**
@@ -95,7 +93,6 @@ class WPCLT_Presentations {
 	 * @access   private
 	 */
 	private function load_dependencies() {
-
 		/**
 		 * The class responsible for orchestrating the actions and filters of the
 		 * core plugin.
@@ -120,18 +117,12 @@ class WPCLT_Presentations {
 		require_once plugin_dir_path( dirname( __FILE__ ) ) . 'public/class-wpclt-presentations-public.php';
 
 		/**
-		 * Custom Post Type for WPCLT Presentations
-		 */
-		require_once plugin_dir_path( dirname( __FILE__ ) ) . 'public/class-wpclt-presentations-custom-post-type.php';
-
-		/**
 		 * Widget for WPCLT Presentations
 		 */
 		require_once plugin_dir_path( dirname( __FILE__ ) ) . 'public/class-wpclt-presentations-widget.php';
 
 
 		$this->loader = new WPCLT_Presentations_Loader();
-
 	}
 
 	/**
@@ -144,12 +135,10 @@ class WPCLT_Presentations {
 	 * @access   private
 	 */
 	private function set_locale() {
-
 		$plugin_i18n = new WPCLT_Presentations_i18n();
 		$plugin_i18n->set_domain( $this->get_plugin_name() );
 
 		$this->loader->add_action( 'plugins_loaded', $plugin_i18n, 'load_plugin_textdomain' );
-
 	}
 
 	/**
@@ -160,12 +149,10 @@ class WPCLT_Presentations {
 	 * @access   private
 	 */
 	private function define_admin_hooks() {
-
 		$plugin_admin = new WPCLT_Presentations_Admin( $this->get_plugin_name(), $this->get_version() );
 
 		$this->loader->add_action( 'admin_enqueue_scripts', $plugin_admin, 'enqueue_styles' );
 		$this->loader->add_action( 'admin_enqueue_scripts', $plugin_admin, 'enqueue_scripts' );
-
 	}
 
 	/**
@@ -176,13 +163,18 @@ class WPCLT_Presentations {
 	 * @access   private
 	 */
 	private function define_public_hooks() {
-
 		$plugin_public = new WPCLT_Presentations_Public( $this->get_plugin_name(), $this->get_version() );
 
 		$this->loader->add_action( 'wp_enqueue_scripts', $plugin_public, 'enqueue_styles' );
 		$this->loader->add_action( 'wp_enqueue_scripts', $plugin_public, 'enqueue_scripts' );
 		$this->loader->add_action( 'init', $plugin_public, 'custom_post_types' );
 
+		$this->loader->add_action( 'show_user_profile', $plugin_public, 'wpclt_er_extra_user_profile_fields' );
+		$this->loader->add_action( 'edit_user_profile', $plugin_public, 'wpclt_er_extra_user_profile_fields' );
+		$this->loader->add_action( 'personal_options_update', $plugin_public, 'wpclt_er_save_extra_user_profile_fields' );
+		$this->loader->add_action( 'edit_user_profile_update', $plugin_public, 'wpclt_er_save_extra_user_profile_fields' );
+
+		$this->loader->add_action( 'add_meta_boxes', $plugin_public, 'wpclt_presentation_metabox' );
 	}
 
 	/**
