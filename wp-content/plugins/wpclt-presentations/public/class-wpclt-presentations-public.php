@@ -94,7 +94,6 @@ class WPCLT_Presentations_Public {
 		 * between the defined hooks and the functions defined in this
 		 * class.
 		 */
-
 		wp_enqueue_script( $this->plugin_name, plugin_dir_url( __FILE__ ) . 'js/wpclt-presentations-public.js', array( 'jquery' ), $this->version, false );
 	}
 
@@ -123,7 +122,7 @@ class WPCLT_Presentations_Public {
 			<input type="text" name="wpclt_presentation_meetup_com_event_link" id="wpclt_presentation_meetup_com_event_link" value="<?php echo presentation_get_meta( 'wpclt_presentation_meetup_com_event_link' ); ?>">
 		</p>	<p>
 			<label for="wpclt_presentation_date_time"><?php _e( 'Date & Time', 'presentation' ); ?></label><br>
-			<input type="text" name="wpclt_presentation_date_time" id="wpclt_presentation_date_time" value="<?php echo presentation_get_meta( 'wpclt_presentation_date_time' ); ?>">
+			<input type="text" name="wpclt_presentation_date_time" id="wpclt_presentation_date_time" class="wpclt-presentations-date-picker" value="<?php echo presentation_get_meta( 'wpclt_presentation_date_time' ); ?>">
 		</p>
 		<p>
 			<input type="checkbox" name="wpclt_presentation_wp_categories" id="wpclt_presentation_wp_categories" value="wp-categories" <?php echo ( presentation_get_meta( 'wpclt_presentation_wp_categories' ) === 'wp-categories' ) ? 'checked' : ''; ?>>

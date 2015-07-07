@@ -73,8 +73,9 @@ class WPCLT_Presentations_Admin {
 		 * class.
 		 */
 
+		wp_register_script('jquery-ui', '//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css');
+		wp_enqueue_style( 'jquery-ui' );
 		wp_enqueue_style( $this->plugin_name, plugin_dir_url( __FILE__ ) . 'css/wpclt-presentations-admin.css', array(), $this->version, 'all' );
-
 	}
 
 	/**
@@ -95,8 +96,12 @@ class WPCLT_Presentations_Admin {
 		 * between the defined hooks and the functions defined in this
 		 * class.
 		 */
+		wp_register_script( 'jquery-ui-js', ( 'https://code.jquery.com/ui/1.11.4/jquery-ui.js' ), false, null, true );
+		wp_enqueue_script( 'jquery-ui-js' );
 
-		wp_enqueue_script( $this->plugin_name, plugin_dir_url( __FILE__ ) . 'js/wpclt-presentations-admin.js', array( 'jquery' ), $this->version, false );
+		wp_register_script( 'wpclt-presentations-admin', ( plugin_dir_url( __FILE__ ) . 'js/wpclt-presentations-admin.js' ), false, null, true );
+		wp_enqueue_script( 'wpclt-presentations-admin' );
+		//wp_enqueue_script( $this->plugin_name, plugin_dir_url( __FILE__ ) . 'js/wpclt-presentations-admin.js', array( 'jquery' ), $this->version, false );
 
 	}
 
