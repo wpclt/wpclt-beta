@@ -97,74 +97,6 @@ class WPCLT_Presentations_Public {
 		wp_enqueue_script( $this->plugin_name, plugin_dir_url( __FILE__ ) . 'js/wpclt-presentations-public.js', array( 'jquery' ), $this->version, false );
 	}
 
-	public static function test() {
-
-	}
-
-	public function wpclt_presentation_metabox() {
-		add_meta_box( 'wpclt-presentations-metabox', 'Presentation Options', array(&$this, 'wpclt_presentation_metabox_html'), 'wpclt-presentations', 'side', 'default');
-	}
-
-	public function wpclt_presentation_metabox_html() {
-		//wp_die('html');
-		//wp_nonce_field( '_wpclt_presentation_nonce', 'wpclt_presentation_nonce' ); ?>
-
-		<p>Options for Presentation</p>
-		<p>
-			<label for="wpclt_presentation_presenter"><?php _e( 'Presenter', 'presentation' ); ?></label><br>
-			<select name="wpclt_presentation_presenter" id="wpclt_presentation_presenter">
-				<option <?php echo (presentation_get_meta( 'wpclt_presentation_presenter' ) === 'Jamie Bowman' ) ? 'selected' : '' ?>>Jamie Bowman</option>
-				<option <?php echo (presentation_get_meta( 'wpclt_presentation_presenter' ) === 'Brett Bumeter' ) ? 'selected' : '' ?>>Brett Bumeter</option>
-				<option <?php echo (presentation_get_meta( 'wpclt_presentation_presenter' ) === 'Test' ) ? 'selected' : '' ?>>Test</option>
-			</select>
-		</p>	<p>
-			<label for="wpclt_presentation_meetup_com_event_link"><?php _e( 'Meetup.com Event Link', 'presentation' ); ?></label><br>
-			<input type="text" name="wpclt_presentation_meetup_com_event_link" id="wpclt_presentation_meetup_com_event_link" value="<?php echo presentation_get_meta( 'wpclt_presentation_meetup_com_event_link' ); ?>">
-		</p>	<p>
-			<label for="wpclt_presentation_date_time"><?php _e( 'Date & Time', 'presentation' ); ?></label><br>
-			<input type="text" name="wpclt_presentation_date_time" id="wpclt_presentation_date_time" class="wpclt-presentations-date-picker" value="<?php echo presentation_get_meta( 'wpclt_presentation_date_time' ); ?>">
-		</p>
-		<p>
-			<input type="checkbox" name="wpclt_presentation_wp_categories" id="wpclt_presentation_wp_categories" value="wp-categories" <?php echo ( presentation_get_meta( 'wpclt_presentation_wp_categories' ) === 'wp-categories' ) ? 'checked' : ''; ?>>
-			<label for="wpclt_presentation_wp_categories"><?php _e( 'WP Categories', 'presentation' ); ?></label>	</p>	<p>
-			<label for="wpclt_presentation_picture"><?php _e( 'Picture', 'presentation' ); ?></label><br>
-			<input type="text" name="wpclt_presentation_picture" id="wpclt_presentation_picture" value="<?php echo presentation_get_meta( 'wpclt_presentation_picture' ); ?>">
-		</p>
-		<p>
-			<label for="wpclt_presentation_presentation_file_1"><?php _e( 'Presentation File #1', 'presentation' ); ?></label><br>
-			<input type="text" name="wpclt_presentation_presentation_file_1" id="wpclt_presentation_presentation_file_1" value="<?php echo presentation_get_meta( 'wpclt_presentation_presentation_file_1' ); ?>">
-		</p>
-		<p>
-		<label for="wpclt_presentation_presentation_file_2"><?php _e( 'Presentation File #2', 'presentation' ); ?></label><br>
-		<input type="text" name="wpclt_presentation_presentation_file_2" id="wpclt_presentation_presentation_file_2" value="<?php echo presentation_get_meta( 'wpclt_presentation_presentation_file_2' ); ?>">
-		</p>
-	<?php
-	}
-
-	public function wpclt_presentation_metabox_html_save( $post_id ) {
-		wp_die("saving...");
-		if ( defined( 'DOING_AUTOSAVE' ) && DOING_AUTOSAVE ) return;
-		if ( ! isset( $_POST['wpclt_presentation_nonce'] ) || ! wp_verify_nonce( $_POST['wpclt_presentation_nonce'], '_wpclt_presentation_nonce' ) ) return;
-		if ( ! current_user_can( 'edit_post' ) ) return;
-
-		if ( isset( $_POST['wpclt_presentation_presenter'] ) )
-			update_post_meta( $post_id, 'wpclt_presentation_presenter', esc_attr( $_POST['wpclt_presentation_presenter'] ) );
-		if ( isset( $_POST['wpclt_presentation_meetup_com_event_link'] ) )
-			update_post_meta( $post_id, 'wpclt_presentation_meetup_com_event_link', esc_attr( $_POST['wpclt_presentation_meetup_com_event_link'] ) );
-		if ( isset( $_POST['wpclt_presentation_date_time'] ) )
-			update_post_meta( $post_id, 'wpclt_presentation_date_time', esc_attr( $_POST['wpclt_presentation_date_time'] ) );
-		if ( isset( $_POST['wpclt_presentation_wp_categories'] ) )
-			update_post_meta( $post_id, 'wpclt_presentation_wp_categories', esc_attr( $_POST['wpclt_presentation_wp_categories'] ) );
-		else
-			update_post_meta( $post_id, 'wpclt_presentation_wp_categories', null );
-		if ( isset( $_POST['wpclt_presentation_picture'] ) )
-			update_post_meta( $post_id, 'wpclt_presentation_picture', esc_attr( $_POST['wpclt_presentation_picture'] ) );
-		if ( isset( $_POST['wpclt_presentation_presentation_file_1'] ) )
-			update_post_meta( $post_id, 'wpclt_presentation_presentation_file_1', esc_attr( $_POST['wpclt_presentation_presentation_file_1'] ) );
-		if ( isset( $_POST['wpclt_presentation_presentation_file_2'] ) )
-			update_post_meta( $post_id, 'wpclt_presentation_presentation_file_2', esc_attr( $_POST['wpclt_presentation_presentation_file_2'] ) );
-	}
-
 	public function custom_post_types() {
 		// Set UI labels for Custom Post Type
 		$labels = array(
@@ -214,87 +146,17 @@ class WPCLT_Presentations_Public {
 		// Registering your Custom Post Type
 		register_post_type( 'wpclt-presentations', $args );
 
-
-		/**
-		 * Custom Meta Boxes
-		 * Meetup.com Link, Look Up Presenter, Date & Time, Location
-		 */
-		/**
-		 * Generated by the WordPress Meta Box generator
-		 * at http://jeremyhixon.com/wp-tools/meta-box/
-		 */
-
-		function presentation_get_meta( $value ) {
+		function presentation_get_meta( $value )
+		{
 			global $post;
 
-			$field = get_post_meta( $post->ID, $value, true );
-			if ( ! empty( $field ) ) {
-				return is_array( $field ) ? stripslashes_deep( $field ) : stripslashes( wp_kses_decode_entities( $field ) );
+			$field = get_post_meta($post->ID, $value, true);
+			if (!empty($field)) {
+				return is_array($field) ? stripslashes_deep($field) : stripslashes(wp_kses_decode_entities($field));
 			} else {
 				return false;
 			}
 		}
 
-		function presentation_add_meta_box() {
-			add_meta_box(
-				'presentation-presentation',
-				__( 'Presentation', 'presentation' ),
-				'wpclt_presentation_html',
-				'post',
-				'normal',
-				'high'
-			);
-		}
-
-		add_action( 'add_meta_boxes', 'presentation_add_meta_box' );
-
-		function query_user_metadata() {
-			// add_user_meta( $user_id, $meta_key, $meta_value, $unique );
-			$args = array(
-				'meta_key'     => 'Presenter',
-				'meta_value'   => '1'
-			);
-			$presenters = get_users( $args );
-
-			//wp_die("Presenters: " . var_dump($presenters));
-		}
-		query_user_metadata();
-
-		add_action( 'save_post', array(&$this, 'wpclt_presentation_save' ));
-
-		/*
-            Usage: presentation_get_meta( 'wpclt_presentation_presenter' )
-            Usage: presentation_get_meta( 'wpclt_presentation_meetup_com_event_link' )
-            Usage: presentation_get_meta( 'wpclt_presentation_date_time' )
-            Usage: presentation_get_meta( 'wpclt_presentation_wp_categories' )
-            Usage: presentation_get_meta( 'wpclt_presentation_picture' )
-            Usage: presentation_get_meta( 'wpclt_presentation_presentation_file_1' )
-            Usage: presentation_get_meta( 'wpclt_presentation_presentation_file_2' )
-        */
-
 	}
-
-	function wpclt_er_save_extra_user_profile_fields( $user_id )
-	{
-		if ( !current_user_can( 'edit_user', $user_id ) || !is_admin() ) { return false; }
-		$post_value = $_POST['wpclt_presenter'] == 'on' ? 1 : 0;
-		$result = update_user_meta( $user_id, 'wpclt_presenter', $post_value );
-		//wp_die ('Result: ' . $result);
-	}
-
-	function wpclt_er_extra_user_profile_fields( $user )
-	{ ?>
-		<h3>WPCLT Settings</h3>
-		<table class="form-table">
-			<tr>
-				<th><label for="wpclt_presenter">Presenter</label></th>
-				<td>
-					<input type="checkbox" id="wpclt_presenter" name="wpclt_presenter" <?php echo (esc_attr(  get_the_author_meta( 'wpclt_presenter', $user->ID) ) == '1' ? 'checked' : ''); ?> <?php if (!current_user_can( 'manage_options' )) { echo "disabled"; } ?> />
-					<span class="description">Select whether this person is a presenter at the local meet ups.</span>
-				</td>
-			</tr>
-		</table>
-	<?php
-	}
-
 }

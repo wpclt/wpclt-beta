@@ -153,6 +153,17 @@ class WPCLT_Presentations {
 
 		$this->loader->add_action( 'admin_enqueue_scripts', $plugin_admin, 'enqueue_styles' );
 		$this->loader->add_action( 'admin_enqueue_scripts', $plugin_admin, 'enqueue_scripts' );
+
+		$this->loader->add_action( 'show_user_profile', $plugin_admin, 'wpclt_er_extra_user_profile_fields' );
+		$this->loader->add_action( 'edit_user_profile', $plugin_admin, 'wpclt_er_extra_user_profile_fields' );
+		$this->loader->add_action( 'personal_options_update', $plugin_admin, 'wpclt_er_save_extra_user_profile_fields' );
+		$this->loader->add_action( 'edit_user_profile_update', $plugin_admin, 'wpclt_er_save_extra_user_profile_fields' );
+
+		$this->loader->add_action( 'add_meta_boxes', $plugin_admin, 'wpclt_presentation_metabox' );
+		$this->loader->add_action( 'save_post', $plugin_admin, 'wpclt_presentation_metabox_html_save' );
+
+		$this->loader->add_action( 'manage_users_columns', $plugin_admin, 'wpclt_users_admin_presenter_column' );
+		$this->loader->add_action( 'manage_users_custom_column', $plugin_admin, 'wpclt_users_admin_presenter_column_content', 10, 3);
 	}
 
 	/**
@@ -168,13 +179,6 @@ class WPCLT_Presentations {
 		$this->loader->add_action( 'wp_enqueue_scripts', $plugin_public, 'enqueue_styles' );
 		$this->loader->add_action( 'wp_enqueue_scripts', $plugin_public, 'enqueue_scripts' );
 		$this->loader->add_action( 'init', $plugin_public, 'custom_post_types' );
-
-		$this->loader->add_action( 'show_user_profile', $plugin_public, 'wpclt_er_extra_user_profile_fields' );
-		$this->loader->add_action( 'edit_user_profile', $plugin_public, 'wpclt_er_extra_user_profile_fields' );
-		$this->loader->add_action( 'personal_options_update', $plugin_public, 'wpclt_er_save_extra_user_profile_fields' );
-		$this->loader->add_action( 'edit_user_profile_update', $plugin_public, 'wpclt_er_save_extra_user_profile_fields' );
-
-		$this->loader->add_action( 'add_meta_boxes', $plugin_public, 'wpclt_presentation_metabox' );
 	}
 
 	/**
