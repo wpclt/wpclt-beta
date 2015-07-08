@@ -127,6 +127,7 @@ class WPCLT_Presentations_Admin
 		$users = $user_query->get_results();
 
 		//var_dump ($users);
+		$presenter_value = presentation_get_meta('wpclt_presentation_presenter');
 		?>
 
 		<p>
@@ -134,9 +135,7 @@ class WPCLT_Presentations_Admin
 			<select name="wpclt_presentation_presenter" id="wpclt_presentation_presenter">
 				<option value=""></option>
 				<?php foreach ($users as $user) { ?>
-					<option value="<?php echo $user->ID; ?>" <?php echo (presentation_get_meta('wpclt_presentation_presenter') === 'Jamie Bowman') ? 'selected' : '' ?>>
-						<?php echo $user->display_name; ?>
-					</option>
+					<option value="<?php echo $user->ID; ?>" <?php echo ($presenter_value == $user->ID) ? 'selected' : ''; ?>><?php echo $user->display_name; ?></option>
 				<?php } ?>
 			</select>
 		</p>    <p>
@@ -175,10 +174,8 @@ class WPCLT_Presentations_Admin
 	<?php
 	}
 
-	public function wpclt_presentation_metabox_html_save( $post )
+	public function wpclt_presentation_metabox_html_save( $post_id )
 	{
-		wp_die("saving...");
-		/*
 		if (defined('DOING_AUTOSAVE') && DOING_AUTOSAVE) return;
 		if (!isset($_POST['wpclt_presentation_nonce']) || !wp_verify_nonce($_POST['wpclt_presentation_nonce'], '_wpclt_presentation_nonce')) return;
 		if (!current_user_can('edit_post')) return;
@@ -199,7 +196,6 @@ class WPCLT_Presentations_Admin
 			update_post_meta($post_id, 'wpclt_presentation_presentation_file_1', esc_attr($_POST['wpclt_presentation_presentation_file_1']));
 		if (isset($_POST['wpclt_presentation_presentation_file_2']))
 			update_post_meta($post_id, 'wpclt_presentation_presentation_file_2', esc_attr($_POST['wpclt_presentation_presentation_file_2']));
-		*/
 	}
 
 	function wpclt_users_admin_presenter_column( $columns ) {
