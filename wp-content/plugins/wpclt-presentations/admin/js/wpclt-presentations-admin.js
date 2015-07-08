@@ -29,6 +29,11 @@
 	 * be doing this, we should try to minimize doing that in our own work.
 	 */
 
-	$(".wpclt-presentations-date-picker").datepicker();
+
+	$(".wpclt-presentations-date-picker").datetimepicker({
+		controlType: 'select',
+		oneLine: true,
+		timeFormat: 'hh:mm tt'
+	});
 
 })( jQuery );

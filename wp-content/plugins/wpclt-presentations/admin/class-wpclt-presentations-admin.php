@@ -76,6 +76,9 @@ class WPCLT_Presentations_Admin {
 		wp_register_style('jquery-ui-css', '//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css');
 		wp_enqueue_style( 'jquery-ui-css' );
 		wp_enqueue_style( $this->plugin_name, plugin_dir_url( __FILE__ ) . 'css/wpclt-presentations-admin.css', array(), $this->version, 'all' );
+
+		wp_register_style('jquery-ui-timepicker-css', plugin_dir_url( __FILE__ ) . 'css/jquery-ui-timepicker-addon.css');
+		wp_enqueue_style( 'jquery-ui-timepicker-css' );
 	}
 
 	/**
@@ -98,6 +101,9 @@ class WPCLT_Presentations_Admin {
 		 */
 		wp_register_script( 'jquery-ui-js', ( 'https://code.jquery.com/ui/1.11.4/jquery-ui.js' ), false, null, true );
 		wp_enqueue_script( 'jquery-ui-js' );
+
+		wp_register_script( 'jquery-timepicker-js', ( plugin_dir_url( __FILE__ ) . 'js/jquery-ui-timepicker-addon.js' ), false, null, true );
+		wp_enqueue_script( 'jquery-timepicker-js' );
 
 		wp_register_script( 'wpclt-presentations-admin', ( plugin_dir_url( __FILE__ ) . 'js/wpclt-presentations-admin.js' ), false, null, true );
 		wp_enqueue_script( 'wpclt-presentations-admin' );
