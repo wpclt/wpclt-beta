@@ -98,6 +98,10 @@ class WPCLT_Presentations_Public {
 	}
 
 	public function custom_post_types() {
+		// custom image size
+		add_theme_support('post-thumbnails');
+		add_image_size( 'WPCLT Presentation', 1200, 400, true);
+
 		// Set UI labels for Custom Post Type
 		$labels = array(
 			'name'                => _x( 'Presentations', 'Post Type General Name', 'twentythirteen' ),
@@ -141,6 +145,7 @@ class WPCLT_Presentations_Public {
 			'exclude_from_search' => false,
 			'publicly_queryable'  => true,
 			'capability_type'     => 'page',
+			'rewrite' => array('slug' => 'presentations')
 		);
 
 		// Registering your Custom Post Type
