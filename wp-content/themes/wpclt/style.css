@@ -41,6 +41,11 @@ wpclt is based on Underscores http://underscores.me/, (C) 2012-2015 Automattic, 
 	border: 1px green dashed;
 }
 
+.header-spacer {
+	clear: both;
+	height: 125px;
+}
+
 /*--------------------------------------------------------------
 ## Footer
 --------------------------------------------------------------*/
