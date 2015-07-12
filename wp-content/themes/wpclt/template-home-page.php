@@ -4,9 +4,12 @@
  */
 get_header(); ?>
 <div class="container-full bg-pic-wordcamp">
-
     <div class="wide-text-bar text-bar-grey">
-        <h2>WPCLT  is an easy way to learn, network and expand your knowledge of WordPress.</h2>
+        <h2>WPCLT  is an easy way to learn, network and<br /> expand your knowledge of WordPress.</h2>
+    </div>
+    <div class="presentations-list">
+
+
     </div>
 </div>
 <div class="container">
