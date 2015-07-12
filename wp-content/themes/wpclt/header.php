@@ -53,6 +53,7 @@
 			</div>
 		</div>
 	</div>
+	<div class="header-spacer"></div>
 
 	<div class="container">
 		<div class="row" style="height: 75px; clear: both;"></div>
