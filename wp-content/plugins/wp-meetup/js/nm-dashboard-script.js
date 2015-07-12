@@ -1,0 +1,2 @@
+(function(){jQuery(function(){return jQuery(".nm-postbox-container").length>0&&jQuery("body").addClass("nm-admin-page"),jQuery(".nm-postbox-container .handlediv, .nm-postbox-container .hndle").on("click",function(n){return n.preventDefault(),jQuery(this).parent().toggleClass("closed")})})}).call(this);
+//# sourceMappingURL=./nm-dashboard-script.map

@@ -1,0 +1,46 @@
+/* 
+    Created on : Apr 28, 2014, 4:05:07 PM
+    Author     : Adamson
+*/
+
+@import "nm-dashboard-style.scss";
+.clear {
+    clear: both;
+    float: none;
+}
+
+.one-half {
+    width: 50%;
+    float: left;
+}
+
+.two-fifths {
+    width: 40%;
+    float: left;
+    padding: 0 50px 0 0;
+}
+
+.three-fifths {
+    width: 60%;
+    float: left;
+    padding: 0 20px 0 0;
+}
+
+.wpm-events-table {
+    border-collapse: collapse;
+    th, td {
+        text-align: left;
+        padding: 3px;
+    }
+    td {
+        min-width: 10%;
+    }
+    thead {
+        border-bottom: solid 1px #aaa;
+    }
+    tbody {
+        tr:nth-child(even) {
+            background: #ddd;
+        }
+    }
+}

@@ -1,0 +1,182 @@
+// Version 1.1
+$teal: #06C69F;
+$dark-teal: #049477;
+
+$tab-color-bg: #fff;
+$tab-color-bg-hover: $dark-teal; //#049477;
+$tab-color-bg-active: $teal;
+$tab-color-text: #000;
+$tab-color-text-hover: #fff;
+$tab-color-text-active: #000;
+
+
+// ----- Layout and structure
+.tabs-container {
+	overflow: hidden;
+	.tab {
+		float: left;
+		a {
+			display: block;
+		}
+	}
+}
+
+
+// ----- Colors
+.tabs-container {
+	.tab {
+		a {
+			background: $tab-color-bg;
+			color: $tab-color-text;
+			&:hover {
+				background: $tab-color-bg-hover;
+				color: $tab-color-text-hover;
+			}
+		}
+		&.active {
+			a {
+				background: $tab-color-bg-active;
+				color: $tab-color-text-active;
+                font-weight: 900;
+			}
+		}
+	}
+}
+
+
+// ----- Lengths (paddings, margins, etc)
+.tabs-container {
+	.tab {
+		a {
+			padding: 10px 15px;
+		}
+	}
+}
+
+
+// ----- Typography (font sizes, text styles, etc)
+.tabs-container {
+	.tab {
+		a {
+			text-decoration: none;
+		}
+	}
+}
+
+
+
+
+
+
+
+// misc
+.nm-postbox-container {
+	.postbox {
+		h3 {
+			cursor: pointer !important;
+		}
+	}
+}
+
+.nm-admin-page {
+	* {
+		box-sizing: border-box;
+	}
+	.content-container,
+	.sidebar-container {
+		padding: 20px;
+		float: left;
+		overflow: hidden;
+	}
+
+	.content-container {
+		width: 70%;
+		padding-left: 0;
+	}
+	.sidebar-container {
+		width: 30%;
+	}
+    .hndle {
+        background: #06c69f;
+    }
+    .handlediv {
+        color: #000;
+    }
+}
+
+.nm-support-staff-submit {
+    margin-top: 10px !important;
+    margin-left: 5% !important;
+}
+.nm-support-staff-checkbox {
+    float: left;
+    width: 5%;
+}
+.nm-support-staff-label {
+    float: left;
+    width: 95%;
+}
+
+.nm-social-media-links-container {
+    padding: 10px 20px;
+}
+
+.nm-logo {
+    img {
+        width: 100%;
+    }
+}
+
+.nm-support-prompt {
+    .nm-support-staff-form {
+        width: 90%;
+        float: left;
+        .nm-support-staff-prompt-checkbox{
+            width: 5%;
+            float: left;
+            margin: 10px auto;
+            padding: 15px;
+        }
+        .nm-support-staff-prompt-label {
+            width: 50%;
+            float: left;
+            padding: 15px;
+            a {
+                color: darkblue;
+            }
+        }
+        .nm-support-staff-prompt-submit {
+            margin: 30px auto;
+            float: left;
+        }
+    }
+    .nm-support-staff-prompt-exit {
+        width: 10%;
+        float: right;
+        text-align: right;
+    }
+}
+
+.nm-error {
+    width: 60%;
+    background: #66AAAA;
+    border-left: solid 10px #fff;
+    color: #fff;
+    margin: 10px;
+}
+
+
+.one-half {
+    width: 50%;
+    float: left;
+}
+
+.one-fourth {
+    width: 25%;
+    float:left;
+}
+
+.three-fourths {
+    width: 75%;
+    float: left;
+}
